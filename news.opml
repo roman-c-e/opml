@@ -10,6 +10,7 @@
 			<outline text="Spain: TheLocal" title="Spain: TheLocal" description="" xmlUrl="https://feeds.thelocal.com/rss/es" type="rss" />
 		</outline>
 		<outline text="AT" title="AT">
+			<outline text="AT: ORF" title="AT: ORF" description="" xmlUrl="https://rss.orf.at/news.xml" type="rss" />
 			<outline text="AT: DerStandard: DieStandard" title="AT: DerStandard: DieStandard" description="" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
 			<outline text="AT: DerStandard: International" title="AT: DerStandard: International" description="" xmlUrl="https://www.derstandard.at/rss/international" type="rss" />
 			<outline text="AT: DerStandard: Inland" title="AT: DerStandard: Inland" description="" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
@@ -20,7 +21,7 @@
 			<outline text="DE: ZEIT" title="DE: ZEIT" description="Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT.de. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie bei der ZEIT. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport – die ZEIT. Aktuelle News, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE." xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
 			<outline text="DE: FOCUS" title="DE: FOCUS" description="FOCUS Online - minutenaktuelle Nachrichten und Service-Informationen." xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" type="rss" />
 			<outline text="DE: FAZ: Aktuell" title="DE: FAZ: Aktuell" description="News, Nachrichten und aktuelle Meldungen aus allen Ressorts. Politik, Wirtschaft, Sport, Feuilleton und Finanzen im Überblick." xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
-			<outline text="DE: Tagesschau" title="DE: Tagesschau" description="tagesschau.de" xmlUrl="http://www.tagesschau.de/xml/rss2" type="rss" />
+			<outline text="DE: Tagesschau" title="DE: Tagesschau" description="" xmlUrl="http://www.tagesschau.de/xml/rss2" type="rss" />
 			<outline text="DE: Deutsche Welle" title="DE: Deutsche Welle" description="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
@@ -42,7 +43,7 @@
 			<outline text="US: HuffPost: World" title="US: HuffPost: World" description="Catch up on the latest World News news, photos, videos, and opinion." xmlUrl="https://www.huffpost.com/section/world-news/feed" type="rss" />
 			<outline text="US: NYT: World" title="US: NYT: World" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
 			<outline text="US: NYT: Top" title="US: NYT: Top" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
-			<outline text="US: FOX" title="US: FOX" description="FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports." xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
+			<outline text="US: FOX" title="US: FOX" description="" xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
 			<outline text="US: WashingtonPost: World" title="US: WashingtonPost: World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
 			<outline text="US: WSJ: World" title="US: WSJ: World" description="World News" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" type="rss" />
 			<outline text="US: LATimes" title="US: LATimes" description="Nation and World articles from the Los Angeles Times." xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />

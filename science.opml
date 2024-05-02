@@ -2,6 +2,7 @@
 <opml version="1.0">
 	<body>
 		<outline text="Science" title="Science">
+			<outline text="Science: ORF" title="Science: ORF" description="" xmlUrl="https://rss.orf.at/science.xml" type="rss" />
 			<outline text="Science: DerStandard" title="Science: DerStandard" description="" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
 			<outline text="Science: Heise" title="Science: Heise" description="" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
 			<outline text="Science: BBC: Science & Environment" title="Science: BBC: Science & Environment" description="BBC News - Science & Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" type="rss" />
