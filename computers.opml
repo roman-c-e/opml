@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Export from Plenary</title>
+		<url>https://play.google.com/store/apps/details?id=com.spians.plenary</url>
+		<ownerName>Spians Labs</ownerName>
+		<ownerEmail>info@spianslabs.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="Apple" title="Apple">
+			<outline text="9to5Mac" title="9to5Mac" description="Apple News & Mac Rumors Breaking All Day" xmlUrl="https://9to5mac.com/feed" type="rss" />
+			<outline text="Apple" title="Apple" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
+			<outline text="Apple Newsroom" title="Apple Newsroom" description="" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
+			<outline text="AppleInsider News" title="AppleInsider News" description="AppleInsider News Feed" xmlUrl="https://appleinsider.com/rss/news/" type="rss" />
+			<outline text="Cult of Mac" title="Cult of Mac" description="Tech and culture through an Apple lens" xmlUrl="https://www.cultofmac.com/feed" type="rss" />
+			<outline text="Daring Fireball" title="Daring Fireball" description="By John Gruber" xmlUrl="https://daringfireball.net/feeds/main" type="rss" />
+			<outline text="MacRumors" title="MacRumors" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=macrumors" type="rss" />
+			<outline text="MacRumors: Mac News and Rumors - Mac Blog" title="MacRumors: Mac News and Rumors - Mac Blog" description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="http://feeds.macrumors.com/MacRumors-Mac" type="rss" />
+			<outline text="MacStories" title="MacStories" description="Apple news, app reviews, and stories by Federico Viticci and friends." xmlUrl="https://www.macstories.net/feed" type="rss" />
+			<outline text="Macworld.com" title="Macworld.com" description="Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
+			<outline text="Marco.org" title="Marco.org" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
+			<outline text="OS X Daily" title="OS X Daily" description="News, tips, software, reviews, and more for Mac OS X, iPhone, iPad" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
+			<outline text="The Loop" title="The Loop" description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
+			<outline text="The unofficial Apple community" title="The unofficial Apple community" description="An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way." xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
+			<outline text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" description="More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore." xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" type="rss" />
+			<outline text="r/iPhone" title="r/iPhone" description="Reddit’s corner for iPhone lovers (or those who mildly enjoy it...)" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
+		</outline>
+		<outline text="Android" title="Android">
+			<outline text="All About Android (Audio)" title="All About Android (Audio)" description="All About Android delivers everything you want to know about Android each week--the biggest news, freshest hardware, best apps and geekiest how-tos--with Android enthusiasts Jason Howell, Florence Ion, Ron Richards, and a variety of special guests along the way. Records live every Tuesday at 8:00pm Eastern / 5:00pm Pacific / 00:00 (Wed) UTC." xmlUrl="https://feeds.twit.tv/aaa.xml" type="rss" />
+			<outline text="Android" title="Android" description="Android" xmlUrl="https://blog.google/products/android/rss" type="rss" />
+			<outline text="Android" title="Android" description="Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!" xmlUrl="https://www.reddit.com/r/android/.rss" type="rss" />
+			<outline text="Android Authority" title="Android Authority" description="Android News, Reviews, How To" xmlUrl="https://www.androidauthority.com/feed" type="rss" />
+			<outline text="Android Authority" title="Android Authority" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority" type="rss" />
+			<outline text="Android Authority Podcast" title="Android Authority Podcast" description="The Android Authority Podcast – discussing topics in Android every week.
+
+The Android Authority Podcast brings you all the top stories and features based on your favorite mobile operating system: Android. We help make Android more accessible to all, and dive deeper into the details when we can, there's something in here for everyone.
+
+Check out androidauthority.com for all the best news and reviews for your favorite phones and tablets, then join our community forums to join in on the discussion. Don't forget to hit our YouTube channel for even more." xmlUrl="https://androidauthority.libsyn.com/rss" type="rss" />
+			<outline text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" description="" xmlUrl="http://feeds.androidcentral.com/androidcentral" type="rss" />
+			<outline text="Android Central Podcast" title="Android Central Podcast" description="The Android and Google Podcast for Everyone. Hosted by Daniel Bader." xmlUrl="http://feeds.feedburner.com/AndroidCentralPodcast" type="rss" />
+			<outline text="Android Community" title="Android Community" description="Android News, Reviews, and Apps" xmlUrl="https://androidcommunity.com/feed/" type="rss" />
+			<outline text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" description="Looking after everything Android" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
+			<outline text="AndroidGuys" title="AndroidGuys" description="Android news and opinion" xmlUrl="https://www.androidguys.com/feed" type="rss" />
+			<outline text="Cult of Android" title="Cult of Android" description="Breaking news for Android fans" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
+			<outline text="Cyanogen Mods" title="Cyanogen Mods" description="Mod APK | GCam | LineageOS" xmlUrl="https://www.cyanogenmods.org/feed" type="rss" />
+			<outline text="Droid Life" title="Droid Life" description="Opinionated Android news." xmlUrl="https://www.droid-life.com/feed" type="rss" />
+			<outline text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" description="GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order." xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" type="rss" />
+			<outline text="Phandroid" title="Phandroid" description="Android Phone News, Rumors, Reviews, Apps, Forums & More!" xmlUrl="http://feeds2.feedburner.com/AndroidPhoneFans" type="rss" />
+			<outline text="TalkAndroid" title="TalkAndroid" description="The latest in android news, rumours, and updates, including device news and apps!" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" type="rss" />
+			<outline text="xda-developers" title="xda-developers" description="Android and Windows Phone Development Community" xmlUrl="https://data.xda-developers.com/portal-feed" type="rss" />
+		</outline>
+        	<outline text="Programming" title="Programming">
+			<outline text="Better Programming - Medium" title="Better Programming - Medium" description="Advice for programmers. - Medium" xmlUrl="https://medium.com/feed/better-programming" type="rss" />
+			<outline text="Code as Craft" title="Code as Craft" description="The Engineering Blog from Etsy" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" />
+			<outline text="CodeNewbie" title="CodeNewbie" description="Stories and interviews from people on their coding journey." xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" type="rss" />
+			<outline text="Coding Horror" title="Coding Horror" description="programming and human factors" xmlUrl="https://feeds.feedburner.com/codinghorror" type="rss" />
+			<outline text="Complete Developer Podcast" title="Complete Developer Podcast" description="A podcast by coders for coders about all aspects of life as a developer." xmlUrl="https://completedeveloperpodcast.com/feed/podcast/" type="rss" />
+			<outline text="Dan Abramov's Overreacted Blog RSS Feed" title="Dan Abramov's Overreacted Blog RSS Feed" description="Personal blog by Dan Abramov. I explain with words and code." xmlUrl="https://overreacted.io/rss.xml" type="rss" />
+			<outline text="Developer Tea" title="Developer Tea" description="Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 13 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and Director of Engineering at PBS. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. Twitter: @developertea :: Email: developertea@gmail.com" xmlUrl="https://feeds.simplecast.com/dLRotFGk" type="rss" />
+			<outline text="English (US)" title="English (US)" description="Information from Twitter's engineering team about our tools, technology and services." xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" type="rss" />
+			<outline text="FLOSS Weekly (Audio)" title="FLOSS Weekly (Audio)" description="We're not talking dentistry here; FLOSS all about Free Libre Open Source Software. Join host Doc Searls and his rotating panel of co-hosts every Wednesday as they talk with the most interesting and important people in the Open Source and Free Software community. Records live every Wednesday at 12:30pm Eastern / 9:30am Pacific / 16:30 UTC." xmlUrl="https://feeds.twit.tv/floss.xml" type="rss" />
+			<outline text="Facebook Engineering" title="Facebook Engineering" description="Facebook Engineering Blog" xmlUrl="https://engineering.fb.com/feed/" type="rss" />
+			<outline text="GitLab" title="GitLab" description="" xmlUrl="https://about.gitlab.com/atom.xml" type="rss" />
+			<outline text="Google Developers Blog" title="Google Developers Blog" description="Blog of our latest news, updates, and stories for developers" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" />
+			<outline text="Google TechTalks" title="Google TechTalks" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks" type="rss" />
+			<outline text="HackerNoon.com - Medium" title="HackerNoon.com - Medium" description="Elijah McClain, George Floyd, Eric Garner, Breonna Taylor, Ahmaud Arbery, Michael Brown, Oscar Grant, Atatiana Jefferson, Tamir Rice, Bettie Jones, Botham Jean - Medium" xmlUrl="https://medium.com/feed/hackernoon" type="rss" />
+			<outline text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" description="Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists." xmlUrl="https://feeds.simplecast.com/gvtxUiIf" type="rss" />
+			<outline text="InfoQ" title="InfoQ" description="InfoQ feed" xmlUrl="https://feed.infoq.com" type="rss" />
+			<outline text="Instagram Engineering - Medium" title="Instagram Engineering - Medium" description="Stories from the people who build @Instagram - Medium" xmlUrl="https://instagram-engineering.com/feed/" type="rss" />
+			<outline text="Java, SQL and jOOQ." title="Java, SQL and jOOQ." description="Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ." xmlUrl="https://blog.jooq.org/feed" type="rss" />
+			<outline text="JetBrains Blog" title="JetBrains Blog" description="Developer Tools for Professionals and Teams" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
+			<outline text="Joel on Software" title="Joel on Software" description="" xmlUrl="https://www.joelonsoftware.com/feed/" type="rss" />
+			<outline text="LinkedIn Engineering" title="LinkedIn Engineering" description="The official blog of the Engineering team at LinkedIn" xmlUrl="https://engineering.linkedin.com/blog.rss.html" type="rss" />
+			<outline text="Martin Fowler" title="Martin Fowler" description="Master feed of news and updates from martinfowler.com" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
+			<outline text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" description="Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium" xmlUrl="https://netflixtechblog.com/feed" type="rss" />
+			<outline text="Overflow - Buffer Resources" title="Overflow - Buffer Resources" description="In-depth ideas and guides to social media & online marketing strategy, published by the team at Buffer" xmlUrl="https://buffer.com/resources/overflow/rss/" type="rss" />
+			<outline text="Podcast – Software Engineering Daily" title="Podcast – Software Engineering Daily" description="" xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" type="rss" />
+			<outline text="Posts on &> /dev/null" title="Posts on &> /dev/null" description="Recent content in Posts on &> /dev/null" xmlUrl="https://www.thirtythreeforty.net/posts/index.xml" type="rss" />
+			<outline text="Prezi Engineering - Medium" title="Prezi Engineering - Medium" description="The things we learn as we build our products - Medium" xmlUrl="https://engineering.prezi.com/feed" type="rss" />
+			<outline text="Programming Throwdown" title="Programming Throwdown" description="Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language." xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" type="rss" />
+			<outline text="Programming – The Crazy Programmer" title="Programming – The Crazy Programmer" description="Programming, Design and Development" xmlUrl="https://www.thecrazyprogrammer.com/category/programming/feed" type="rss" />
+			<outline text="Robert Heaton | Blog" title="Robert Heaton | Blog" description="Software engineer. One-track lover down a two-way lane" xmlUrl="https://robertheaton.com/feed.xml" type="rss" />
+			<outline text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" description="Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General" xmlUrl="http://feeds.hanselman.com/ScottHanselman" type="rss" />
+			<outline text="Scripting News" title="Scripting News" description="It's even worse than it appears." xmlUrl="http://scripting.com/rss.xml" type="rss" />
+			<outline text="Signal v. Noise" title="Signal v. Noise" description="Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of <a href="https://www.basecamp.com" target="_blank" rel="noopener">Basecamp</a>. Since 1999." xmlUrl="https://m.signalvnoise.com/feed/" type="rss" />
+			<outline text="Slack Engineering" title="Slack Engineering" description="" xmlUrl="https://slack.engineering/feed" type="rss" />
+			<outline text="Software Defined Talk" title="Software Defined Talk" description="A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including: Kubernetes, DevOps, Serverless, Security and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP) and the Cloud Native Computing Foundation (CNCF)." xmlUrl="https://feeds.fireside.fm/sdt/rss" type="rss" />
+			<outline text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" description="Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Every 10 days, a new episode is published that covers all topics software engineering. Episodes are either tutorials on a specific topic, or an interview with a well-known character from the software engineering world. All SE Radio episodes are original content — we do not record conferences or talks given in other venues. Each episode comprises two speakers to ensure a lively listening experience. SE Radio is an independent and non-commercial organization. All content is licensed under the Creative Commons 2.5 license." xmlUrl="http://feeds.feedburner.com/se-radio" type="rss" />
+			<outline text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" description="SoundCloud's developer blog." xmlUrl="https://developers.soundcloud.com/blog/blog.rss" type="rss" />
+			<outline text="Spotify Engineering" title="Spotify Engineering" description="Spotify’s official technology blog" xmlUrl="https://labs.spotify.com/feed/" type="rss" />
+			<outline text="Stack Abuse" title="Stack Abuse" description="Learn Python, Java, JavaScript/Node, Machine Learning, and Web Development through articles, code examples, and tutorials for developers of all skill levels." xmlUrl="https://stackabuse.com/rss/" type="rss" />
+			<outline text="Stack Overflow Blog" title="Stack Overflow Blog" description="Essays, opinions, and advice on the act of computer programming from Stack Overflow." xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
+			<outline text="The 6 Figure Developer" title="The 6 Figure Developer" description="Helping others reach their potential" xmlUrl="http://6figuredev.com/feed/rss/" type="rss" />
+			<outline text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" description="Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
+			<outline text="The Cynical Developer" title="The Cynical Developer" description="A UK based Technology and Software Developer Podcast that helps you to improve your development knowledge and career,
+through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer." xmlUrl="https://cynicaldeveloper.com/feed/podcast" type="rss" />
+			<outline text="The GitHub Blog" title="The GitHub Blog" description="Updates, ideas, and inspiration from GitHub to help developers build and design software." xmlUrl="https://github.blog/feed/" type="rss" />
+			<outline text="The PIT Show: Reflections and Interviews in the Tech World" title="The PIT Show: Reflections and Interviews in the Tech World" description="This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done." xmlUrl="https://feeds.transistor.fm/productivity-in-tech-podcast" type="rss" />
+			<outline text="The Rabbit Hole: The Definitive Developer's Podcast" title="The Rabbit Hole: The Definitive Developer's Podcast" description="Welcome to The Rabbit Hole, the definitive developers podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you." xmlUrl="http://therabbithole.libsyn.com/rss" type="rss" />
+			<outline text="The Stack Overflow Podcast" title="The Stack Overflow Podcast" description="The Stack Overflow podcast is a weekly conversation about working in software development, learning to code, and the art and culture of computer programming. Hosted by Paul Ford and Ben Popper, the series features questions from our community, interviews with fascinating guests, and hot takes on what’s happening in tech. Founded in 2008, Stack Overflow is empowering the world to develop technology through collective knowledge. It’s best known for being the largest, most trusted online community for developers and technologists. More than 100 million people come to Stack Overflow every month to ask questions, help solve coding problems, and develop new skills." xmlUrl="https://feeds.simplecast.com/XA_851k3" type="rss" />
+			<outline text="The Standup" title="The Standup" description="A podcast that delves into the obstacles and successes involved in creating, running, and sustaining successful software side projects." xmlUrl="https://feeds.fireside.fm/standup/rss" type="rss" />
+			<outline text="The Women in Tech Show: A Technical Podcast" title="The Women in Tech Show: A Technical Podcast" description="A podcast about what we work on, not what it feels like to be a woman in tech. Hosted by Edaena Salinas, Software Engineer at Microsoft. Website: wit.fm" xmlUrl="https://thewomenintechshow.com/category/podcast/feed/" type="rss" />
+			<outline text="programming" title="programming" description="Computer Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
+		</outline>
+		<outline text="UI / UX" title="UI / UX">
+			<outline text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" description="Recent content in Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
+			<outline text="Boxes and Arrows" title="Boxes and Arrows" description="The design behind the design." xmlUrl="http://boxesandarrows.com/rss/" type="rss" />
+			<outline text="Designer News Feed" title="Designer News Feed" description="All of the stories from the frontpage of Designer News" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
+			<outline text="Inside Design" title="Inside Design" description="Thoughts on users, experience, and design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
+			<outline text="JUST™ Creative" title="JUST™ Creative" description="Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" type="rss" />
+			<outline text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" description="The latest articles and announcements from Nielsen Norman Group" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
+			<outline text="UX Blog – UX Studio" title="UX Blog – UX Studio" description="UX design blog about designing user experience for web and mobile apps with UX research and focus on usability and ergonomics" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
+			<outline text="UX Collective - Medium" title="UX Collective - Medium" description="We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual &amp; Product Design. - Medium" xmlUrl="https://uxdesign.cc/feed" type="rss" />
+			<outline text="UX Movement" title="UX Movement" description="" xmlUrl="https://uxmovement.com/feed/" type="rss" />
+			<outline text="Usability Geek" title="Usability Geek" description="Usability & User Experience (UX) Blog" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
+			<outline text="User Experience" title="User Experience" description="User experience design is the process of enhancing user satisfaction by improving the usability, ease of use, and pleasure provided in the interaction between the user and the product. ‎‎‎‎‎ ‎ ‎ User experience design encompasses traditional human–computer interaction design (HCI/d), and extends it by addressing all aspects of a product or service as perceived by users." xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
+		</outline>
+
+
+        <outline text="ai" title="ai" >
+<outline text="Machine Learning Mastery Blog" title="Machine Learning Mastery Blog" type="rss" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/"/>
+<outline text="AITopics" title="AITopics" type="rss" xmlUrl="http://feeds.feedburner.com/AIInTheNews" htmlUrl="https://aitopics.org/search"/>
+<outline text="Machine Learnings" title="Machine Learnings" type="rss" xmlUrl="https://machinelearnings.co/feed" htmlUrl="https://machinelearnings.co/"/>
+<outline text="Machine Learning Blog" title="Machine Learning Blog" type="rss" xmlUrl="https://blogs.technet.microsoft.com/machinelearning/feed" htmlUrl="https://blogs.technet.microsoft.com/machinelearning/"/>
+<outline text="Allen Institute for Artificial Intelligence (AI2) - YouTube" title="Allen Institute for Artificial Intelligence (AI2) - YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ" htmlUrl="AI2"/>
+<outline text="Expert System - Artificial Intelligence" title="Expert System - Artificial Intelligence" type="rss" xmlUrl="http://www.expertsystem.com/blog/feed" htmlUrl="https://www.expertsystem.com/blog/"/>
+<outline text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/ai/feed" htmlUrl="https://aws.amazon.com/cn/blogs/machine-learning/"/>
+<outline text="AI Roadmap Institute Blog – Medium" title="AI Roadmap Institute Blog – Medium" type="rss" xmlUrl="https://medium.com/feed/ai-roadmap-institute" htmlUrl="https://medium.com/ai-roadmap-institute"/>
+<outline text="OpenAI Blog" title="OpenAI Blog" type="rss" xmlUrl="https://openai.com/feed.xml?format=xml" htmlUrl="https://blog.openai.com/"/>
+<outline text="News & Blog - DeepMind" title="News & Blog - DeepMind" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
+<outline text="Inbenta Blog: Artificial Intelligence, NLP & chatbots" title="Inbenta Blog: Artificial Intelligence, NLP & chatbots" type="rss" xmlUrl="https://www.inbenta.com/en/blog/feed" htmlUrl="https://www.inbenta.com/en/blog/"/>
+<outline text="Blog - Clarifai" title="Blog - Clarifai" type="rss" xmlUrl="http://blog.clarifai.com/feed" htmlUrl="https://blog.clarifai.com/"/>
+<outline text="Playment Blogs" title="Playment Blogs" type="rss" xmlUrl="https://blog.playment.io/feed" htmlUrl="https://blog.playment.io/"/>
+<outline text="DataRobot Blog" title="DataRobot Blog" type="rss" xmlUrl="https://www.datarobot.com/blog/feed" htmlUrl="https://blog.datarobot.com/"/>
+<outline text="Blog - Machine Intelligence Research Institute" title="Blog - Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
+<outline text="Blog - Sentient Technologies" title="Blog - Sentient Technologies" type="rss" xmlUrl="http://www.sentient.ai/blog/feed" htmlUrl="https://www.sentient.ai/blog/"/>
+<outline text="Archie.AI – Medium" title="Archie.AI – Medium" type="rss" xmlUrl="https://medium.com/feed/archieai" htmlUrl="https://medium.com/archieai"/>
+<outline text="Blog - Singularity Weblog" title="Blog - Singularity Weblog" type="rss" xmlUrl="https://www.singularityweblog.com/blog/feed" htmlUrl="https://www.singularityweblog.com/blog/"/>
+<outline text="Blog – Iris.ai - Your Science Assistant" title="Blog – Iris.ai - Your Science Assistant" type="rss" xmlUrl="https://iris.ai/feed" htmlUrl="https://iris.ai/blog/"/>
+<outline text="Blog on Machine Learning, Statistics & Software Development" title="Blog on Machine Learning, Statistics & Software Development" type="rss" xmlUrl="http://blog.datumbox.com/feed" htmlUrl="http://blog.datumbox.com/"/>
+<outline text="MITCSAIL - YouTube" title="MITCSAIL - YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MITCSAIL" htmlUrl="https://www.youtube.com/user/MITCSAIL/videos"/>
+<outline text="Blog - Mighty AI" title="Blog - Mighty AI" type="rss" xmlUrl="https://mty.ai/feed" htmlUrl="https://mighty.ai/blog/"/>
+<outline text="Fusemachines Blogs - AI for Business" title="Fusemachines Blogs - AI for Business" type="rss" xmlUrl="http://blog.fusemachines.com/feed" htmlUrl="http://blog.fusemachines.com/"/>
+<outline text="Marek Rosa - dev blog" title="Marek Rosa - dev blog" type="rss" xmlUrl="http://blog.marekrosa.org/feeds/posts/default" htmlUrl="https://blog.marekrosa.org/"/>
+<outline text="Blog - Yseop" title="Blog - Yseop" type="rss" xmlUrl="https://yseop.com/feed" htmlUrl="https://yseop.com/blog/"/>
+<outline text="Marketing Artificial Intelligence Institute" title="Marketing Artificial Intelligence Institute" type="rss" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
+<outline text="Latest Insights from Rainbird Technologies" title="Latest Insights from Rainbird Technologies" type="rss" xmlUrl="http://rainbird.ai/blog/feed" htmlUrl="https://rainbird.ai/insight/"/>
+<outline text="Brighterion - Blog" title="Brighterion - Blog" type="rss" xmlUrl="http://brighterion.com/feed" htmlUrl="http://brighterion.com/blog/"/>
+<outline text="Artificial Intelligence News — Newsletter on Deep Learning & AI" title="Artificial Intelligence News — Newsletter on Deep Learning & AI" type="rss" xmlUrl="http://aiweekly.co/issues.rss" htmlUrl="http://aiweekly.co/"/>
+<outline text="Blog – Quertle" title="Blog – Quertle" type="rss" xmlUrl="http://quertle.com/blog/feed" htmlUrl="http://quertle.com/blog/"/>
+<outline text="Artificial Intelligence Resources" title="Artificial Intelligence Resources" type="rss" xmlUrl="http://airesources.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://airesources.blogspot.com/"/>
+<outline text="Computational Intelligence" title="Computational Intelligence" type="rss" xmlUrl="http://computational-intelligence.blogspot.com/feeds/posts/default" htmlUrl="http://computational-intelligence.blogspot.com/"/>
+
+
+
+
+</outline>
+        <outline text="neural networks" title="neural networks" >
+<outline text="Letting neural networks be weird" title="Letting neural networks be weird" type="rss" xmlUrl="http://aiweirdness.com/rss" htmlUrl="http://aiweirdness.com/"/>
+<outline text="Becoming Human: Artificial Intelligence Magazine" title="Becoming Human: Artificial Intelligence Magazine" type="rss" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
+<outline text="ParallelDots - World class AI solutions at your fingertips" title="ParallelDots - World class AI solutions at your fingertips" type="rss" xmlUrl="https://blog.paralleldots.com/feed" htmlUrl="https://blog.paralleldots.com/"/>
+<outline text="Recurrent Neural Networks" title="Recurrent Neural Networks" type="rss" xmlUrl="https://www.kdnuggets.com/tag/recurrent-neural-networks/feed" htmlUrl="https://www.kdnuggets.com/tag/recurrent-neural-networks"/>
+<outline text="Blog - Neural Network Console" title="Blog - Neural Network Console" type="rss" xmlUrl="https://support.dl.sony.com/blogs/feed" htmlUrl="https://support.dl.sony.com/blogs/"/>
+<outline text="fast.ai · Making neural nets uncool again" title="fast.ai · Making neural nets uncool again" type="rss" xmlUrl="http://www.fast.ai/atom.xml?format=xml" htmlUrl="https://www.fast.ai/"/>
+<outline text="neural networks Archives - ExtremeTech" title="neural networks Archives - ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/tag/neural-networks/feed" htmlUrl="https://www.extremetech.com/tag/neural-networks"/>
+<outline text="neural network - Hackaday" title="neural network - Hackaday" type="rss" xmlUrl="https://hackaday.com/tag/neural-network/feed" htmlUrl="https://hackaday.com/tag/neural-network/"/>
+<outline text="Blog - Intel AI" title="Blog - Intel AI" type="rss" xmlUrl="https://ai.intel.com/blog/feed" htmlUrl="https://www.intel.ai/blog/#gs.8hlBBKIB"/>
+<outline text="Machine Learning Blog - HackerEarth Blog" title="Machine Learning Blog - HackerEarth Blog" type="rss" xmlUrl="http://blog.hackerearth.com/machine-learning/feed" htmlUrl="https://www.hackerearth.com/blog/machine-learning/"/>
+<outline text="OpenAI Blog" title="OpenAI Blog" type="rss" xmlUrl="https://blog.openai.com/rss" htmlUrl="https://blog.openai.com/"/>
+<outline text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" type="rss" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
+<outline text="WildML – Artificial Intelligence, Deep Learning, and NLP" title="WildML – Artificial Intelligence, Deep Learning, and NLP" type="rss" xmlUrl="http://www.wildml.com/feed/?x=1" htmlUrl="http://www.wildml.com/"/>
+<outline text="Distill — Latest articles about machine learning" title="Distill — Latest articles about machine learning" type="rss" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub/"/>
+<outline text="Hello Paperspace" title="Hello Paperspace" type="rss" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>
+<outline text="Learn Machine Learning - Machine Learning Tutorials - DataFlair" title="Learn Machine Learning - Machine Learning Tutorials - DataFlair" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed" htmlUrl="https://data-flair.training/blogs/machine-learning-tutorials-home/"/>
+<outline text="Unsupervised Thinking" title="Unsupervised Thinking" type="rss" xmlUrl="http://unsupervisedthinkingpodcast.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://unsupervisedthinkingpodcast.blogspot.com/"/>
+<outline text="My Deep Search in Deep Learning" title="My Deep Search in Deep Learning" type="rss" xmlUrl="http://mydeeplearning.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://mydeeplearning.blogspot.com/"/>
+<outline text="Machine, Think!" title="Machine, Think!" type="rss" xmlUrl="http://machinethink.net/blog/index.xml" htmlUrl="https://machinethink.net/"/>
+<outline text="computational biology blog" title="computational biology blog" type="rss" xmlUrl="https://computationalbiologyblog.com/feed" htmlUrl="https://computationalbiologyblog.com/"/>
+<outline text="Convolutional Neural Network – Amund Tveit's Blog" title="Convolutional Neural Network – Amund Tveit's Blog" type="rss" xmlUrl="https://amundtveit.com/category/convolutional-neural-network/feed" htmlUrl="https://amundtveit.com/category/convolutional-neural-network/"/>
+<outline text="when trees fall…" title="when trees fall…" type="rss" xmlUrl="http://blog.wtf.sg/feed" htmlUrl="https://blog.wtf.sg/"/>
+<outline text="BLOG – LEEDS NEURAL NETWORKS" title="BLOG – LEEDS NEURAL NETWORKS" type="rss" xmlUrl="https://leedsneuralnetworks.wordpress.com/blog/feed" htmlUrl="https://leedsneuralnetworks.wordpress.com/blog/"/>
+
+
+
+</outline>
+        <outline text="text analytics" title="text analytics" >
+<outline text="Blog on Text Analytics - Provalis Research" title="Blog on Text Analytics - Provalis Research" type="rss" xmlUrl="https://provalisresearch.com/feed" htmlUrl="https://provalisresearch.com/blog/"/>
+<outline text="Natural Language Processing Blog - AYLIEN" title="Natural Language Processing Blog - AYLIEN" type="rss" xmlUrl="http://blog.aylien.com/rss" htmlUrl="http://blog.aylien.com/"/>
+<outline text="Blog - Rosette Text Analytics" title="Blog - Rosette Text Analytics" type="rss" xmlUrl="https://www.rosette.com/feed" htmlUrl="https://www.rosette.com/blog/"/>
+<outline text="The Blog of MeaningCloud - MeaningCloud" title="The Blog of MeaningCloud - MeaningCloud" type="rss" xmlUrl="https://www.meaningcloud.com/blog/feed" htmlUrl="https://www.meaningcloud.com/blog"/>
+<outline text="Lexalytics - Blog" title="Lexalytics - Blog" type="rss" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
+<outline text="Bitext Blog - NLP, chatbots & AI news" title="Bitext Blog - NLP, chatbots & AI news" type="rss" xmlUrl="https://blog.bitext.com/rss.xml" htmlUrl="https://blog.bitext.com/"/>
+<outline text="Text Mining, Semantics & Data Intelligence - SciBite" title="Text Mining, Semantics & Data Intelligence - SciBite" type="rss" xmlUrl="https://www.scibite.com/feed" htmlUrl="https://www.scibite.com/"/>
+<outline text="Machine-learning on text and Twitter data - DiscoverText" title="Machine-learning on text and Twitter data - DiscoverText" type="rss" xmlUrl="https://discovertext.com/blog/feed" htmlUrl="https://discovertext.com/blog/"/>
+<outline text="Blog - Enterprise Search, Sentiment Analysis, Text Analytics" title="Blog - Enterprise Search, Sentiment Analysis, Text Analytics" type="rss" xmlUrl="https://www.searchblox.com/blog/feed" htmlUrl="https://www.searchblox.com/blog/"/>
+<outline text="National Centre for Text Mining — Text Mining Tools and Text Mining Services" title="National Centre for Text Mining — Text Mining Tools and Text Mining Services" type="rss" xmlUrl="http://www.nactem.ac.uk/rss_featured.php" htmlUrl="http://www.nactem.ac.uk/index.php"/>
+<outline text="Blog - Linguamatics" title="Blog - Linguamatics" type="rss" xmlUrl="https://www.linguamatics.com/blog/rss-feed" htmlUrl="https://www.linguamatics.com/blog"/>
+<outline text="Blog — OdinText" title="Blog — OdinText" type="rss" xmlUrl="http://odintext.com/blog/feed" htmlUrl="https://odintext.com/blog/"/>
+<outline text="Keatext - Blog: Artificial Intelligence for feedback interpretation" title="Keatext - Blog: Artificial Intelligence for feedback interpretation" type="rss" xmlUrl="https://www.keatext.ai/customer-experience-insights/feed" htmlUrl="https://www.keatext.ai/en/blog/"/>
+<outline text="Blogs - Feedback Ferret" title="Blogs - Feedback Ferret" type="rss" xmlUrl="https://www.feedbackferret.com/news/feed" htmlUrl="https://www.feedbackferret.com/news/"/>
+<outline text="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" title="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" type="rss" xmlUrl="https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://gate4ugc.blogspot.com/"/>
+<outline text="A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning" title="A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning" type="rss" xmlUrl="https://paulhcleverley.com/feed" htmlUrl="https://paulhcleverley.com/"/>
+</outline>
+
+      <outline text="Machine Learning" rssowl:isSet="false" rssowl:id="11">
+        <outline text="Blog - Cube Dev - Medium" xmlUrl="https://blog.statsbot.co/feed" rssowl:id="1299" />
+        <outline text="Blog - Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" rssowl:id="1115" />
+        <outline text="Blog - ML Uber " xmlUrl="https://eng.uber.com/tag/machine-learning/feed" rssowl:id="1460" />
+        <outline text="Blog AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" rssowl:id="1361" />
+        <outline text="cs.DB updates on arXiv.org" xmlUrl="http://arxiv.org/rss/cs.DB" rssowl:id="373" />
+        <outline text="cs.ML updates on arXiv.org" xmlUrl="http://arxiv.org/rss/cs.LG" rssowl:id="385" />
+        <outline text="MIT News - ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" rssowl:id="1147" />
+        <outline text="Reddit - Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" rssowl:id="1031" />
+        <outline text="stat.ML updates on arXiv.org" xmlUrl="http://arxiv.org/rss/stat.ML" rssowl:id="13" />
+        <outline text="Blog Made With ML" xmlUrl="https://madewithml.com/newsletter/" rssowl:id="9584" />
+        <outline text="Blog ML in Production" xmlUrl="https://mlinproduction.com/feed" rssowl:id="9588" />
+        <outline text="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" rssowl:id="15299" />
+        <outline text="Proceedings of Machine Learning Research" xmlUrl="http://proceedings.mlr.press//feed.xml" rssowl:id="15483" />
+        <outline text="Blog Distill" xmlUrl="https://distill.pub/rss.xml" rssowl:id="16010" />
+        <outline text="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" rssowl:id="16543" />
+      </outline>
+      <outline text="Data Science" rssowl:isSet="false" rssowl:id="876">
+        <outline text="Featured Blog Posts - Data Science Central" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml" rssowl:id="878" />
+        <outline text="Blog John D. Cook" xmlUrl="https://www.johndcook.com/blog/feed" rssowl:id="15176" />
+        <outline text="fast.ai NLP" xmlUrl="http://nlp.fast.ai/feed.xml" rssowl:id="16402" />
+        <outline text="NLP The Spectator" xmlUrl="http://blog.shakirm.com/feed" rssowl:id="16411" />
+      </outline>
+      <outline text="Artificial Intelligence" rssowl:isSet="false" rssowl:id="2093">
+        <outline text="AI Trends" xmlUrl="https://www.aitrends.com/feed" rssowl:id="2095" />
+        <outline text="AI Weirdness" xmlUrl="https://aiweirdness.com/rss" rssowl:id="2824" />
+        <outline text="Artificial Lawyer" xmlUrl="https://www.artificiallawyer.com/feed" rssowl:id="2586" />
+        <outline text="Berkeley AI Research " xmlUrl="https://bair.berkeley.edu/blog/feed.xml" rssowl:id="2574" />
+        <outline text="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" rssowl:id="2752" />
+        <outline text="MIT Artificial intelligence" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" rssowl:id="2266" />
+        <outline text="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
+        <outline text="Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
+        <outline text="Reddit - Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" rssowl:id="2418" />
+        <outline text="Reddit - NN, DL, ML" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss?format=xml" rssowl:id="2623" />
+        <outline text="ScienceDaily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" rssowl:id="2204" />
+        <outline text="Blog Seita's Place" xmlUrl="https://danieltakeshi.github.io/feed.xml" rssowl:id="8238" />
+        <outline text="Blog VITAL Literature Review" xmlUrl="https://vitalab.github.io/feed.xml" rssowl:id="12495" />
+        <outline text="Blog Andrej Karpathy on Medium" xmlUrl="https://medium.com/feed/@karpathy" rssowl:id="15602" />
+        <outline text="Blog Google AI " xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" rssowl:id="15650" />
+        <outline text="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed" rssowl:id="16228" />
+        <outline text="Blog Jaejun Yoo's Playground" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default" rssowl:id="16260" />
+        <outline text="OpenAI" xmlUrl="https://openai.com/blog/rss" rssowl:id="16495" />
+      </outline>
+      <outline text="Reinforcement Learning" rssowl:isSet="false" rssowl:id="2621">
+        <outline text="Reddit - Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
+        <outline text="RL Weekly seungjaeryanlee" xmlUrl="https://www.getrevue.co/profile/seungjaeryanlee?format=rss" rssowl:id="6108" />
+        <outline text="Blog few-shot learning " xmlUrl="https://mpatacchiola.github.io/blog/feed.xml" rssowl:id="12543" />
+        <outline text="Blog Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" />
+      </outline>
+
+
+
+              <outline text="Tech" title="Tech">
+            <outline type="rss" text="OS X Daily" title="OS X Daily" xmlUrl="http://osxdaily.com/feed/" htmlUrl="https://osxdaily.com"/>
+            <outline type="rss" text="RIPE" title="RIPE" xmlUrl="https://labs.ripe.net/RSS" htmlUrl="https://labs.ripe.net"/>
+            <outline type="rss" text="Bits of Freedom" title="Bits of Freedom" xmlUrl="https://www.bof.nl/feed/" htmlUrl="https://www.bitsoffreedom.nl"/>
+            <outline type="rss" text="MacRumors" title="MacRumors" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="https://www.macrumors.com"/>
+        </outline>
+        <outline text="SecurityOperational" title="SecurityOperational">
+            <outline type="rss" text="Packet Storm" title="Packet Storm" xmlUrl="http://rss.packetstormsecurity.com/" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="CERT-EU" title="CERT-EU" xmlUrl="http://cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=all&amp;duplicates=false" htmlUrl="http://media.cert.europa.eu/cert/"/>
+        </outline>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="Security.NL nieuws" title="Security.NL nieuws" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl"/>
+            <outline type="rss" text="Proofpoint Threat Insight" title="Proofpoint Threat Insight" xmlUrl="https://www.proofpoint.com/us/threat-insight-blog.xml" htmlUrl="https://www.proofpoint.com/us/blog"/>
+            <outline type="rss" text="Imperialviolet" title="Imperialviolet" xmlUrl="https://www.imperialviolet.org/iv-rss.xml" htmlUrl="http://www.imperialviolet.org/"/>
+            <outline type="rss" text="lab52" title="lab52" xmlUrl="https://lab52.io/blog/feed/" htmlUrl="https://lab52.io/blog"/>
+            <outline type="rss" text="/dev/random" title="/dev/random" xmlUrl="http://blog.rootshell.be/feed/" htmlUrl="https://blog.rootshell.be/"/>
+            <outline type="rss" text="F-Secure Antivirus Research Weblog" title="F-Secure Antivirus Research Weblog" xmlUrl="https://labsblog.f-secure.com/feed/rss/" htmlUrl="https://labsblog.f-secure.com"/>
+            <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com"/>
+            <outline type="rss" text="Hak5" title="Hak5" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ" htmlUrl="https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ"/>
+            <outline type="rss" text="We will always be OSINTCurio.us" title="We will always be OSINTCurio.us" xmlUrl="https://osintcurio.us/feed/" htmlUrl="https://osintcurio.us"/>
+            <outline type="rss" text="Labs" title="Labs" xmlUrl="https://labs.detectify.com/feed/atom/" htmlUrl="https://labs.detectify.com"/>
+            <outline type="rss" text="European Digital Rights (EDRi)" title="European Digital Rights (EDRi)" xmlUrl="http://edri.org/feed/" htmlUrl="https://edri.org/"/>
+            <outline type="rss" text="SentinelOne" title="SentinelOne" xmlUrl="http://www.sentinelone.com/feed/" htmlUrl="https://www.sentinelone.com/"/>
+            <outline type="rss" text="Red Canary" title="Red Canary" xmlUrl="https://www.redcanary.co/feed/" htmlUrl="https://redcanary.com/"/>
+            <outline type="rss" text="Trend Micro Research, News and Perspectives" title="Trend Micro Research, News and Perspectives" xmlUrl="http://feeds.trendmicro.com/TrendMicroSimplySecurity" htmlUrl="http://feed.informer.com/digests/G5HRN3DTV4/feeder"/>
+            <outline type="rss" text="DoublePulsar" title="DoublePulsar" xmlUrl="https://doublepulsar.com/feed" htmlUrl="https://doublepulsar.com?source=rss----8343faddf0ec---4"/>
+            <outline type="rss" text="Privacy and Cybersecurity Law" title="Privacy and Cybersecurity Law" xmlUrl="http://feeds.feedburner.com/PrivacyandDataSecurityLaw" htmlUrl="https://www.privacyandcybersecuritylaw.com/"/>
+            <outline type="rss" text="ENISA news" title="ENISA news" xmlUrl="http://www.enisa.europa.eu/media/news-items/news-wires/RSS" htmlUrl="https://www.enisa.europa.eu/media/news-items"/>
+            <outline type="rss" text="SpiderLabs Anterior" title="SpiderLabs Anterior" xmlUrl="https://www.trustwave.com/rss.aspx?type=slblog" htmlUrl="https://www.trustwave.com/rss.aspx?type=slblog"/>
+            <outline type="rss" text="Ars Technica - All content" title="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="Carnal0wnage Blog" title="Carnal0wnage Blog" xmlUrl="http://carnal0wnage.blogspot.com/feeds/posts/default" htmlUrl="https://blog.carnal0wnage.com/"/>
+            <outline type="rss" text="Word of Pie" title="Word of Pie" xmlUrl="http://wordofpie.com/feed/" htmlUrl="https://wordofpie.com"/>
+            <outline type="rss" text="osintme.com" title="osintme.com" xmlUrl="https://www.osintme.com/index.php/feed/" htmlUrl="https://www.osintme.com"/>
+            <outline type="rss" text="Deep Instinct Blog: Breaking News and Updates" title="Deep Instinct Blog: Breaking News and Updates" xmlUrl="http://blog.deepinstinct.com/feed/" htmlUrl="https://www.deepinstinct.com"/>
+            <outline type="rss" text="McAfee Blog" title="McAfee Blog" xmlUrl="http://blogs.mcafee.com/feed" htmlUrl="https://www.mcafee.com/blogs"/>
+            <outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="VMRay" title="VMRay" xmlUrl="https://www.vmray.com/feed/" htmlUrl="https://www.vmray.com"/>
+            <outline type="rss" text="CERT-Polska" title="CERT-Polska" xmlUrl="https://www.cert.pl/en/feed/" htmlUrl="https://cert.pl/en/"/>
+            <outline type="rss" text="US-CERT Cyber Security Alerts" title="US-CERT Cyber Security Alerts" xmlUrl="http://www.us-cert.gov/channels/alerts.rdf" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="contagio" title="contagio" xmlUrl="http://contagiodump.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://contagiodump.blogspot.com/"/>
+            <outline type="rss" text="hackersonlineclub" title="hackersonlineclub" xmlUrl="http://blog.hackersonlineclub.com/feeds/posts/default" htmlUrl="http://blog.hackersonlineclub.com/"/>
+            <outline type="rss" text="Stories by Matt Suiche on Medium" title="Stories by Matt Suiche on Medium" xmlUrl="https://medium.com/feed/@msuiche" htmlUrl="https://medium.com/@msuiche?source=rss-bac3a09af3b4------2"/>
+            <outline type="rss" text="noyb.eu - My Privacy is None of Your Business" title="noyb.eu - My Privacy is None of Your Business" xmlUrl="https://noyb.eu/feed" htmlUrl="https://noyb.eu/en"/>
+            <outline type="rss" text="Malware don&amp;#39;t need Coffee" title="Malware don&amp;#39;t need Coffee" xmlUrl="http://malware.dontneedcoffee.com/feeds/posts/default" htmlUrl="http://malware.dontneedcoffee.com/"/>
+            <outline type="rss" text="Binary Reverse Engineering Blog" title="Binary Reverse Engineering Blog" xmlUrl="https://johannesbader.ch/feed.xml" htmlUrl="https://bin.re"/>
+            <outline type="rss" text="Netresec" title="Netresec" xmlUrl="http://www.netresec.com/rss.ashx" htmlUrl="https://www.netresec.com/?page=Blog"/>
+            <outline type="rss" text="Threatpost" title="Threatpost" xmlUrl="http://threatpost.com/feed" htmlUrl="https://threatpost.com"/>
+            <outline type="rss" text="Alerts" title="Alerts" xmlUrl="http://www.us-cert.gov/current/index.atom" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="Krypt3ia" title="Krypt3ia" xmlUrl="http://krypt3ia.wordpress.com/feed/" htmlUrl="https://krypt3ia.wordpress.com"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+            <outline type="rss" text="ENISA" title="ENISA" xmlUrl="https://www.enisa.europa.eu/search_rss?portal_type=Procurement&amp;callType%3Alist=Call+for+Proposal&amp;review_state=published&amp;submit=Search" htmlUrl="https://www.enisa.europa.eu"/>
+            <outline type="rss" text="Blog RSS Feed" title="Blog RSS Feed" xmlUrl="http://feeds.feedburner.com/tripwire-state-of-security" htmlUrl="https://www.tripwire.com/"/>
+            <outline type="rss" text="Marc&amp;#039;s Security Ramblings" title="Marc&amp;#039;s Security Ramblings" xmlUrl="http://marcrogers.org/feed/" htmlUrl="https://marcrogers.org"/>
+            <outline type="rss" text="ICS Advisories" title="ICS Advisories" xmlUrl="http://ics-cert.us-cert.gov/advisories/advisories.xml" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="Kaspersky official blog" title="Kaspersky official blog" xmlUrl="http://blog.kaspersky.co.uk/feed/" htmlUrl="https://www.kaspersky.co.uk/blog"/>
+            <outline type="rss" text="ENISA" title="ENISA" xmlUrl="https://www.enisa.europa.eu/search_rss?portal_type=Procurement&amp;callType%3Alist=Services&amp;callType%3Alist=Supplies&amp;callType%3Alist=Works&amp;review_state=published&amp;submit=Search" htmlUrl="https://www.enisa.europa.eu"/>
+            <outline type="rss" text="CloudFlare" title="CloudFlare" xmlUrl="http://blog.cloudflare.com/rss/" htmlUrl="http://blog.cloudflare.com"/>
+            <outline type="rss" text="DDoS &amp;#38; Security Reports" title="DDoS &amp;#38; Security Reports" xmlUrl="http://www.arbornetworks.com/asert/feed/" htmlUrl="https://www.netscout.com/blog/asert/rss.xml"/>
+            <outline type="rss" text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" xmlUrl="http://researchcenter.paloaltonetworks.com/feed/" htmlUrl="https://www.paloaltonetworks.com/blog/"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="MITRE ATT&amp;CK™" title="MITRE ATT&amp;CK™" xmlUrl="https://medium.com/feed/mitre-attack" htmlUrl="https://medium.com/mitre-attack?source=rss----6da19bd08fba---4"/>
+            <outline type="rss" text="360 Netlab Blog - Network Security Research Lab at 360" title="360 Netlab Blog - Network Security Research Lab at 360" xmlUrl="http://blog.netlab.360.com/rss/" htmlUrl="https://blog.netlab.360.com/"/>
+            <outline type="rss" text="Yoroi" title="Yoroi" xmlUrl="https://blog.yoroi.company/?feed=rss2" htmlUrl="https://yoroi.company"/>
+            <outline type="rss" text="Blog - Stealthbits Technologies" title="Blog - Stealthbits Technologies" xmlUrl="https://blog.stealthbits.com/feed/" htmlUrl="https://stealthbits.com"/>
+            <outline type="rss" text="Curated Intelligence" title="Curated Intelligence" xmlUrl="https://www.curatedintel.org/feeds/posts/default" htmlUrl="https://www.curatedintel.org/"/>
+            <outline type="rss" text="Darknet - The Darkside" title="Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="BH Consulting" title="BH Consulting" xmlUrl="http://bhconsulting.ie/feed/" htmlUrl="https://bhconsulting.ie/"/>
+            <outline type="rss" text="Javvad Malik" title="Javvad Malik" xmlUrl="http://www.j4vv4d.com/feed/" htmlUrl="https://javvadmalik.com"/>
+            <outline type="rss" text="SANS Blog" title="SANS Blog" xmlUrl="https://digital-forensics.sans.org/blog/feed/" htmlUrl="https://www.sans.org/blog"/>
+            <outline type="rss" text="CyberArk" title="CyberArk" xmlUrl="http://www.cyberark.com/feed/" htmlUrl="https://www.cyberark.com/"/>
+            <outline type="rss" text="Adam Shostack &amp; friends" title="Adam Shostack &amp; friends" xmlUrl="https://adam.shostack.org/blog/feed/" htmlUrl="https://adam.shostack.org/blog"/>
+            <outline type="rss" text="Huntress Blog" title="Huntress Blog" xmlUrl="https://www.huntress.com/blog/rss.xml" htmlUrl="https://www.huntress.com/blog"/>
+            <outline type="rss" text="Beyondtrust" title="Beyondtrust" xmlUrl="http://blog.beyondtrust.com/feed?post_type=post" htmlUrl="https://www.beyondtrust.com"/>
+            <outline type="rss" text="//SCADAS.EC" title="//SCADAS.EC" xmlUrl="http://scadamag.infracritical.com/index.php/feed/" htmlUrl="http://scadamag.infracritical.com"/>
+            <outline type="rss" text="Blog" title="Blog" xmlUrl="https://www.cybereason.com/blog/rss.xml" htmlUrl="https://www.cybereason.com/blog"/>
+            <outline type="rss" text="SCADA StrangeLove" title="SCADA StrangeLove" xmlUrl="http://scadastrangelove.blogspot.com/feeds/posts/default" htmlUrl="http://www.scada.sl/"/>
+            <outline type="rss" text="Daily Dave" title="Daily Dave" xmlUrl="http://seclists.org/rss/dailydave.rss" htmlUrl="https://seclists.org/#dailydave"/>
+            <outline type="rss" text="0patch Blog" title="0patch Blog" xmlUrl="https://0patch.blogspot.com/feeds/posts/default" htmlUrl="https://blog.0patch.com/"/>
+            <outline type="rss" text="Active Directory Security" title="Active Directory Security" xmlUrl="http://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org"/>
+            <outline type="rss" text="ENISA" title="ENISA" xmlUrl="https://www.enisa.europa.eu/search_rss?portal_type=Procurement&amp;callType%3Alist=Call+for+Expressions+of+Interest&amp;review_state=published&amp;submit=Search" htmlUrl="https://www.enisa.europa.eu"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Alexander Jäger" title="Alexander Jäger" xmlUrl="https://www.alexanderjaeger.de/feed/" htmlUrl="https://www.alexanderjaeger.de"/>
+            <outline type="rss" text="Stories by thaddeus t. grugq on Medium" title="Stories by thaddeus t. grugq on Medium" xmlUrl="https://medium.com/feed/@thegrugq/" htmlUrl="https://medium.com/@thegrugq?source=rss-8c278323b47c------2"/>
+            <outline type="rss" text="Zero Day Blog RSS | ZDNet" title="Zero Day Blog RSS | ZDNet" xmlUrl="http://blogs.zdnet.com/security/wp-rss2.php" htmlUrl="https://www.zdnet.com/"/>
+            <outline type="rss" text="Hack Read" title="Hack Read" xmlUrl="http://hackread.com/feed/" htmlUrl="https://www.hackread.com"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
+            <outline type="rss" text="Cyphort" title="Cyphort" xmlUrl="https://www.cyphort.com/feed/" htmlUrl="https://www.cyphort.com"/>
+            <outline type="rss" text="xorl %eax, %eax" title="xorl %eax, %eax" xmlUrl="http://xorl.wordpress.com/feed/" htmlUrl="https://xorl.wordpress.com"/>
+            <outline type="rss" text="NCSC Blog Feed" title="NCSC Blog Feed" xmlUrl="https://www.ncsc.gov.uk/blogs-feed.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/blog-post-rss-feed.xml"/>
+            <outline type="rss" text="Security Labs" title="Security Labs" xmlUrl="https://blogs.forcepoint.com/security-labs.xml?utm_source=Websense&amp;utm_medium=Redirect" htmlUrl="https://www.forcepoint.com/rss.xml"/>
+            <outline type="rss" text="Malwarebytes Unpacked" title="Malwarebytes Unpacked" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://www.malwarebytes.com"/>
+            <outline type="rss" text="Sector035's feed" title="Sector035's feed" xmlUrl="https://sector035.nl/articles.rss" htmlUrl="https://sector035.nl/articles"/>
+            <outline type="rss" text="Securelist" title="Securelist" xmlUrl="http://securelist.com/feed/" htmlUrl="https://securelist.com"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="TrendLabs Security Intelligence Blog" title="TrendLabs Security Intelligence Blog" xmlUrl="http://feeds.trendmicro.com/Anti-MalwareBlog?format=xml" htmlUrl="https://blog.trendmicro.com/trendlabs-security-intelligence"/>
+            <outline type="rss" text="Threat Analysis Group (TAG)" title="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss" htmlUrl="https://blog.google/threat-analysis-group/"/>
+            <outline type="rss" text="ENISA" title="ENISA" xmlUrl="https://www.enisa.europa.eu/search_rss?portal_type=Procurement&amp;callType%3Alist=Pre%20Information%20Notice&amp;review_state=published&amp;submit=Search" htmlUrl="https://www.enisa.europa.eu"/>
+            <outline type="rss" text="Malware-Traffic-Analysis.net - Blog Entries" title="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="http://www.malware-traffic-analysis.net/blog-entries.rss" htmlUrl="https://www.malware-traffic-analysis.net/index.html"/>
+            <outline type="rss" text="Cyber Threat Alert" title="Cyber Threat Alert" xmlUrl="https://www.cisecurity.org/feed/alert" htmlUrl="https://www.cisecurity.org/feed/alert"/>
+            <outline type="rss" text="Eric Conrad" title="Eric Conrad" xmlUrl="http://www.ericconrad.com/feeds/posts/default?alt=rss" htmlUrl="https://www.ericconrad.com/"/>
+            <outline type="rss" text="NVISO Labs" title="NVISO Labs" xmlUrl="http://blog.nviso.be/feeds/posts/default?alt=rss" htmlUrl="https://blog.nviso.eu"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="HOTforSecurity" title="HOTforSecurity" xmlUrl="http://feeds.feedburner.com/HOTforSecurity" htmlUrl="https://hotforsecurity.bitdefender.com"/>
+            <outline type="rss" text="Objective-See's Blog" title="Objective-See's Blog" xmlUrl="https://objective-see.com/rss.xml" htmlUrl="https://www.objective-see.com"/>
+            <outline type="rss" text="Blog - AttackIQ" title="Blog - AttackIQ" xmlUrl="https://attackiq.com/blog/feed/" htmlUrl="https://www.attackiq.com/blog/"/>
+            <outline type="rss" text="Packet Storm Security" title="Packet Storm Security" xmlUrl="http://packetstormsecurity.org/headlines.xml" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="Microsoft Security Bulletins" title="Microsoft Security Bulletins" xmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx" htmlUrl="https://technet.microsoft.com/en-us/security/bulletin"/>
+            <outline type="rss" text="Threatray" title="Threatray" xmlUrl="https://threatray.com/feed/" htmlUrl="https://threatray.com/"/>
+            <outline type="rss" text="CERT.eu Threat Intelligence" title="CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss" htmlUrl="https://cert.europa.eu/publications/threat-intelligence/"/>
+            <outline type="rss" text="TaoSecurity Blog" title="TaoSecurity Blog" xmlUrl="http://taosecurity.blogspot.com/feeds/posts/default" htmlUrl="https://taosecurity.blogspot.com/"/>
+            <outline type="rss" text="Darktrace Blog" title="Darktrace Blog" xmlUrl="https://www.darktrace.com/blog/index.xml" htmlUrl="https://darktrace.com"/>
+            <outline type="rss" text="All Blog Listing" title="All Blog Listing" xmlUrl="https://www.mandiant.com/resources/blog/rss.xml" htmlUrl="https://www.mandiant.com/"/>
+            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
+            <outline type="rss" text="Reddit" title="Reddit" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
+            <outline type="rss" text="Confiant" title="Confiant" xmlUrl="https://blog.confiant.com/feed" htmlUrl="https://blog.confiant.com?source=rss----4423e6ce17be---4"/>
+            <outline type="rss" text="Fortra's PhishLabs" title="Fortra's PhishLabs" xmlUrl="http://www.phishlabs.com/feed/" htmlUrl="https://www.phishlabs.com/"/>
+            <outline type="rss" text="MalwareTech" title="MalwareTech" xmlUrl="https://www.malwaretech.com/feed/" htmlUrl="https://malwaretech.com/"/>
+            <outline type="rss" text="CIRCL Luxembourg - Computer Incident Response Center Luxembourg Recent News" title="CIRCL Luxembourg - Computer Incident Response Center Luxembourg Recent News" xmlUrl="https://www.circl.lu/rss.xml" htmlUrl="http://www.circl.lu/"/>
+            <outline type="rss" text="Nextron Systems" title="Nextron Systems" xmlUrl="https://www.nextron-systems.com/feed/" htmlUrl="https://www.nextron-systems.com/"/>
+            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://isc.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+            <outline type="rss" text="Modern CISO" title="Modern CISO" xmlUrl="https://modernciso.com/feed/" htmlUrl="https://modernciso.com"/>
+            <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="http://feeds.feedburner.com/DarknetDiaries" htmlUrl="https://darknetdiaries.com/"/>
+        </outline>
+	</body>
+</opml>
