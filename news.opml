@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>News</title>
+	</head>
+	<body>
+		<outline text="World" title="World">
+			<outline text="BBC News - World" title="BBC News - World" description="BBC News - World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - World" title="CNN.com - RSS Channel - World" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
+			<outline text="International: Top News And Analysis" title="International: Top News And Analysis" description="CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets." xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
+			<outline text="NDTV News - World-news" title="NDTV News - World-news" description="NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more." xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" type="rss" />
+			<outline text="NYT > World News" title="NYT > World News" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
+			<outline text="Top stories - Google News" title="Top stories - Google News" description="Google News" xmlUrl="https://news.google.com/rss" type="rss" />
+			<outline text="World" title="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
+			<outline text="World News" title="World News" description="A place for major news from around the world, excluding US-internal news." xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
+			<outline text="World News Headlines, Latest International News, World Breaking News - Times of India" title="World News Headlines, Latest International News, World Breaking News - Times of India" description="World News: TOI brings the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
+			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="Yahoo News - Latest News & Headlines" title="Yahoo News - Latest News & Headlines" description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos." xmlUrl="https://www.yahoo.com/news/rss" type="rss" />
+		</outline>
+		<outline text="AT" title="AT">
+			<outline text="AT: DerStandard: DieStandard" title="AT: DerStandard: DieStandard" description="" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
+			<outline text="AT: DerStandard: International" title="AT: DerStandard: International" description="" xmlUrl="https://www.derstandard.at/rss/international" type="rss" />
+			<outline text="AT: DerStandard: Inland" title="AT: DerStandard: Inland" description="" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
+			<outline text="AT: DerStandard: Kultur" title="AT: DerStandard: Kultur" description="" xmlUrl="https://www.derstandard.at/rss/kultur" type="rss" />
+			<outline text="AT: DerStandard: Panorama" title="AT: DerStandard: Panorama" description="" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
+		</outline>
+		<outline text="DE" title="DE">
+			<outline text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" description="Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT.de. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie bei der ZEIT. Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport – die ZEIT. Aktuelle News, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE." xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
+			<outline text="FOCUS Online" title="FOCUS Online" description="FOCUS Online - minutenaktuelle Nachrichten und Service-Informationen." xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" type="rss" />
+			<outline text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" description="News, Nachrichten und aktuelle Meldungen aus allen Ressorts. Politik, Wirtschaft, Sport, Feuilleton und Finanzen im Überblick." xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
+			<outline text="tagesschau.de - Die Nachrichten der ARD" title="tagesschau.de - Die Nachrichten der ARD" description="tagesschau.de" xmlUrl="http://www.tagesschau.de/xml/rss2" type="rss" />
+			<outline text="Deutsche Welle" title="Deutsche Welle" description="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" type="rss" />
+		</outline>
+		<outline text="NO" title="NO">
+			<outline text="NO: NewsInEnglish" title="NO: NewsInEnglish" description="" xmlUrl="https://www.newsinenglish.no/feed/" type="rss" />
+			<outline text="NO: TheLocal" title="NO: TheLocal" description="" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=http%3A%2F%2Fwww.thelocal.no%2Ffeeds%2Frss.php&max=3" type="rss" />
+		</outline>
+		<outline text="UK" title="UK">
+			<outline text="BBC News - Home" title="BBC News - Home" description="BBC News - Home" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" type="rss" />
+			<outline text="World news | The Guardian" title="World news | The Guardian" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+			<outline text="Home | Mail Online" title="Home | Mail Online" description="MailOnline - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from MailOnline, Daily Mail and Mail on Sunday newspapers." xmlUrl="https://www.dailymail.co.uk/home/index.rss" type="rss" />
+			<outline text="The Independent" title="The Independent" description="Visit now for the latest news direct from The Independent and updated throughout the day" xmlUrl="http://www.independent.co.uk/news/uk/rss" type="rss" />
+			<outline text="Daily Express :: News Feed" title="Daily Express :: News Feed" description="Simply The Best 7 Days A Week" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" type="rss" />
+		</outline>
+		<outline text="US" title="US">
+			<outline text="World News - Breaking News, Top Stories" title="World News - Breaking News, Top Stories" description="Catch up on the latest World News news, photos, videos, and opinion." xmlUrl="https://www.huffpost.com/section/world-news/feed" type="rss" />
+			<outline text="NYT > Top Stories" title="NYT > Top Stories" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
+			<outline text="FOX News" title="FOX News" description="FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports." xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
+			<outline text="World" title="World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
+			<outline text="WSJ.com: World News" title="WSJ.com: World News" description="World News" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" type="rss" />
+			<outline text="World & Nation" title="World & Nation" description="Nation and World articles from the Los Angeles Times." xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
+			<outline text="CNN.com - RSS Channel - App International Edition" title="CNN.com - RSS Channel - App International Edition" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
+			<outline text="Yahoo News - Latest News & Headlines" title="Yahoo News - Latest News & Headlines" description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos." xmlUrl="https://news.yahoo.com/rss/mostviewed" type="rss" />
+			<outline text="US Top News and Analysis" title="US Top News and Analysis" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+			<outline text="Playbook" title="Playbook" description="The unofficial guide to official Washington." xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
+		</outline>
+	</body>
+</opml>
