@@ -2,6 +2,7 @@
 <opml version="1.0">
 	<body>
 		<outline text="Tech" title="Tech">
+		    <outline text="News: NYT: Technology" title="AI: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
 			<outline text="News: Ars Technica" title="News: Ars Technica" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis." xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
 			<outline text="News: CNET News" title="News: CNET News" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" type="rss" />
 			<outline text="News: Clockwise" title="News: Clockwise" description="Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent." xmlUrl="https://www.relay.fm/clockwise/feed" type="rss" />
@@ -14,7 +15,6 @@
 			<outline text="News: Slashdot" title="News: Slashdot" description="News for nerds, stuff that matters" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="News: Stratechery by Ben Thompson" title="News: Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="http://stratechery.com/feed/" type="rss" />
 			<outline text="News: TechCrunch" title="News: TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
-			<outline text="News: The Keyword" title="News: The Keyword" description="The Keyword" xmlUrl="https://www.blog.google/rss/" type="rss" />
 			<outline text="News: The Next Web" title="News: The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
 			<outline text="News: The Verge -  All Posts" title="News: The Verge -  All Posts" description="" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="News: https://www.engadget.com/" title="News: https://www.engadget.com/" description="https://www.engadget.com/" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />

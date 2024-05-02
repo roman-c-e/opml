@@ -5,6 +5,7 @@
             <outline type="rss" text="News: RIPE" title="News: RIPE" xmlUrl="https://labs.ripe.net/RSS" htmlUrl="https://labs.ripe.net"/>
             <outline type="rss" text="News: Bits of Freedom" title="News: Bits of Freedom" xmlUrl="https://www.bof.nl/feed/" htmlUrl="https://www.bitsoffreedom.nl"/>
             <outline type="rss" text="News: Heise: Netzpolitik" title="News: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" />
+            <outline type="rss" text="News: iX" title="News: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" />
         </outline>
 		<outline text="Apple" title="Apple">
 			<outline text="Apple: 9to5Mac" title="Apple: 9to5Mac" description="Apple News & Mac Rumors Breaking All Day" xmlUrl="https://9to5mac.com/feed" type="rss" />
@@ -15,7 +16,6 @@
 			<outline text="Apple: MacRumors: Mac News and Rumors - Mac Blog" title="Apple: MacRumors: Mac News and Rumors - Mac Blog" description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />
 			<outline text="Apple: MacStories" title="Apple: MacStories" description="Apple news, app reviews, and stories by Federico Viticci and friends." xmlUrl="https://www.macstories.net/feed" type="rss" />
 			<outline text="Apple: Macworld.com" title="Apple: Macworld.com" description="Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
-			<outline text="Apple: Marco.org" title="Apple: Marco.org" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
 			<outline text="Apple: OS X Daily" title="Apple: OS X Daily" description="News, tips, software, reviews, and more for Mac OS X, iPhone, iPad" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
 			<outline text="Apple: The Loop" title="Apple: The Loop" description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
 			<outline text="Apple: The unofficial Apple community" title="Apple: The unofficial Apple community" description="An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way." xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
@@ -164,7 +164,6 @@
             <outline text="AI: Deephaven Blog - Deephaven Blog" title="AI: Deephaven Blog - Deephaven Blog" xmlUrl="https://deephaven.io/blog/rss.xml" type="rss" />
             <outline text="AI: Department of Product - Your ultimate guide to building a product-led tech company. News, analysis and knowledge for people who work in tech. Join …" title="AI: Department of Product - Your ultimate guide to building a product-led tech company. News, analysis and knowledge for people who work in tech. Join …" xmlUrl="https://departmentofproduct.substack.com/feed" type="rss" />
             <outline text="AI: EE Times - Connecting The Global Electronics Community" title="AI: EE Times - Connecting The Global Electronics Community" xmlUrl="https://www.eetimes.com/feed" type="rss" />
-            <outline text="AI: Engadget - Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="AI: Engadget - Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
             <outline text="AI: Eugene Yan - Eugene Yan works at the intersection of consumer data & tech to build machine learning products, and writes about effective …" title="AI: Eugene Yan - Eugene Yan works at the intersection of consumer data & tech to build machine learning products, and writes about effective …" xmlUrl="https://eugeneyan.com/rss/" type="rss" />
             <outline text="AI: Expert System - Artificial Intelligence" title="AI: Expert System - Artificial Intelligence" type="rss" xmlUrl="http://www.expertsystem.com/blog/feed" htmlUrl="https://www.expertsystem.com/blog/"/>
             <outline text="AI: Explosion - Explosion is a software company specializing in developer tools for Artificial Intelligence and Natural Language Processing. We’re the makers of …" title="AI: Explosion - Explosion is a software company specializing in developer tools for Artificial Intelligence and Natural Language Processing. We’re the makers of …" xmlUrl="https://explosion.ai/feed" type="rss" />
@@ -172,7 +171,6 @@
             <outline text="AI: Fusemachines" title="AI: Fusemachines" type="rss" xmlUrl="http://blog.fusemachines.com/feed" htmlUrl="http://blog.fusemachines.com/"/>
             <outline text="AI: Generational - Essays and briefings about the most consequential AI trends and companies. Read by >1,000 leading investors and operators." title="AI: Generational - Essays and briefings about the most consequential AI trends and companies. Read by >1,000 leading investors and operators." xmlUrl="https://www.generational.pub/feed" type="rss" />
             <outline text="AI: Get AI Insights For Your Organization From Forrester - 502 Bad Gateway" title="AI: Get AI Insights For Your Organization From Forrester - 502 Bad Gateway" xmlUrl="https://www.forrester.com/blogs/category/artificial-intelligence-ai/feed" type="rss" />
-            <outline text="AI: Gizmodo - The Future Is Here" title="AI: Gizmodo - The Future Is Here" xmlUrl="https://gizmodo.com/rss" type="rss" />
             <outline text="AI: Global News - 429 Too Many Requests nginx" title="AI: Global News - 429 Too Many Requests nginx" xmlUrl="https://globalnews.ca/tag/artificial-intelligence/feed" type="rss" />
             <outline text="AI: Google AI Blog - The latest news from Google AI." title="AI: Google AI Blog - The latest news from Google AI." xmlUrl="http://googleaiblog.blogspot.com/atom.xml" type="rss" />
             <outline text="AI: Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" rssowl:id="15650" />
@@ -224,7 +222,6 @@
             <outline text="AI: Mozilla Foundation Blog - The Mozilla Foundation Blog" title="AI: Mozilla Foundation Blog - The Mozilla Foundation Blog" xmlUrl="https://foundation.mozilla.org/en/blog/rss/" type="rss" />
             <outline text="AI: NVIDIA AI" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
             <outline text="AI: NVIDIA Technical Blog - News and tutorials for developers, data scientists, and IT admins" title="AI: NVIDIA Technical Blog - News and tutorials for developers, data scientists, and IT admins" xmlUrl="https://developer.nvidia.com/blog/feed" type="rss" />
-            <outline text="AI: NYT &gt; Technology" title="AI: NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
             <outline text="AI: Natural Language Processing" title="AI: Natural Language Processing" xmlUrl="https://www.reddit.com/r/LanguageTechnology" type="rss" />
             <outline text="AI: Neural Interfaces News -- ScienceDaily" title="AI: Neural Interfaces News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math/neural_interfaces.xml" type="rss" />
             <outline text="AI: Neural Networks, Deep Learning and Machine Learning" title="AI: Neural Networks, Deep Learning and Machine Learning" xmlUrl="https://www.reddit.com/r/neuralnetworks" type="rss" />
@@ -281,7 +278,6 @@
             <outline text="AI: The Register - Software: AI + ML" title="AI: The Register - Software: AI + ML" xmlUrl="https://www.theregister.com/software/ai_ml/headlines.atom" type="rss" />
             <outline text="AI: The TRADE - The leading news-based website for buy-side traders and hedge funds" title="AI: The TRADE - The leading news-based website for buy-side traders and hedge funds" xmlUrl="https://www.thetradenews.com/feed/" type="rss" />
             <outline text="AI: The TensorFlow Blog - The official TensorFlow blog." title="AI: The TensorFlow Blog - The official TensorFlow blog." xmlUrl="https://blog.tensorflow.org/feeds/posts/default?alt=rss" type="rss" />
-            <outline text="AI: The Verge - All Posts" title="AI: The Verge - All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
             <outline text="AI: TheSequence - The best source to stay up-to-date with the developments in the machine learning, artificial intelligence, and data science world. Trusted …" title="AI: TheSequence - The best source to stay up-to-date with the developments in the machine learning, artificial intelligence, and data science world. Trusted …" xmlUrl="https://thesequence.substack.com/feed" type="rss" />
             <outline text="AI: Towards AI - Medium" title="AI: Towards AI - Medium" xmlUrl="https://pub.towardsai.net/feed" type="rss" />
             <outline text="AI: Towards Data Science - Medium" title="AI: Towards Data Science - Medium" xmlUrl="https://towardsdatascience.com/feed" type="rss" />

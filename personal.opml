@@ -62,6 +62,7 @@
 		</outline>
 		<outline text="Health" title="Health">
 			<outline text="Health: DerStandard" title="Health: DerStandard" description="Spreading the Awkwardness" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
+			<outline text="Health: NYT" title="Health: NYT" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
