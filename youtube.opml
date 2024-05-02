@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<body>
+		<outline text="Tech" title="Tech">
+			<outline text="Linus Tech Tips" title="Linus Tech Tips" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
+			<outline text="Marques Brownlee" title="Marques Brownlee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
+		</outline>
+	</body>
+</opml>
