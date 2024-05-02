@@ -4,7 +4,7 @@
 		<outline text="Tech" title="Tech">
 			<outline text="Linus Tech Tips" title="Linus Tech Tips" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
 			<outline text="Marques Brownlee" title="Marques Brownlee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
-    		<outline text="Apple: Apple" title="Apple: Apple" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
+    		<outline text="Apple" title="Apple" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -42,7 +42,6 @@
 			<outline text="Music: Music Business Worldwide" title="Music: Music Business Worldwide" description="News, jobs and analysis for the global music industry" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
 			<outline text="Music: Pitchfork" title="Music: Pitchfork" description="News content RSS feed" xmlUrl="http://pitchfork.com/rss/news" type="rss" />
 			<outline text="Music: Pitchfork Albums" title="Music: Pitchfork Albums" description="" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
-			<outline text="Music: Song Exploder" title="Music: Song Exploder" description="A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made." xmlUrl="http://songexploder.net/feed" type="rss" />
 			<outline text="Music: Your EDM" title="Music: Your EDM" description="EDM News & Electronic Dance Music Reviews" xmlUrl="https://www.youredm.com/feed" type="rss" />
 			<outline text="Music: Stereogum" title="Music: Stereogum" description="" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
