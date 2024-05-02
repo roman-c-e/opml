@@ -3,7 +3,6 @@
 	<body>
 		<outline text="Business & Economy" title="Business & Economy">
 			<outline text="News: BBC" title="News: BBC" description="" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" type="rss" />
-			<outline text="News: All News" title="News: All News" description="" xmlUrl="https://www.investing.com/rss/news.rss" type="rss" />
 			<outline text="News: Breaking News on Seeking Alpha" title="News: Breaking News on Seeking Alpha" description="© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited." xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
 			<outline text="News: Duct Tape Marketing" title="News: Duct Tape Marketing" description="Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
 			<outline text="News: Economic Times" title="News: Economic Times" description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
@@ -52,7 +51,6 @@
 			<outline text="StartUps: AVC" title="StartUps: AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
 			<outline text="StartUps: Both Sides of the Table - Medium" title="StartUps: Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
 			<outline text="StartUps: Entrepreneur" title="StartUps: Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
-			<outline text="StartUps: Feld Thoughts" title="StartUps: Feld Thoughts" description="" xmlUrl="https://feld.com/feed" type="rss" />
 			<outline text="StartUps: Forbes - Entrepreneurs" title="StartUps: Forbes - Entrepreneurs" description="Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
 			<outline text="StartUps: Hacker News: Front Page" title="StartUps: Hacker News: Front Page" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="StartUps: Inc.com" title="StartUps: Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />

@@ -28,7 +28,7 @@
 			<outline text="Science: This Week in Science" title="Science: This Week in Science" description="The kickass science and technology radio show that delivers an irreverent look at the week in science and technology." xmlUrl="http://www.twis.org/feed/" type="rss" />
 		</outline>
         <outline text="Space" title="Space">
-			<outline text="Space: /r/space" title="Space: /r/space" description="Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
+			<outline text="Space: Reddit" title="Space: Reddit" description="Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
 			<outline text="Space: NASA Breaking News" title="Space: NASA Breaking News" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
 			<outline text="Space: New Scientist - Space" title="Space: New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
 			<outline text="Space: Sky & Telescope" title="Space: Sky & Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />

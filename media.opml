@@ -3,41 +3,34 @@
 	<body>
 		<outline text="Books" title="Books">
 			<outline text="Books: A year of reading the world" title="Books: A year of reading the world" description="196 countries, countless stories..." xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
-			<outline text="Books: Aestas Book Blog" title="Books: Aestas Book Blog" description="Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending." xmlUrl="https://aestasbookblog.com/feed/" type="rss" />
 			<outline text="Books: BOOK RIOT" title="Books: BOOK RIOT" description="Book Recommendations and Reviews" xmlUrl="https://bookriot.com/feed/" type="rss" />
 			<outline text="Books: Kirkus Reviews" title="Books: Kirkus Reviews" description="Latest book reviews from Kirkus Reviews." xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
-			<outline text="Books: Page Array – NewInBooks" title="Books: Page Array – NewInBooks" description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" type="rss" />
 			<outline text="Books: So many books, so little time" title="Books: So many books, so little time" description="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook." xmlUrl="https://reddit.com/r/books/.rss" type="rss" />
 			<outline text="Books: Wokeread" title="Books: Wokeread" description="Books any time any day." xmlUrl="https://wokeread.home.blog/feed/" type="rss" />
 		</outline>
 		<outline text="Gaming" title="Gaming">
-			<outline text="Gaming: Escapist Magazine" title="Gaming: Escapist Magazine" description="Everything fun" xmlUrl="https://www.escapistmagazine.com/v2/feed/" type="rss" />
-			<outline text="Gaming: Eurogamer.net" title="Gaming: Eurogamer.net" description="Bad puns and video games since 1999." xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
-			<outline text="Gaming: Gamasutra News" title="Gaming: Gamasutra News" description="Gamasutra News" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
-			<outline text="Gaming: GameSpot - All Content" title="Gaming: GameSpot - All Content" description="GameSpot's Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
+			<outline text="Gaming: Escapist" title="Gaming: Escapist" description="Everything fun" xmlUrl="https://www.escapistmagazine.com/v2/feed/" type="rss" />
+			<outline text="Gaming: Eurogamer" title="Gaming: Eurogamer" description="Bad puns and video games since 1999." xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
+			<outline text="Gaming: Gamasutra" title="Gaming: Gamasutra" description="Gamasutra" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
+			<outline text="Gaming: GameSpot" title="Gaming: GameSpot" description="GameSpot's Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
 			<outline text="Gaming: IGN All" title="Gaming: IGN All" description="The latest IGN news, reviews and videos about video games, movies, TV, tech and comics" xmlUrl="http://feeds.ign.com/ign/all" type="rss" />
 			<outline text="Gaming: Indie Games Plus" title="Gaming: Indie Games Plus" description="Creative, Personal, Passionate Digital Experiences" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
 			<outline text="Gaming: Kotaku" title="Gaming: Kotaku" description="Gaming Reviews, News, Tips and More." xmlUrl="https://kotaku.com/rss" type="rss" />
 			<outline text="Gaming: Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" title="Gaming: Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" description="A beauty blog blooming with fresh makeup reviews, swatches and beauty tips from your friendly neighborhood beauty addict" xmlUrl="https://www.makeupandbeautyblog.com/feed/" type="rss" />
-			<outline text="Gaming: PlayStation.Blog" title="Gaming: PlayStation.Blog" description="Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more." xmlUrl="http://feeds.feedburner.com/psblog" type="rss" />
-			<outline text="Gaming: Polygon -  All" title="Gaming: Polygon -  All" description="" xmlUrl="https://www.polygon.com/rss/index.xml" type="rss" />
+			<outline text="Gaming: PlayStation" title="Gaming: PlayStation" description="Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more." xmlUrl="http://feeds.feedburner.com/psblog" type="rss" />
+			<outline text="Gaming: Polygon" title="Gaming: Polygon" description="" xmlUrl="https://www.polygon.com/rss/index.xml" type="rss" />
 			<outline text="Gaming: Rock, Paper, Shotgun" title="Gaming: Rock, Paper, Shotgun" description="This is a feed of all the latest articles from Rock Paper Shotgun." xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" type="rss" />
-			<outline text="Gaming: Steam RSS News Feed" title="Gaming: Steam RSS News Feed" description="All Steam news, all the time!" xmlUrl="https://store.steampowered.com/feeds/news.xml" type="rss" />
-			<outline text="Gaming: The Ancient Gaming Noob" title="Gaming: The Ancient Gaming Noob" description="Veni, Vidi, Scripsi" xmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob" type="rss" />
-			<outline text="Gaming: TouchArcade - iPhone, iPad, Android Games Forum" title="Gaming: TouchArcade - iPhone, iPad, Android Games Forum" description="iPhone and iPad Games and News" xmlUrl="https://toucharcade.com/community/forums/-/index.rss" type="rss" />
-			<outline text="Gaming: Xbox's Major Nelson" title="Gaming: Xbox's Major Nelson" description="Xbox news & facts direct from the source" xmlUrl="https://majornelson.com/feed/" type="rss" />
-			<outline text="Gaming: r/gaming" title="Gaming: r/gaming" description="A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports)." xmlUrl="https://www.reddit.com/r/gaming.rss" type="rss" />
+			<outline text="Gaming: Reddit" title="Gaming: Reddit" description="A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports)." xmlUrl="https://www.reddit.com/r/gaming.rss" type="rss" />
 		</outline>
 		<outline text="Movies" title="Movies">
 			<outline text="Movies: /Film" title="Movies: /Film" description="Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com." xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
 			<outline text="Movies: Ain't It Cool News Feed" title="Movies: Ain't It Cool News Feed" description="The best in movie, TV, DVD and comic book news." xmlUrl="https://www.aintitcool.com/node/feed/" type="rss" />
-			<outline text="Movies: ComingSoon.net" title="Movies: ComingSoon.net" description="New Movies, Movie Trailers, TV, Streaming, Anime & Video Game News" xmlUrl="https://www.comingsoon.net/feed" type="rss" />
-			<outline text="Movies: Deadline" title="Movies: Deadline" description="Hollywood Entertainment Breaking News" xmlUrl="https://deadline.com/feed/" type="rss" />
+			<outline text="Movies: ComingSoon" title="Movies: ComingSoon" description="New Movies, Movie Trailers, TV, Streaming, Anime & Video Game News" xmlUrl="https://www.comingsoon.net/feed" type="rss" />
 			<outline text="Movies: Film School Rejects" title="Movies: Film School Rejects" description="Movies, TV, and Culture" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
-			<outline text="Movies: FirstShowing.net" title="Movies: FirstShowing.net" description="Connecting Hollywood with its Audience" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
+			<outline text="Movies: FirstShowing" title="Movies: FirstShowing" description="Connecting Hollywood with its Audience" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
 			<outline text="Movies: IndieWire" title="Movies: IndieWire" description="The Voice of Creative Independence" xmlUrl="https://www.indiewire.com/feed" type="rss" />
-			<outline text="Movies: Movie News and Discussion" title="Movies: Movie News and Discussion" description="News & Discussion about Major Motion Pictures" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
-			<outline text="Movies: Movies" title="Movies: Movies" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
+			<outline text="Movies: Reddit" title="Movies: Reddit" description="News & Discussion about Major Motion Pictures" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
+			<outline text="Movies: Bleedingcool" title="Movies: Bleedingcool" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
 			<outline text="Movies: The A.V. Club" title="Movies: The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://film.avclub.com/rss" type="rss" />
 			<outline text="Movies: Variety" title="Movies: Variety" description="" xmlUrl="https://variety.com/feed/" type="rss" />
 		</outline>
@@ -47,15 +40,17 @@
 			<outline text="Music: EDM.com - The Latest Electronic Dance Music News, Reviews & Artists" title="Music: EDM.com - The Latest Electronic Dance Music News, Reviews & Artists" description="The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more." xmlUrl="https://edm.com/.rss/full/" type="rss" />
 			<outline text="Music: Metal Injection" title="Music: Metal Injection" description="Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more." xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
 			<outline text="Music: Music Business Worldwide" title="Music: Music Business Worldwide" description="News, jobs and analysis for the global music industry" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
-			<outline text="Music: RSS: News" title="Music: RSS: News" description="News content RSS feed" xmlUrl="http://pitchfork.com/rss/news" type="rss" />
+			<outline text="Music: Pitchfork" title="Music: Pitchfork" description="News content RSS feed" xmlUrl="http://pitchfork.com/rss/news" type="rss" />
+			<outline text="Music: Pitchfork Albums" title="Music: Pitchfork Albums" description="" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
 			<outline text="Music: Song Exploder" title="Music: Song Exploder" description="A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made." xmlUrl="http://songexploder.net/feed" type="rss" />
 			<outline text="Music: Your EDM" title="Music: Your EDM" description="EDM News & Electronic Dance Music Reviews" xmlUrl="https://www.youredm.com/feed" type="rss" />
+			<outline text="Music: Stereogum" title="Music: Stereogum" description="" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
 		<outline text="Television" title="Television">
-			<outline text="TV: TV" title="TV: TV" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
+			<outline text="TV: Bleedingcool" title="TV: Bleedingcool" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
 			<outline text="TV: TV Fanatic" title="TV: TV Fanatic" description="" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
 			<outline text="TV: TVLine" title="TV: TVLine" description="TV News, Previews, Spoilers, Casting Scoop, Interviews" xmlUrl="https://tvline.com/feed/" type="rss" />
-			<outline text="TV: Television News and Discussion" title="TV: Television News and Discussion" description="‎" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
+			<outline text="TV: Reddit" title="TV: Reddit" description="‎" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
 			<outline text="TV: The A.V. Club" title="TV: The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://tv.avclub.com/rss" type="rss" />
 			<outline text="TV: the TV addict" title="TV: the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="http://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
 		</outline>
