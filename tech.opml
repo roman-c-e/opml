@@ -17,7 +17,7 @@
 			<outline text="News: TechCrunch" title="News: TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
 			<outline text="News: The Next Web" title="News: The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
 			<outline text="News: The Verge -  All Posts" title="News: The Verge -  All Posts" description="" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
-			<outline text="News: https://www.engadget.com/" title="News: https://www.engadget.com/" description="https://www.engadget.com/" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+			<outline text="News: Engadget" title="News: Engadget" description="" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
