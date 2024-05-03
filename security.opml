@@ -21,7 +21,6 @@
             <outline type="rss" text="Security: Stealthbits Technologies" xmlUrl="https://blog.stealthbits.com/feed/" htmlUrl="https://stealthbits.com"/>
             <outline type="rss" text="Security: Tripwire" xmlUrl="http://feeds.feedburner.com/tripwire-state-of-security" htmlUrl="https://www.tripwire.com/"/>
             <outline type="rss" text="Security: Cyberreason" xmlUrl="https://www.cybereason.com/blog/rss.xml" htmlUrl="https://www.cybereason.com/blog"/>
-            <outline type="rss" text="Security: BlueKaizen" xmlUrl="http://www.bluekaizen.org/feed/" htmlUrl="http://www.bluekaizen.org"/>
             <outline type="rss" text="Security: CERTs" xmlUrl="https://insights.sei.cmu.edu/cert/rss.xml" htmlUrl="https://insights.sei.cmu.edu/cert/"/>
             <outline type="rss" text="Security: CERT-Polska" xmlUrl="https://www.cert.pl/en/feed/" htmlUrl="https://cert.pl/en/"/>
             <outline type="rss" text="Security: CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss" htmlUrl="https://cert.europa.eu/publications/threat-intelligence/"/>
@@ -29,12 +28,10 @@
             <outline type="rss" text="Security: Confiant" xmlUrl="https://blog.confiant.com/feed" htmlUrl="https://blog.confiant.com?source=rss----4423e6ce17be---4"/>
             <outline type="rss" text="Security: Cyber Threat Alert" xmlUrl="https://www.cisecurity.org/feed/alert" htmlUrl="https://www.cisecurity.org/feed/alert"/>
             <outline type="rss" text="Security: CyberArk" xmlUrl="http://www.cyberark.com/feed/" htmlUrl="https://www.cyberark.com/"/>
-            <outline type="rss" text="Security: DDoS &amp;#38; Security Reports" xmlUrl="http://www.arbornetworks.com/asert/feed/" htmlUrl="https://www.netscout.com/blog/asert/rss.xml"/>
             <outline type="rss" text="Security: Daily Dave" xmlUrl="http://seclists.org/rss/dailydave.rss" htmlUrl="https://seclists.org/#dailydave"/>
             <outline type="rss" text="Security: Daniel Miessler" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com"/>
             <outline type="rss" text="Security: Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
             <outline type="rss" text="Security: Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
-            <outline type="rss" text="Security: Darknet Diaries" xmlUrl="http://feeds.feedburner.com/DarknetDiaries" htmlUrl="https://darknetdiaries.com/"/>
             <outline type="rss" text="Security: Darktrace" xmlUrl="https://www.darktrace.com/blog/index.xml" htmlUrl="https://darktrace.com"/>
             <outline type="rss" text="Security: Dave Waterson on Security" xmlUrl="http://dwaterson.com/feed/" htmlUrl="https://dwaterson.com"/>
             <outline type="rss" text="Security: David Longenecker" xmlUrl="https://feeds.feedburner.com/DavidLongenecker" htmlUrl="http://www.securityforrealpeople.com/"/>
@@ -53,7 +50,6 @@
             <outline type="rss" text="Security: Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com"/>
             <outline type="rss" text="Security: Graham Cluley" xmlUrl="http://feeds.feedburner.com/GrahamCluleysBlog" htmlUrl="https://grahamcluley.com"/>
             <outline type="rss" text="Security: Gynvael Coldwind" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN" htmlUrl="https://gynvael.coldwind.pl/"/>
-            <outline type="rss" text="Security: HOTforSecurity" xmlUrl="http://feeds.feedburner.com/HOTforSecurity" htmlUrl="https://hotforsecurity.bitdefender.com"/>
             <outline type="rss" text="Security: Hack Read" xmlUrl="http://hackread.com/feed/" htmlUrl="https://www.hackread.com"/>
             <outline type="rss" text="Security: Hanno's blog" xmlUrl="http://www.hboeck.de/feeds/index.rss2" htmlUrl="https://blog.hboeck.de/"/>
             <outline type="rss" text="Security: Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>

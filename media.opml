@@ -9,7 +9,6 @@
 		<outline text="Gaming" title="Gaming">
 			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/feed/" type="rss" />
 			<outline text="Gaming: Eurogamer" xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
-			<outline text="Gaming: Gamasutra" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
 			<outline text="Gaming: Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
 		</outline>
@@ -23,12 +22,11 @@
 			<outline text="Movies: Variety" xmlUrl="https://variety.com/feed/" type="rss" />
 		</outline>
 		<outline text="Music" title="Music">
-			<outline text="Music: Billboard" xmlUrl="https://www.billboard.com/articles/rss.xml" type="rss" />
+			<outline text="Music: Billboard" xmlUrl="https://www.billboard.com/feed/rss/" type="rss" />
 			<outline text="Music: Consequence" xmlUrl="http://consequenceofsound.net/feed" type="rss" />
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
 			<outline text="Music: Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
 			<outline text="Music: Pitchfork Albums" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
-			<outline text="Music: Your EDM" xmlUrl="https://www.youredm.com/feed" type="rss" />
 			<outline text="Music: Stereogum" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
 		<outline text="Television" title="Television">
