@@ -15,9 +15,7 @@
             <outline text="Apple: MacRumors: Mac News and Rumors - Mac" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />
             <outline text="Apple: MacStories" xmlUrl="https://www.macstories.net/feed" type="rss" />
             <outline text="Apple: Macworld.com" xmlUrl="https://www.macworld.com/index.rss" type="rss" />
-            <outline text="Apple: The unofficial Apple community" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
-            <outline text="Apple: r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
-		</outline>
+      	</outline>
 		<outline text="Android" title="Android">
             <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
             <outline text="Android: Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
@@ -44,7 +42,6 @@
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
-            <outline text="Programming: programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
         </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
@@ -55,7 +52,6 @@
             <outline text="UI/UX: UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" type="rss" />
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
             <outline text="UI/UX: Usability Geek" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
-            <outline text="UI/UX: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
-        </outline>
+         </outline>
 	</body>
 </opml>

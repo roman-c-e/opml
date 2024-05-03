@@ -293,16 +293,5 @@
             <outline type="rss" text="Web: Security Breached" xmlUrl="https://blog.securitybreached.org/feed/" htmlUrl="https://blog.securitybreached.org"/>
             <outline type="rss" text="Web: mert's blog" xmlUrl="https://blog.mert.ninja/rss/" htmlUrl="https://blog.mert.ninja/"/>
         </outline>
-        <outline text="reddit" ttrssSortOrder="17">
-            <outline type="rss" text="Reddit: Blackhat Library" xmlUrl="http://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/"/>
-            <outline type="rss" text="Reddit: Computer Forensics" xmlUrl="http://www.reddit.com/r/computerforensics/.rss" htmlUrl="https://www.reddit.com/r/computerforensics/"/>
-            <outline type="rss" text="Reddit: Deep Web" xmlUrl="http://www.reddit.com/r/deepweb/.rss" htmlUrl="https://www.reddit.com/r/deepweb/"/>
-            <outline type="rss" text="Reddit: HowToHack" xmlUrl="http://www.reddit.com/r/HowToHack/.rss" htmlUrl="https://www.reddit.com/r/HowToHack/"/>
-            <outline type="rss" text="Reddit: Information Security" xmlUrl="http://www.reddit.com/r/Information_Security/.rss" htmlUrl="https://www.reddit.com/r/Information_Security/"/>
-            <outline type="rss" text="Reddit: Netsec" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
-            <outline type="rss" text="Reddit: Netsecstudents" xmlUrl="http://www.reddit.com/r/netsecstudents/.rss" htmlUrl="https://www.reddit.com/r/netsecstudents/"/>
-            <outline type="rss" text="Reddit: Reverse Engineering" xmlUrl="http://www.reddit.com/r/ReverseEngineering/.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering/"/>
-            <outline type="rss" text="Reddit: Social Engineering" xmlUrl="http://www.reddit.com/r/SocialEngineering/.rss" htmlUrl="https://www.reddit.com/r/SocialEngineering/"/>
-        </outline>
 	</body>
 </opml>

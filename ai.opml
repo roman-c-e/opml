@@ -236,15 +236,5 @@
             <outline text="ReinforcmentLearning: few-shot learning " xmlUrl="https://mpatacchiola.github.io/blog/feed.xml" rssowl:id="12543" />
             <outline text="ReinforcmentLearning: Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" />
         </outline>
-        <outline text="Reddit">
-            <outline text="Reddit: Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial" type="rss" />
-            <outline text="Reddit: Computer Vision" type="rss" xmlUrl="https://www.reddit.com/r/computervision" />
-            <outline text="Reddit: Data Science" xmlUrl="https://www.reddit.com/r/datascience" type="rss" />
-            <outline text="Reddit: Deep Learning" xmlUrl="https://www.reddit.com/r/deeplearning" type="rss" />
-            <outline text="Reddit: Natural Language Processing" xmlUrl="https://www.reddit.com/r/LanguageTechnology" type="rss" />
-            <outline text="Reddit: Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning" type="rss" />
-            <outline text="Reddit: Neural Networks, Deep Learning and Machine Learning" xmlUrl="https://www.reddit.com/r/neuralnetworks" type="rss" />
-            <outline text="Reddit: Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
-        </outline>
 	</body>
 </opml>

@@ -19,7 +19,6 @@
 			<outline text="Movies: Film School Rejects" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
 			<outline text="Movies: FirstShowing" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
 			<outline text="Movies: IndieWire" xmlUrl="https://www.indiewire.com/feed" type="rss" />
-			<outline text="Movies: Reddit" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
 			<outline text="Movies: Bleedingcool" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
 			<outline text="Movies: Variety" xmlUrl="https://variety.com/feed/" type="rss" />
 		</outline>
@@ -35,7 +34,6 @@
 		<outline text="Television" title="Television">
 			<outline text="TV: Bleedingcool" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
 			<outline text="TV: TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
-			<outline text="TV: Reddit" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
 		</outline>
 	</body>
 </opml>
