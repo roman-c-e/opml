@@ -2,6 +2,8 @@
 <opml version="1.0">
 	<body>
         <outline text="News" title="News">
+
+            <outline text="News: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
             <outline type="rss" text="News: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" />
             <outline type="rss" text="News: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" />
         </outline>
@@ -19,9 +21,8 @@
 		<outline text="Android" title="Android">
             <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
             <outline text="Android: Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
-            <outline text="Android: AndroidGuys" xmlUrl="https://www.androidguys.com/feed" type="rss" />
             <outline text="Android: Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
-            <outline text="Android: xda-developers" xmlUrl="https://data.xda-developers.com/portal-feed" type="rss" />
+            <outline text="Android: xda-developers" xmlUrl="https://www.xda-developers.com/feed" type="rss" />
 		</outline>
         <outline text="Programming" title="Programming">
             <outline text="Programming: Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" />
@@ -30,7 +31,6 @@
             <outline text="Programming: Google Developers" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" />
             <outline text="Programming: InfoQ" xmlUrl="https://feed.infoq.com" type="rss" />
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
-            <outline text="Programming: LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" type="rss" />
             <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
             <outline text="Programming: Netflix TechBlog - Medium" xmlUrl="https://netflixtechblog.com/feed" type="rss" />
             <outline text="Programming: Prezi Engineering - Medium" xmlUrl="https://engineering.prezi.com/feed" type="rss" />
@@ -38,7 +38,6 @@
             <outline text="Programming: Robert Heaton |" xmlUrl="https://robertheaton.com/feed.xml" type="rss" />
             <outline text="Programming: Scott Hanselman's" xmlUrl="http://feeds.hanselman.com/ScottHanselman" type="rss" />
             <outline text="Programming: Scripting News" xmlUrl="http://scripting.com/rss.xml" type="rss" />
-            <outline text="Programming: Signal v. Noise" xmlUrl="https://m.signalvnoise.com/feed/" type="rss" />
             <outline text="Programming: Slack Engineering" xmlUrl="https://slack.engineering/feed" type="rss" />
             <outline text="Programming: Spotify Engineering" xmlUrl="https://labs.spotify.com/feed/" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
@@ -49,7 +48,6 @@
         </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
-            <outline text="UI/UX: Designer News Feed" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
             <outline text="UI/UX: Inside Design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
             <outline text="UI/UX: JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" type="rss" />
             <outline text="UI/UX: NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
