@@ -7,7 +7,7 @@
 			<outline text="Books: Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
 		</outline>
 		<outline text="Gaming" title="Gaming">
-			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/v2/feed/" type="rss" />
+			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/feed/" type="rss" />
 			<outline text="Gaming: Eurogamer" xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
 			<outline text="Gaming: Gamasutra" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />

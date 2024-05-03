@@ -26,7 +26,7 @@
 			<outline text="Space: Space.com" xmlUrl="https://www.space.com/feeds/all" type="rss" />
 		</outline>
         <outline text="History" title="History">
-			<outline text="History: Blog Feed" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
+			<outline text="History: American History" xmlUrl="https://americanhistory.si.edu/rss.xml" type="rss" />
 			<outline text="History: HistoryNet" xmlUrl="http://www.historynet.com/feed" type="rss" />
 			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
 			<outline text="History: the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />

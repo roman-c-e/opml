@@ -6,7 +6,6 @@
 			<outline text="DIY: Apartment Therapy" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
 			<outline text="DIY: Hackaday" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
-			<outline text="DIY: Etsy Journal" xmlUrl="https://blog.etsy.com/en/feed/" type="rss" />
 			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
 			<outline text="DIY: IKEA Hackers" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
 			<outline text="DIY: MUO - Feed" xmlUrl="https://www.makeuseof.com/feed/" type="rss" />
@@ -36,7 +35,6 @@
         <outline text="Travel" title="Travel">
 			<outline text="Travel: Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
 			<outline text="Travel: Live Life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
-			<outline text="Travel: Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
 			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
 			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>

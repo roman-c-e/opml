@@ -2,6 +2,8 @@
 <opml version="1.0">
 	<body>
 		<outline text="Business & Economy" title="Business & Economy">
+			<outline text="News: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
+			<outline text="News: DerStandard" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
 			<outline text="News: BBC" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" type="rss" />
 			<outline text="News: Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
 			<outline text="News: Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
@@ -11,6 +13,9 @@
 			<outline text="News: Business Standard" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="News: Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
+		</outline>
+		<outline text="Career" title="Career">
+			<outline text="Career: DerStandard" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
 		</outline>
 		<outline text="Personal finance" title="Personal finance">
 			<outline text="PersFin: Afford Anything" xmlUrl="https://affordanything.com/feed/" type="rss" />
