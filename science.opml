@@ -2,40 +2,34 @@
 <opml version="1.0">
 	<body>
 		<outline text="Science" title="Science">
-			<outline text="Science: ORF" title="Science: ORF" description="" xmlUrl="https://rss.orf.at/science.xml" type="rss" />
-			<outline text="Science: DerStandard" title="Science: DerStandard" description="" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
-			<outline text="Science: Heise" title="Science: Heise" description="" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
-			<outline text="Science: BBC: Science & Environment" title="Science: BBC: Science & Environment" description="BBC News - Science & Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" type="rss" />
-			<outline text="Science: FlowingData" title="Science: FlowingData" description="Strength in Numbers" xmlUrl="https://flowingdata.com/feed" type="rss" />
-			<outline text="Science: Gizmodo" title="Science: Gizmodo" description="We come from the future" xmlUrl="https://gizmodo.com/tag/science/rss" type="rss" />
-			<outline text="Science: Latest Science News -- ScienceDaily" title="Science: Latest Science News -- ScienceDaily" description="" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
-			<outline text="Science: NYT" title="Science: NYT" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
-			<outline text="Science: Nature" title="Science: Nature" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community.&nbsp;&nbsp;" xmlUrl="https://www.nature.com/nature.rss" type="rss" />
-			<outline text="Science: Phys.org - latest science and technology news stories" title="Science: Phys.org - latest science and technology news stories" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine." xmlUrl="https://phys.org/rss-feed/" type="rss" />
-			<outline text="Science: Probably Science" title="Science: Probably Science" description="Professional comedians with so-so STEM pedigrees take you through this week in science. Incompetently. Featuring hosts Matt Kirshen, Andy Wood (and sometimes Jesse Case or Brooks Wheelan) along with a rotating cast of special guests from the worlds of comedy and science." xmlUrl="https://probablyscience.libsyn.com/rss" type="rss" />
-			<outline text="Science: Reddit Science" title="Science: Reddit Science" description="This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publications and popular science coverage of current research." xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
-			<outline text="Science: Sawbones: A Marital Tour of Misguided Medicine" title="Science: Sawbones: A Marital Tour of Misguided Medicine" description="Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people." xmlUrl="https://feeds.simplecast.com/y1LF_sn2" type="rss" />
-			<outline text="Science: Science Latest" title="Science: Science Latest" description="Channel Description" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
-			<outline text="Science: Science Vs" title="Science: Science Vs" description="There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet that finds out what’s fact, what’s not, and what’s somewhere in between. We do the hard work of sifting through all the science so you don't have to and cover everything from 5G and Pandemics, to Vaping and Fasting Diets." xmlUrl="http://feeds.gimletmedia.com/ScienceVs" type="rss" />
-			<outline text="Science: Science-Based Medicine" title="Science: Science-Based Medicine" description="Exploring issues and controversies in the relationship between science and medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" type="rss" />
-			<outline text="Science: Scientific American Content: Global" title="Science: Scientific American Content: Global" description="Science news and technology updates from Scientific American" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
-			<outline text="Science: Shirtloads of Science" title="Science: Shirtloads of Science" description="Dr Karl’s a curious optimist" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" type="rss" />
-			<outline text="Science: This Week in Science" title="Science: This Week in Science" description="The kickass science and technology radio show that delivers an irreverent look at the week in science and technology." xmlUrl="http://www.twis.org/feed/" type="rss" />
+			<outline text="Science: ORF" xmlUrl="https://rss.orf.at/science.xml" type="rss" />
+			<outline text="Science: DerStandard" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
+			<outline text="Science: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
+			<outline text="Science: BBC: Science & Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" type="rss" />
+			<outline text="Science: FlowingData" xmlUrl="https://flowingdata.com/feed" type="rss" />
+			<outline text="Science: Gizmodo" xmlUrl="https://gizmodo.com/tag/science/rss" type="rss" />
+			<outline text="Science: Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
+			<outline text="Science: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
+			<outline text="Science: Nature" xmlUrl="https://www.nature.com/nature.rss" type="rss" />
+			<outline text="Science: Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" type="rss" />
+			<outline text="Science: Reddit Science" xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
+			<outline text="Science: Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
+			<outline text="Science: Science-Based Medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" type="rss" />
+			<outline text="Science: Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
 		</outline>
         <outline text="Space" title="Space">
-			<outline text="Space: Reddit" title="Space: Reddit" description="Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
-			<outline text="Space: NASA Breaking News" title="Space: NASA Breaking News" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
-			<outline text="Space: New Scientist - Space" title="Space: New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
-			<outline text="Space: Sky & Telescope" title="Space: Sky & Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
-			<outline text="Space: TheGuardian" title="Space: TheGuardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
-			<outline text="Space: Space.com" title="Space: Space.com" description="Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier." xmlUrl="https://www.space.com/feeds/all" type="rss" />
-			<outline text="Space: SpaceX" title="Space: SpaceX" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" type="rss" />
+			<outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
+			<outline text="Space: NASA Breaking News" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
+			<outline text="Space: New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
+			<outline text="Space: Sky & Telescope" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
+			<outline text="Space: TheGuardian" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
+			<outline text="Space: Space.com" xmlUrl="https://www.space.com/feeds/all" type="rss" />
 		</outline>
         <outline text="History" title="History">
-			<outline text="History: Blog Feed" title="History: Blog Feed" description="" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
-			<outline text="History: HistoryNet" title="History: HistoryNet" description="HistoryNet.com contains daily features, photo galleries and over 5,000 articles originally published in our various magazines." xmlUrl="http://www.historynet.com/feed" type="rss" />
-			<outline text="History: The History Reader" title="History: The History Reader" description="A History Blog from St. Martin’s Press" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
-			<outline text="History: the memory palace" title="History: the memory palace" description="<p>the memory palace</p>" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
+			<outline text="History: American History" xmlUrl="https://americanhistory.si.edu/rss.xml" type="rss" />
+			<outline text="History: HistoryNet" xmlUrl="http://www.historynet.com/feed" type="rss" />
+			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
+			<outline text="History: the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
 		</outline>
 	</body>
 </opml>

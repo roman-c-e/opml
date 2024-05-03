@@ -2,22 +2,19 @@
 <opml version="1.0">
 	<body>
 		<outline text="Tech" title="Tech">
-		    <outline text="News: NYT: Technology" title="AI: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
-			<outline text="News: Ars Technica" title="News: Ars Technica" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis." xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
-			<outline text="News: CNET News" title="News: CNET News" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" type="rss" />
-			<outline text="News: Clockwise" title="News: Clockwise" description="Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent." xmlUrl="https://www.relay.fm/clockwise/feed" type="rss" />
-			<outline text="News: Gizmodo" title="News: Gizmodo" description="We come from the future" xmlUrl="https://gizmodo.com/rss" type="rss" />
-			<outline text="News: Hacker News" title="News: Hacker News" description="Links for the intellectually curious, ranked by readers." xmlUrl="https://news.ycombinator.com/rss" type="rss" />
-			<outline text="News: Lifehacker" title="News: Lifehacker" description="Do everything better" xmlUrl="https://lifehacker.com/rss" type="rss" />
-			<outline text="News: Mashable" title="News: Mashable" description="Mashable is a leading source for news, information & resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco." xmlUrl="http://feeds.mashable.com/Mashable" type="rss" />
-			<outline text="News: ReadWrite" title="News: ReadWrite" description="The Blog of Things" xmlUrl="https://readwrite.com/feed/" type="rss" />
-			<outline text="News: Rocket" title="News: Rocket" description="Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort have accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort." xmlUrl="https://www.relay.fm/rocket/feed" type="rss" />
-			<outline text="News: Slashdot" title="News: Slashdot" description="News for nerds, stuff that matters" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
-			<outline text="News: Stratechery by Ben Thompson" title="News: Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="http://stratechery.com/feed/" type="rss" />
-			<outline text="News: TechCrunch" title="News: TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
-			<outline text="News: The Next Web" title="News: The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
-			<outline text="News: The Verge -  All Posts" title="News: The Verge -  All Posts" description="" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
-			<outline text="News: Engadget" title="News: Engadget" description="" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+			<outline text="News: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
+			<outline text="News: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
+			<outline text="News: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
+			<outline text="News: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
+			<outline text="News: Hacker News" xmlUrl="https://news.ycombinator.com/rss" type="rss" />
+			<outline text="News: Mashable" xmlUrl="http://feeds.mashable.com/Mashable" type="rss" />
+			<outline text="News: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
+			<outline text="News: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
+			<outline text="News: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
+			<outline text="News: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
+			<outline text="News: The Next Web" xmlUrl="https://thenextweb.com/feed/" type="rss" />
+			<outline text="News: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+			<outline text="News: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 		</outline>
 	</body>
 </opml>

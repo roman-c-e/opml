@@ -3,57 +3,52 @@
 	<body>
 		<outline text="DIY" title="DIY">
 			<outline text="DIY: A Beautiful Mess" title="DIY: A Beautiful Mess" description="Crafts, Home Décor, Recipes" xmlUrl="https://abeautifulmess.com/feed" type="rss" />
-			<outline text="DIY: Apartment Therapy" title="DIY: Apartment Therapy" description="Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
-			<outline text="DIY: Hackaday" title="DIY: Hackaday" description="Fresh hacks every day" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
-			<outline text="DIY: Doityourself.com" title="DIY: Doityourself.com" description="Do it yourself home improvement and diy repair at Doityourself.com. Includes home improvement projects, home repair, kitchen remodeling, plumbing, electrical, painting, real estate, and decorating." xmlUrl="https://www.doityourself.com/feed" type="rss" />
-			<outline text="DIY: Etsy Journal" title="DIY: Etsy Journal" description="Ideas and inspiration for creative living." xmlUrl="https://blog.etsy.com/en/feed/" type="rss" />
-			<outline text="DIY: How-To Geek" title="DIY: How-To Geek" description="We Explain Technology" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
-			<outline text="DIY: IKEA Hackers" title="DIY: IKEA Hackers" description="Clever ideas and hacks for your IKEA" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
+			<outline text="DIY: Apartment Therapy" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
+			<outline text="DIY: Hackaday" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
+			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
+			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
+			<outline text="DIY: IKEA Hackers" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
 		</outline>
 		<outline text="Food" title="Food">
-			<outline text="Food: 101 Cookbooks" title="Food: 101 Cookbooks" description="When you own over 100 cookbooks, it is time to stop buying, and start cooking. This site chronicles a cookbook collection, one recipe at a time." xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
-			<outline text="Food: Babish Culinary Universe" title="Food: Babish Culinary Universe" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" type="rss" />
-			<outline text="Food: Chocolate & Zucchini" title="Food: Chocolate & Zucchini" description="Simple Recipes from my Paris Kitchen" xmlUrl="https://cnz.to/feed/" type="rss" />
-			<outline text="Food: David Lebovitz" title="Food: David Lebovitz" description="Baking and cooking recipes for everyone" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
-			<outline text="Food: Green Kitchen Stories" title="Food: Green Kitchen Stories" description="Healthy Vegetarian Recipes." xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
-			<outline text="Food: How Sweet Eats" title="Food: How Sweet Eats" description="For people who, like, totally love food." xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
-			<outline text="Food: Joy the Baker" title="Food: Joy the Baker" description="" xmlUrl="http://joythebaker.com/feed/" type="rss" />
-			<outline text="Food: Love and Olive Oil" title="Food: Love and Olive Oil" description="Eat to Live. Cook to Love." xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
-			<outline text="Food: NYT" title="Food: NYT" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
-			<outline text="Food: Oh She Glows" title="Food: Oh She Glows" description="Vegan Recipes to Glow From The Inside Out" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
-			<outline text="Food: Serious Eats: Recipes" title="Food: Serious Eats: Recipes" description="Our Favorite Recipes, Curated and Collected" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
-			<outline text="Food: Shutterbean" title="Food: Shutterbean" description="food, photography & inspiration" xmlUrl="http://www.shutterbean.com/feed/" type="rss" />
-			<outline text="Food: Skinnytaste" title="Food: Skinnytaste" description="Delicious Healthy Recipes Made with Real Food" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
-			<outline text="Food: Sprouted Kitchen" title="Food: Sprouted Kitchen" description="" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
-			<outline text="Food: Williams-Sonoma Taste" title="Food: Williams-Sonoma Taste" description="" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
-			<outline text="Food: smitten kitchen" title="Food: smitten kitchen" description="Fearless cooking from a tiny NYC kitchen." xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
+			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
+			<outline text="Food: Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" type="rss" />
+			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
+			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
+			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
+			<outline text="Food: How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
+			<outline text="Food: Joy the Baker" xmlUrl="http://joythebaker.com/feed/" type="rss" />
+			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
+			<outline text="Food: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
+			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
+			<outline text="Food: Serious Eats: Recipes" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
+			<outline text="Food: Shutterbean" xmlUrl="http://www.shutterbean.com/feed/" type="rss" />
+			<outline text="Food: Skinnytaste" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
+			<outline text="Food: Sprouted Kitchen" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
+			<outline text="Food: Williams-Sonoma Taste" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
+			<outline text="Food: smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
 		</outline>
         <outline text="Travel" title="Travel">
-			<outline text="Travel: Atlas Obscura" title="Travel: Atlas Obscura" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
-			<outline text="Travel: Live Life" title="Travel: Live Life" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
-			<outline text="Travel: Lonely Planet" title="Travel: Lonely Planet" description="Travel news and more from Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
-			<outline text="Travel: NYT" title="Travel: NYT" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
-			<outline text="Travel: Nomadic Matt's Travel Site" title="Travel: Nomadic Matt's Travel Site" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
-			<outline text="Travel: TheGuardian" title="Travel: TheGuardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
+			<outline text="Travel: Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
+			<outline text="Travel: Live Life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
+			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
+			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
 		<outline text="Funny" title="Funny">
-			<outline text="Fun: AwkwardFamilyPhotos.com" title="Fun: AwkwardFamilyPhotos.com" description="Spreading the Awkwardness" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
-			<outline text="Fun: Cracked: All Posts" title="Fun: Cracked: All Posts" description="Every post that goes up on Cracked.com" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
-			<outline text="Fun: Explosm.net" title="Fun: Explosm.net" description="Flash Animations, Daily Comics and more!" xmlUrl="http://feeds.feedburner.com/Explosm" type="rss" />
-			<outline text="Fun: I Can Has Cheezburger?" title="Fun: I Can Has Cheezburger?" description="World's largest collection of cat memes and other animals" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" type="rss" />
-			<outline text="Fun: PHD Comics" title="Fun: PHD Comics" description="Providing global up-to-the-minute procrastination!" xmlUrl="http://phdcomics.com/gradfeed.php" type="rss" />
-			<outline text="Fun: Penny Arcade" title="Fun: Penny Arcade" description="News Fucker 6000" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
-			<outline text="Fun: PostSecret" title="Fun: PostSecret" description="" xmlUrl="https://postsecret.com/feed/?alt=rss" type="rss" />
-			<outline text="Fun: Saturday Morning Breakfast Cereal" title="Fun: Saturday Morning Breakfast Cereal" description="Latest Saturday Morning Breakfast Cereal comics and news" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
-			<outline text="Fun: The Bloggess" title="Fun: The Bloggess" description="Like Mother Teresa, only better." xmlUrl="https://thebloggess.com/feed/" type="rss" />
-			<outline text="Fun: The Daily WTF" title="Fun: The Daily WTF" description="Curious Perversions in Information Technology" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
-			<outline text="Fun: The Oatmeal - Comics by Matthew Inman" title="Fun: The Oatmeal - Comics by Matthew Inman" description="I make comics about science, cats, technology, and sometimes goats." xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
-			<outline text="Fun: The Onion" title="Fun: The Onion" description="America's Finest News Source." xmlUrl="https://www.theonion.com/rss" type="rss" />
-			<outline text="Fun: xkcd.com" title="Fun: xkcd.com" description="xkcd.com: A webcomic of romance and math humor." xmlUrl="https://xkcd.com/rss.xml" type="rss" />
+			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
+			<outline text="Fun: Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
+			<outline text="Fun: I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" type="rss" />
+			<outline text="Fun: PHD Comics" xmlUrl="http://phdcomics.com/gradfeed.php" type="rss" />
+			<outline text="Fun: Penny Arcade" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
+			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
+			<outline text="Fun: The Bloggess" xmlUrl="https://thebloggess.com/feed/" type="rss" />
+			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
+			<outline text="Fun: The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
+			<outline text="Fun: The Onion" xmlUrl="https://www.theonion.com/rss" type="rss" />
+			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
 		<outline text="Health" title="Health">
-			<outline text="Health: DerStandard" title="Health: DerStandard" description="Spreading the Awkwardness" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
-			<outline text="Health: NYT" title="Health: NYT" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" type="rss" />
+			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
+			<outline text="Health: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
