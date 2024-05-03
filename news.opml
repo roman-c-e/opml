@@ -49,7 +49,6 @@
 			<outline text="US: LATimes" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
 			<outline text="US: CNN: World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
 			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
-			<outline text="US: CNBC: News" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="US: CNBC: International" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
 			<outline text="US: Politico: Playbook" xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
 		</outline>

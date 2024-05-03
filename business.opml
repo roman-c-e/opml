@@ -9,7 +9,6 @@
 			<outline text="News: Forbes" xmlUrl="https://www.forbes.com/business/feed/" type="rss" />
 			<outline text="News: Fortune" xmlUrl="https://fortune.com/feed" type="rss" />
 			<outline text="News: Business Standard" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
-			<outline text="News: How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="News: Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
 		</outline>

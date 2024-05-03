@@ -15,7 +15,6 @@
 		</outline>
 		<outline text="Food" title="Food">
 			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
-			<outline text="Food: Babish Culinary Universe" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" type="rss" />
 			<outline text="Food: Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" type="rss" />
 			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
@@ -24,11 +23,9 @@
 			<outline text="Food: How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
 			<outline text="Food: Joy the Baker" xmlUrl="http://joythebaker.com/feed/" type="rss" />
 			<outline text="Food: Kitchn" xmlUrl="https://www.thekitchn.com/main.rss" type="rss" />
-			<outline text="Food: Laura in the Kitchen" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen" type="rss" />
 			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
 			<outline text="Food: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
 			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
-			<outline text="Food: Serious Eats" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=SeriousEats" type="rss" />
 			<outline text="Food: Serious Eats: Recipes" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
 			<outline text="Food: Shutterbean" xmlUrl="http://www.shutterbean.com/feed/" type="rss" />
 			<outline text="Food: Skinnytaste" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
@@ -41,18 +38,14 @@
 			<outline text="Travel: Live Life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
 			<outline text="Travel: Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
 			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
-			<outline text="Travel: Nomadic Matt's Travel Site" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
 			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
 			<outline text="Fun: Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
-			<outline text="Fun: Explosm.net" xmlUrl="http://feeds.feedburner.com/Explosm" type="rss" />
-			<outline text="Fun: FAIL Blog" xmlUrl="http://feeds.feedburner.com/failblog" type="rss" />
 			<outline text="Fun: I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" type="rss" />
 			<outline text="Fun: PHD Comics" xmlUrl="http://phdcomics.com/gradfeed.php" type="rss" />
 			<outline text="Fun: Penny Arcade" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
-			<outline text="Fun: PostSecret" xmlUrl="https://postsecret.com/feed/?alt=rss" type="rss" />
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
 			<outline text="Fun: The Bloggess" xmlUrl="https://thebloggess.com/feed/" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
