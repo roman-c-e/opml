@@ -2,61 +2,61 @@
 <opml version="1.0">
 	<body>
 		<outline text="Business & Economy" title="Business & Economy">
-			<outline text="News: BBC" title="News: BBC" description="" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" type="rss" />
-			<outline text="News: Seeking Alpha" title="News: Seeking Alpha" description="© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited." xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
-			<outline text="News: Duct Tape Marketing" title="News: Duct Tape Marketing" description="Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
-			<outline text="News: Economic Times" title="News: Economic Times" description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
-			<outline text="News: Forbes" title="News: Forbes" description="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" type="rss" />
-			<outline text="News: Fortune" title="News: Fortune" description="Fortune 500 Daily & Breaking Business News" xmlUrl="https://fortune.com/feed" type="rss" />
-			<outline text="News: Business Standard" title="News: Business Standard" description="Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates." xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
-			<outline text="News: How I Built This with Guy Raz" title="News: How I Built This with Guy Raz" description="Guy Raz dives into the stories behind some of the world's best known companies." xmlUrl="https://feeds.npr.org/510313/podcast.xml" type="rss" />
-			<outline text="News: CNBC" title="News: CNBC" description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
-			<outline text="News: Yahoo Finance" title="News: Yahoo Finance" description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
+			<outline text="News: BBC" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" type="rss" />
+			<outline text="News: Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
+			<outline text="News: Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
+			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
+			<outline text="News: Forbes" xmlUrl="https://www.forbes.com/business/feed/" type="rss" />
+			<outline text="News: Fortune" xmlUrl="https://fortune.com/feed" type="rss" />
+			<outline text="News: Business Standard" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
+			<outline text="News: How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" type="rss" />
+			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+			<outline text="News: Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
 		</outline>
 		<outline text="Personal finance" title="Personal finance">
-			<outline text="PersFin: Afford Anything" title="PersFin: Afford Anything" description="You Can Afford Anything ... Just Not Everything. What's It Gonna Be?" xmlUrl="https://affordanything.com/feed/" type="rss" />
-			<outline text="PersFin: Student Loan Hero" title="PersFin: Student Loan Hero" description="" xmlUrl="https://studentloanhero.com/blog/feed" type="rss" />
-			<outline text="PersFin: Budgets Are Sexy" title="PersFin: Budgets Are Sexy" description="A personal finance blog that won't put you to sleep" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
-			<outline text="PersFin: Financial Samurai" title="PersFin: Financial Samurai" description="Slicing Through Money's Mysteries" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
-			<outline text="PersFin: Frugalwoods" title="PersFin: Frugalwoods" description="Financial independence and simple living" xmlUrl="https://feeds.feedburner.com/Frugalwoods" type="rss" />
-			<outline text="PersFin: Get Rich Slowly" title="PersFin: Get Rich Slowly" description="personal finance that makes cents" xmlUrl="https://www.getrichslowly.org/feed/" type="rss" />
-			<outline text="PersFin: I Will Teach You To Be Rich" title="PersFin: I Will Teach You To Be Rich" description="by Ramit Sethi" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
-			<outline text="PersFin: Learn To Trade The Market" title="PersFin: Learn To Trade The Market" description="Learn Price Action Trading with Nial Fuller" xmlUrl="https://www.learntotradethemarket.com/feed" type="rss" />
-			<outline text="PersFin: Making Sense Of Cents" title="PersFin: Making Sense Of Cents" description="Learn how to make extra money, how to save money, how to start a blog, and more." xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
-			<outline text="PersFin: Millennial Money" title="PersFin: Millennial Money" description="Next Level Personal Finance" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
-			<outline text="PersFin: MintLife" title="PersFin: MintLife" description="Personal Finance News & Advice" xmlUrl="https://blog.mint.com/feed/" type="rss" />
-			<outline text="PersFin: Money Crashers" title="PersFin: Money Crashers" description="Personal Finance Guide to Turn the Tables on Money" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
-			<outline text="PersFin: Money Saving Mom®" title="PersFin: Money Saving Mom®" description="Saving Families Money Since 2007" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
-			<outline text="PersFin: Money Under 30" title="PersFin: Money Under 30" description="Just another Word Press site" xmlUrl="https://www.moneyunder30.com/feed" type="rss" />
-			<outline text="PersFin: MyWifeQuitHerJob.com" title="PersFin: MyWifeQuitHerJob.com" description="Starting An Online Store So Your Spouse Can Quit And Stay At Home With The Kids" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
-			<outline text="PersFin: Nerd's Eye View" title="PersFin: Nerd's Eye View" description="Commentary from Michael Kitces on Financial Planning News & Strategies" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&x=1" type="rss" />
-			<outline text="PersFin: Oblivious Investor" title="PersFin: Oblivious Investor" description="Low-Maintenance Investing with Index Funds and ETFs" xmlUrl="https://obliviousinvestor.com/feed/" type="rss" />
-			<outline text="PersFin: Personal Finance" title="PersFin: Personal Finance" description="Learn about budgeting, saving, getting out of debt, credit, investing, and retirement planning. Join our community, read the PF Wiki, and get on top of your finances!" xmlUrl="https://reddit.com/r/PersFin/.rss" type="rss" />
-			<outline text="PersFin: SavingAdvice.com" title="PersFin: SavingAdvice.com" description="Bridging the gap between saving money and investing" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
-			<outline text="PersFin: Side Hustle Nation" title="PersFin: Side Hustle Nation" description="Amplify your earning power" xmlUrl="https://www.sidehustlenation.com/feed" type="rss" />
-			<outline text="PersFin: The College Investor" title="PersFin: The College Investor" description="Student Loans, Investing, Building Wealth" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
-			<outline text="PersFin: The Dough Roller" title="PersFin: The Dough Roller" description="Money Management and Personal Finance | The Dough Roller" xmlUrl="https://www.doughroller.net/feed/" type="rss" />
-			<outline text="PersFin: The Penny Hoarder" title="PersFin: The Penny Hoarder" description="The Penny Hoarder is one of the largest personal finance websites in America, receiving millions of visitors each month looking to make and save extra money." xmlUrl="https://www.thepennyhoarder.com/feed/" type="rss" />
-			<outline text="PersFin: Well Kept Wallet" title="PersFin: Well Kept Wallet" description="" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
-			<outline text="PersFin: Wise Bread" title="PersFin: Wise Bread" description="Living large on a small budget" xmlUrl="http://feeds.killeraces.com/wisebread" type="rss" />
+			<outline text="PersFin: Afford Anything" xmlUrl="https://affordanything.com/feed/" type="rss" />
+			<outline text="PersFin: Student Loan Hero" xmlUrl="https://studentloanhero.com/blog/feed" type="rss" />
+			<outline text="PersFin: Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
+			<outline text="PersFin: Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
+			<outline text="PersFin: Frugalwoods" xmlUrl="https://feeds.feedburner.com/Frugalwoods" type="rss" />
+			<outline text="PersFin: Get Rich Slowly" xmlUrl="https://www.getrichslowly.org/feed/" type="rss" />
+			<outline text="PersFin: I Will Teach You To Be Rich" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
+			<outline text="PersFin: Learn To Trade The Market" xmlUrl="https://www.learntotradethemarket.com/feed" type="rss" />
+			<outline text="PersFin: Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
+			<outline text="PersFin: Millennial Money" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
+			<outline text="PersFin: MintLife" xmlUrl="https://blog.mint.com/feed/" type="rss" />
+			<outline text="PersFin: Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
+			<outline text="PersFin: Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
+			<outline text="PersFin: Money Under 30" xmlUrl="https://www.moneyunder30.com/feed" type="rss" />
+			<outline text="PersFin: MyWifeQuitHerJob.com" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
+			<outline text="PersFin: Nerd's Eye View" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&x=1" type="rss" />
+			<outline text="PersFin: Oblivious Investor" xmlUrl="https://obliviousinvestor.com/feed/" type="rss" />
+			<outline text="PersFin: Personal Finance" xmlUrl="https://reddit.com/r/PersFin/.rss" type="rss" />
+			<outline text="PersFin: SavingAdvice.com" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
+			<outline text="PersFin: Side Hustle Nation" xmlUrl="https://www.sidehustlenation.com/feed" type="rss" />
+			<outline text="PersFin: The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
+			<outline text="PersFin: The Dough Roller" xmlUrl="https://www.doughroller.net/feed/" type="rss" />
+			<outline text="PersFin: The Penny Hoarder" xmlUrl="https://www.thepennyhoarder.com/feed/" type="rss" />
+			<outline text="PersFin: Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
+			<outline text="PersFin: Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" type="rss" />
 		</outline>
 		<outline text="Startups" title="Startups">
-			<outline text="StartUps: AVC" title="StartUps: AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="StartUps: Both Sides of the Table - Medium" title="StartUps: Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
-			<outline text="StartUps: Entrepreneur" title="StartUps: Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
-			<outline text="StartUps: Forbes - Entrepreneurs" title="StartUps: Forbes - Entrepreneurs" description="Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
-			<outline text="StartUps: Hacker News" title="StartUps: Hacker News" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" type="rss" />
-			<outline text="StartUps: Inc.com" title="StartUps: Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />
-			<outline text="StartUps: Inside Intercom" title="StartUps: Inside Intercom" description="Product, Marketing, and Customer Support Blog" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
-			<outline text="StartUps: Masters of Scale with Reid Hoffman" title="StartUps: Masters of Scale with Reid Hoffman" description="<p>The best startup advice from Silicon Valley and beyond. Iconic CEOs — from Nike to Netflix, Starbucks to Slack — share the stories and strategies that helped them grow from startups into global brands.</p>" xmlUrl="https://rss.art19.com/masters-of-scale" type="rss" />
-			<outline text="StartUps: Small Business Trends" title="StartUps: Small Business Trends" description="Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. "Small business success... delivered daily."" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
-			<outline text="StartUps: Smart Passive Income" title="StartUps: Smart Passive Income" description="Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
-			<outline text="StartUps: Springwise" title="StartUps: Springwise" description="Innovation That Matters" xmlUrl="https://www.springwise.com/feed" type="rss" />
-			<outline text="StartUps: Steve Blank" title="StartUps: Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" type="rss" />
-			<outline text="StartUps: The Tim Ferriss Show" title="StartUps: The Tim Ferriss Show" description="Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek" xmlUrl="https://rss.art19.com/tim-ferriss-show" type="rss" />
-			<outline text="StartUps: This Week in Startups - Video" title="StartUps: This Week in Startups - Video" description="Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond." xmlUrl="http://feeds.feedburner.com/twistvid" type="rss" />
-			<outline text="StartUps: VentureBeat" title="StartUps: VentureBeat" description="Transformative tech coverage that matters" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" type="rss" />
-			<outline text="StartUps: Feld Thoughts" title="StartUps: Feld Thoughts" description="" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
+			<outline text="StartUps: AVC" xmlUrl="https://avc.com/feed/" type="rss" />
+			<outline text="StartUps: Both Sides of the Table - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
+			<outline text="StartUps: Entrepreneur" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
+			<outline text="StartUps: Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
+			<outline text="StartUps: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
+			<outline text="StartUps: Inc.com" xmlUrl="https://www.inc.com/rss/" type="rss" />
+			<outline text="StartUps: Inside Intercom" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
+			<outline text="StartUps: Masters of Scale with Reid Hoffman" xmlUrl="https://rss.art19.com/masters-of-scale" type="rss" />
+			<outline text="StartUps: Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
+			<outline text="StartUps: Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
+			<outline text="StartUps: Springwise" xmlUrl="https://www.springwise.com/feed" type="rss" />
+			<outline text="StartUps: Steve Blank" xmlUrl="https://steveblank.com/feed/" type="rss" />
+			<outline text="StartUps: The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" type="rss" />
+			<outline text="StartUps: This Week in Startups - Video" xmlUrl="http://feeds.feedburner.com/twistvid" type="rss" />
+			<outline text="StartUps: VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" type="rss" />
+			<outline text="StartUps: Feld Thoughts" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
 		</outline>
 	</body>
 </opml>

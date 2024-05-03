@@ -12,30 +12,24 @@
 			<outline text="Science: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
 			<outline text="Science: Nature" xmlUrl="https://www.nature.com/nature.rss" type="rss" />
 			<outline text="Science: Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" type="rss" />
-			<outline text="Science: Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" type="rss" />
 			<outline text="Science: Reddit Science" xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
-			<outline text="Science: Sawbones: A Marital Tour of Misguided Medicine" xmlUrl="https://feeds.simplecast.com/y1LF_sn2" type="rss" />
 			<outline text="Science: Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
-			<outline text="Science: Science Vs" xmlUrl="http://feeds.gimletmedia.com/ScienceVs" type="rss" />
 			<outline text="Science: Science-Based Medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" type="rss" />
 			<outline text="Science: Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
-			<outline text="Science: Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" type="rss" />
-			<outline text="Science: This Week in Science" xmlUrl="http://www.twis.org/feed/" type="rss" />
 		</outline>
         <outline text="Space" title="Space">
-			<outline text="Space: Reddit" title="Space: Reddit" description="Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
-			<outline text="Space: NASA Breaking News" title="Space: NASA Breaking News" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
-			<outline text="Space: New Scientist - Space" title="Space: New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
-			<outline text="Space: Sky & Telescope" title="Space: Sky & Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
-			<outline text="Space: TheGuardian" title="Space: TheGuardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
-			<outline text="Space: Space.com" title="Space: Space.com" description="Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier." xmlUrl="https://www.space.com/feeds/all" type="rss" />
-			<outline text="Space: SpaceX" title="Space: SpaceX" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" type="rss" />
+			<outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
+			<outline text="Space: NASA Breaking News" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
+			<outline text="Space: New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
+			<outline text="Space: Sky & Telescope" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
+			<outline text="Space: TheGuardian" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
+			<outline text="Space: Space.com" xmlUrl="https://www.space.com/feeds/all" type="rss" />
 		</outline>
         <outline text="History" title="History">
-			<outline text="History: Blog Feed" title="History: Blog Feed" description="" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
-			<outline text="History: HistoryNet" title="History: HistoryNet" description="HistoryNet.com contains daily features, photo galleries and over 5,000 articles originally published in our various magazines." xmlUrl="http://www.historynet.com/feed" type="rss" />
-			<outline text="History: The History Reader" title="History: The History Reader" description="A History Blog from St. Martin’s Press" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
-			<outline text="History: the memory palace" title="History: the memory palace" description="<p>the memory palace</p>" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
+			<outline text="History: Blog Feed" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
+			<outline text="History: HistoryNet" xmlUrl="http://www.historynet.com/feed" type="rss" />
+			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
+			<outline text="History: the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -71,6 +71,7 @@
             <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
             <outline text="Programming: programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
+        </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
             <outline text="UI/UX: Boxes and Arrows" xmlUrl="http://boxesandarrows.com/rss/" type="rss" />
@@ -83,6 +84,7 @@
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
             <outline text="UI/UX: Usability Geek" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
             <outline text="UI/UX: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
+        </outline>
         <outline text="ai" title="ai" >
             <outline text="AI: Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" type="rss" />
             <outline text="AI: AI - AI Accelerator Institute" xmlUrl="https://aiacceleratorinstitute.com/rss/" type="rss" />
@@ -291,7 +293,7 @@
             <outline text="AI: Wolfram - News, Views and Insights from Wolfram" xmlUrl="https://blog.wolfram.com/feed/" type="rss" />
             <outline text="AI: Yseop" type="rss" xmlUrl="https://yseop.com/feed" htmlUrl="https://yseop.com/blog/"/>
             <outline text="AI: ΑΙhub - Connecting the AI community and the world. - Association for the Understanding of Artificial Intelligence" xmlUrl="https://aihub.org/feed?cat=-473" />
-            </outline>
+        </outline>
         <outline text="neural networks" title="neural networks" >
             <outline text="NeuralNetworks: Letting neural networks be weird" type="rss" xmlUrl="http://aiweirdness.com/rss" htmlUrl="http://aiweirdness.com/"/>
             <outline text="NeuralNetworks: Becoming Human: Artificial Intelligence Magazine" type="rss" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
@@ -315,6 +317,7 @@
             <outline text="NeuralNetworks: Convolutional Neural Network – Amund Tveit's" type="rss" xmlUrl="https://amundtveit.com/category/convolutional-neural-network/feed" htmlUrl="https://amundtveit.com/category/convolutional-neural-network/"/>
             <outline text="NeuralNetworks: when trees fall…" type="rss" xmlUrl="http://blog.wtf.sg/feed" htmlUrl="https://blog.wtf.sg/"/>
             <outline text="NeuralNetworks: BLOG – LEEDS NEURAL NETWORKS" type="rss" xmlUrl="https://leedsneuralnetworks.wordpress.com/blog/feed" htmlUrl="https://leedsneuralnetworks.wordpress.com/blog/"/>
+        </outline>
         <outline text="text analytics" title="text analytics" >
             <outline text="TextAnalysis: on Text Analytics - Provalis Research" type="rss" xmlUrl="https://provalisresearch.com/feed" htmlUrl="https://provalisresearch.com/blog/"/>
             <outline text="TextAnalysis: Natural Language Processing - AYLIEN" type="rss" xmlUrl="http://blog.aylien.com/rss" htmlUrl="http://blog.aylien.com/"/>
