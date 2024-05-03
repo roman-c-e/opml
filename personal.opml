@@ -16,7 +16,6 @@
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
 			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
 			<outline text="Food: How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
-			<outline text="Food: Joy the Baker" xmlUrl="http://joythebaker.com/feed/" type="rss" />
 			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
 			<outline text="Food: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
 			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
@@ -29,18 +28,13 @@
 		</outline>
         <outline text="Travel" title="Travel">
 			<outline text="Travel: Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
-			<outline text="Travel: Live Life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
 			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
 			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
 			<outline text="Fun: Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
-			<outline text="Fun: I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" type="rss" />
-			<outline text="Fun: PHD Comics" xmlUrl="http://phdcomics.com/gradfeed.php" type="rss" />
-			<outline text="Fun: Penny Arcade" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
-			<outline text="Fun: The Bloggess" xmlUrl="https://thebloggess.com/feed/" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
 			<outline text="Fun: The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
 			<outline text="Fun: The Onion" xmlUrl="https://www.theonion.com/rss" type="rss" />

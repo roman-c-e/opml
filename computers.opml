@@ -13,45 +13,26 @@
             <outline text="Apple: MacRumors: Mac News and Rumors - Mac" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />
             <outline text="Apple: MacStories" xmlUrl="https://www.macstories.net/feed" type="rss" />
             <outline text="Apple: Macworld.com" xmlUrl="https://www.macworld.com/index.rss" type="rss" />
-            <outline text="Apple: OS X Daily" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" />
-            <outline text="Apple: The Loop" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
             <outline text="Apple: The unofficial Apple community" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
-            <outline text="Apple: iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" type="rss" />
             <outline text="Apple: r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
 		</outline>
 		<outline text="Android" title="Android">
-            <outline text="Android: All About Android (Audio)" xmlUrl="https://feeds.twit.tv/aaa.xml" type="rss" />
-            <outline text="Android: Android" xmlUrl="https://blog.google/products/android/rss" type="rss" />
-            <outline text="Android: Android" xmlUrl="https://www.reddit.com/r/android/.rss" type="rss" />
-            <outline text="Android: Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" xmlUrl="http://feeds.androidcentral.com/androidcentral" type="rss" />
-            <outline text="Android: Android Community" xmlUrl="https://androidcommunity.com/feed/" type="rss" />
+            <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
             <outline text="Android: Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
             <outline text="Android: AndroidGuys" xmlUrl="https://www.androidguys.com/feed" type="rss" />
             <outline text="Android: Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
-            <outline text="Android: Cyanogen Mods" xmlUrl="https://www.cyanogenmods.org/feed" type="rss" />
             <outline text="Android: xda-developers" xmlUrl="https://data.xda-developers.com/portal-feed" type="rss" />
 		</outline>
         <outline text="Programming" title="Programming">
-            <outline text="Programming: Better Programming - Medium" xmlUrl="https://medium.com/feed/better-programming" type="rss" />
             <outline text="Programming: Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" />
-            <outline text="Programming: Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" type="rss" />
             <outline text="Programming: Dan Abramov's Overreacted" xmlUrl="https://overreacted.io/rss.xml" type="rss" />
-            <outline text="Programming: English (US)" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" type="rss" />
-            <outline text="Programming: FLOSS Weekly (Audio)" xmlUrl="https://feeds.twit.tv/floss.xml" type="rss" />
             <outline text="Programming: Facebook Engineering" xmlUrl="https://engineering.fb.com/feed/" type="rss" />
             <outline text="Programming: Google Developers" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" />
-            <outline text="Programming: Google TechTalks" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks" type="rss" />
-            <outline text="Programming: HackerNoon.com - Medium" xmlUrl="https://medium.com/feed/hackernoon" type="rss" />
             <outline text="Programming: InfoQ" xmlUrl="https://feed.infoq.com" type="rss" />
-            <outline text="Programming: Instagram Engineering - Medium" xmlUrl="https://instagram-engineering.com/feed/" type="rss" />
-            <outline text="Programming: Java, SQL and jOOQ." xmlUrl="https://blog.jooq.org/feed" type="rss" />
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
-            <outline text="Programming: Joel on Software" xmlUrl="https://www.joelonsoftware.com/feed/" type="rss" />
             <outline text="Programming: LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" type="rss" />
             <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
             <outline text="Programming: Netflix TechBlog - Medium" xmlUrl="https://netflixtechblog.com/feed" type="rss" />
-            <outline text="Programming: Overflow - Buffer Resources" xmlUrl="https://buffer.com/resources/overflow/rss/" type="rss" />
-            <outline text="Programming: Posts on &> /dev/null" xmlUrl="https://www.thirtythreeforty.net/posts/index.xml" type="rss" />
             <outline text="Programming: Prezi Engineering - Medium" xmlUrl="https://engineering.prezi.com/feed" type="rss" />
             <outline text="Programming: Programming – The Crazy Programmer" xmlUrl="https://www.thecrazyprogrammer.com/category/programming/feed" type="rss" />
             <outline text="Programming: Robert Heaton |" xmlUrl="https://robertheaton.com/feed.xml" type="rss" />
@@ -62,14 +43,12 @@
             <outline text="Programming: Spotify Engineering" xmlUrl="https://labs.spotify.com/feed/" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
-            <outline text="Programming: The 6 Figure Developer" xmlUrl="http://6figuredev.com/feed/rss/" type="rss" />
             <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
             <outline text="Programming: programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
         </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
-            <outline text="UI/UX: Boxes and Arrows" xmlUrl="http://boxesandarrows.com/rss/" type="rss" />
             <outline text="UI/UX: Designer News Feed" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
             <outline text="UI/UX: Inside Design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
             <outline text="UI/UX: JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" type="rss" />
