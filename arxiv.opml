@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<body>
+		<outline text="Arxiv" title="Arxiv">
+		    <outline text="cs.AI - Artificial Intelligence" xmlUrl="https://arxiv.org/rss/cs.AI" />
+            <outline text="cs.CL - Computation and Language" xmlUrl="https://arxiv.org/rss/cs.CL" type="rss" />
+            <outline text="cs.CV - Computer Vision and Pattern Recognition" xmlUrl="https://arxiv.org/rss/cs.CV" />
+            <outline text="cs.LG - Machine Learning" xmlUrl="https://arxiv.org/rss/cs.LG" />
+            <outline text="stat.ML - Statistics" xmlUrl="https://arxiv.org/rss/stat.ML" />
+            <outline text="cs.DB - Databases" xmlUrl="http://arxiv.org/rss/cs.DB" rssowl:id="373" />
+            <outline text="cs.DC - Distributed, Parallel, and Cluster Computing" xmlUrl="http://arxiv.org/rss/cs.DC" rssowl:id="374" />
+            <outline text="cs.DS - Data Structures and Algorithms" xmlUrl="http://arxiv.org/rss/cs.DS" rssowl:id="375" />
+            <outline text="quant-ph - Quantum Physics" xmlUrl="http://arxiv.org/rss/quant-ph" rssowl:id="376" />
+            <outline text="q.fin - Quantitative Finance" xmlUrl="http://arxiv.org/rss/q-fin" rssowl:id="377" />
+            <outline text="cs.cy - Computers and Society" xmlUrl="http://arxiv.org/rss/cs.CY" rssowl:id="378" />
+		</outline>
+	</body>
+</opml>
