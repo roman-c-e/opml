@@ -24,7 +24,6 @@
             <outline text="AI: Business Latest - Channel Description" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
             <outline text="AI: Chain of Thought - Essays, interviews, and experiments at the forefront of AI." xmlUrl="https://every.to/chain-of-thought/feed.xml" type="rss" />
             <outline text="AI: Chip Huyen - Chip Huyen is a writer and computer scientist. She works to bring the best engineering practices to machine learning production." xmlUrl="https://huyenchip.com/feed" type="rss" />
-            <outline text="AI: Computational Intelligence" type="rss" xmlUrl="http://computational-intelligence.blogspot.com/feeds/posts/default" htmlUrl="http://computational-intelligence.blogspot.com/"/>
             <outline text="AI: Crunchbase News - Data-driven reporting on private markets, startups, founders, and investors" xmlUrl="https://news.crunchbase.com/feed" type="rss" />
             <outline text="AI: DagsHub - Open Source Data Science, ML Workflows and MLOps" xmlUrl="https://dagshub.com/blog/rss/" type="rss" />
             <outline text="AI: Datafloq - Data and Technology Insights" xmlUrl="https://datafloq.com/feed/?post_type=post" type="rss" />
@@ -60,13 +59,11 @@
             <outline text="AI: insideBIGDATA - insideBIGDATA: Clear, Concise Insights on Big Data Strategies" xmlUrl="https://insidebigdata.com/feed" />
             <outline text="AI: Interconnects - Linking important ideas of AI. The border between high-level and technical thinking. Read by leading engineers and researchers on Wednesday …" xmlUrl="https://www.interconnects.ai/feed" type="rss" />
             <outline text="AI: Iris.ai - Your Science Assistant" type="rss" xmlUrl="https://iris.ai/feed" htmlUrl="https://iris.ai/blog/"/>
-            <outline text="AI: Jaejun Yoo's Playground" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default" rssowl:id="16260" />
             <outline text="AI: JMLR - Journal of Machine Learning Research" xmlUrl="https://www.jmlr.org/jmlr.xml" type="rss" />
             <outline text="AI: KDnuggets - Data Science, Machine Learning, AI & Analytics" xmlUrl="https://www.kdnuggets.com/feed" type="rss" />
             <outline text="AI: LangChain - The official LangChain blog." xmlUrl="https://blog.langchain.dev/rss/" type="rss" />
-            <outline text="AI: Last Week in AI - Weekly text and audio summaries of the most interesting AI news, as well as editorials commenting on recent events" xmlUrl="https://lastweekin.ai/feed" type="rss" />
             <outline text="AI: Latent Space - Productized AI/ML, Software 3.0, and other notes from Latent Space" xmlUrl="https://www.latent.space/feed" type="rss" />
-            <outline text="AI: Latest from Sifted - Quality journalism about Europe's New Economy" xmlUrl="https://sifted.eu/feed/?post_type=article" type="rss" />
+            <outline text="AI: Sifted - Quality journalism about Europe's New Economy" xmlUrl="https://sifted.eu/feed/?post_type=article" type="rss" />
             <outline text="AI: ZDNET in Artificial-Intelligence" xmlUrl="https://www.zdnet.com/topic/artificial-intelligence/rss.xml" type="rss" />
             <outline text="AI: ZDNET in Big-Data" xmlUrl="https://www.zdnet.com/topic/big-data/rss.xml" type="rss" />
             <outline text="AI: Lightning AI - The platform for teams to build AI." xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
@@ -93,8 +90,8 @@
             <outline text="AI: Neural Interfaces News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math/neural_interfaces.xml" type="rss" />
             <outline text="AI: Techexplore on Artificial Intelligence and Machine Learning" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" type="rss" />
             <outline text="AI: New Scientist - Technology" xmlUrl="https://www.newscientist.com/subject/technology/feed/" type="rss" />
-            <outline text="AI: News, Tutorials, AI Research - Stay up to date with product news, company news, the latest AI research, and AssemblyAI tutorials." xmlUrl="https://www.assemblyai.com/blog/rss/" type="rss" />
-            <outline text="AI: Nicholas Carlini - Nicholas writes things." xmlUrl="https://nicholas.carlini.com/writing/feed.xml" type="rss" />
+            <outline text="AI: AssemblyAI" xmlUrl="https://www.assemblyai.com/blog/rss/" type="rss" />
+            <outline text="AI: Nicholas Carlini" xmlUrl="https://nicholas.carlini.com/writing/feed.xml" type="rss" />
             <outline text="AI: NVIDIA AI" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
             <outline text="AI: NVIDIA Technical - News and tutorials for developers, data scientists, and IT admins" xmlUrl="https://developer.nvidia.com/blog/feed" type="rss" />
             <outline text="AI: One Useful Thing - Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently. By Prof. Ethan …" xmlUrl="https://www.oneusefulthing.org/feed" type="rss" />
@@ -105,7 +102,6 @@
             <outline text="AI: philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="AI: Playing with AI - Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
             <outline text="AI: PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV" xmlUrl="https://pyimagesearch.com/blog/feed" type="rss" />
-            <outline text="AI: Python Insider - Python core development news and information." xmlUrl="https://feeds.feedburner.com/PythonInsider" type="rss" />
             <outline text="AI: Quanta Magazine - Illuminating science" xmlUrl="https://api.quantamagazine.org/feed" type="rss" />
             <outline text="AI: Quertle" type="rss" xmlUrl="http://quertle.com/blog/feed" htmlUrl="http://quertle.com/blog/"/>
             <outline text="AI: Radix - Medium - Superpowering people with Artificial Intelligence - Medium" xmlUrl="https://medium.com/feed/radix-ai-blog" type="rss" />
@@ -119,7 +115,6 @@
             <outline text="AI: SemiAnalysis - Bridging the gap between the world's most important industry, semiconductors, and business." xmlUrl="https://www.semianalysis.com/feed" type="rss" />
             <outline text="AI: Silicon RepublicSilicon Republic" xmlUrl="https://www.siliconrepublic.com/feed" type="rss" />
             <outline text="AI: SiliconANGLE" xmlUrl="https://siliconangle.com/category/ai/feed" type="rss" />
-            <outline text="AI: Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/" type="rss" />
             <outline text="AI: Singularity Weblog" type="rss" xmlUrl="https://www.singularityweblog.com/blog/feed" htmlUrl="https://www.singularityweblog.com/blog/"/>
             <outline text="AI: stanford-crfm-website.github.io - (RSS feed: https://crfm.stanford.edu/feed)" xmlUrl="https://crfm.stanford.edu/feed" />
             <outline text="AI: Stories by ODSC - Open Data Science on Medium" xmlUrl="https://medium.com/feed/@odsc" type="rss" />
@@ -136,7 +131,6 @@
             <outline text="AI: THE DECODER - Artificial Intelligence: News, Business, Research" xmlUrl="https://the-decoder.com/feed/" type="rss" />
             <outline text="AI: The Gradient - A digital publication about artificial intelligence and the future." xmlUrl="https://thegradient.pub/rss/" type="rss" />
             <outline text="AI: The Guardian - Latest news and features from theguardian" xmlUrl:"https://www.theguardian.com/technology/artificialintelligenceai/rss" type="rss" />
-            <outline text="AI: The Information - The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many …" xmlUrl="https://www.theinformation.com/feed" type="rss" />
             <outline text="AI: The New Stack - The New Stack is a media platform for the people who build and manage software the world relies on. We …" xmlUrl="https://thenewstack.io/feed" type="rss" />
             <outline text="AI: The Next Web - Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/neural/feed" type="rss" />
             <outline text="AI: The Register - Software: AI + ML" xmlUrl="https://www.theregister.com/software/ai_ml/headlines.atom" type="rss" />
@@ -160,34 +154,24 @@
         </outline>
         <outline text="neural networks" title="neural networks" >
             <outline text="NeuralNetworks: Becoming Human: Artificial Intelligence Magazine" type="rss" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
-            <outline text="NeuralNetworks: Neural Network Console" type="rss" xmlUrl="https://support.dl.sony.com/blogs/feed" htmlUrl="https://support.dl.sony.com/blogs/"/>
             <outline text="NeuralNetworks: neural network - Hackaday" type="rss" xmlUrl="https://hackaday.com/tag/neural-network/feed" htmlUrl="https://hackaday.com/tag/neural-network/"/>
             <outline text="NeuralNetworks: Intel AI" type="rss" xmlUrl="https://community.intel.com/cipcp26785/rss/board?board.id=blog-ai" htmlUrl="https://www.intel.ai/blog/#gs.8hlBBKIB"/>
-            <outline text="NeuralNetworks: Machine Learning - HackerEarth" type="rss" xmlUrl="http://blog.hackerearth.com/machine-learning/feed" htmlUrl="https://www.hackerearth.com/blog/machine-learning/"/>
             <outline text="NeuralNetworks: OpenAI" type="rss" xmlUrl="https://blog.openai.com/rss" htmlUrl="https://blog.openai.com/"/>
             <outline text="NeuralNetworks: The Berkeley Artificial Intelligence Research" type="rss" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
             <outline text="NeuralNetworks: Hello Paperspace" type="rss" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>
             <outline text="NeuralNetworks: Learn Machine Learning - Machine Learning Tutorials - DataFlair" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed" htmlUrl="https://data-flair.training/blogs/machine-learning-tutorials-home/"/>
-            <outline text="NeuralNetworks: Machine, Think!" type="rss" xmlUrl="http://machinethink.net/blog/index.xml" htmlUrl="https://machinethink.net/"/>
-            <outline text="NeuralNetworks: computational biology blog" type="rss" xmlUrl="https://computationalbiologyblog.com/feed" htmlUrl="https://computationalbiologyblog.com/"/>
-            <outline text="NeuralNetworks: LEEDS NEURAL NETWORKS" type="rss" xmlUrl="https://leedsneuralnetworks.wordpress.com/blog/feed" htmlUrl="https://leedsneuralnetworks.wordpress.com/blog/"/>
         </outline>
         <outline text="text analytics" title="text analytics" >
             <outline text="TextAnalysis: Provalis Research" type="rss" xmlUrl="https://provalisresearch.com/feed" htmlUrl="https://provalisresearch.com/blog/"/>
-            <outline text="TextAnalysis: MeaningCloud" type="rss" xmlUrl="https://www.meaningcloud.com/blog/feed" htmlUrl="https://www.meaningcloud.com/blog"/>
             <outline text="TextAnalysis: Lexalytics -" type="rss" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
             <outline text="TextAnalysis: Text Mining, Semantics & Data Intelligence - SciBite" type="rss" xmlUrl="https://www.scibite.com/feed" htmlUrl="https://www.scibite.com/"/>
             <outline text="TextAnalysis: Machine-learning on text and Twitter data - DiscoverText" type="rss" xmlUrl="https://discovertext.com/blog/feed" htmlUrl="https://discovertext.com/blog/"/>
             <outline text="TextAnalysis: Enterprise Search, Sentiment Analysis, Text Analytics" type="rss" xmlUrl="https://www.searchblox.com/blog/feed" htmlUrl="https://www.searchblox.com/blog/"/>
-            <outline text="TextAnalysis: National Centre for Text Mining — Text Mining Tools and Text Mining Services" type="rss" xmlUrl="https://www.nactem.ac.uk/rss.xml" htmlUrl="http://www.nactem.ac.uk/index.php"/>
-            <outline text="TextAnalysis: On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" type="rss" xmlUrl="https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://gate4ugc.blogspot.com/"/>
             <outline text="TextAnalysis: A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning" type="rss" xmlUrl="https://paulhcleverley.com/feed" htmlUrl="https://paulhcleverley.com/"/>
         </outline>
         <outline text="Machine Learning" rssowl:isSet="false" rssowl:id="11">
             <outline text="MachineLearning: Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" rssowl:id="1115" />
-            <outline text="MachineLearning: AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" rssowl:id="1361" />
             <outline text="MachineLearning: MIT News - ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" rssowl:id="1147" />
-            <outline text="MachineLearning: ML in Production" xmlUrl="https://mlinproduction.com/feed" rssowl:id="9588" />
             <outline text="MachineLearning: Distill" xmlUrl="https://distill.pub/rss.xml" rssowl:id="16010" />
         </outline>
         <outline text="Data Science" rssowl:isSet="false" rssowl:id="876">
@@ -197,7 +181,6 @@
             <outline text="DataScience: NLP The Spectator" xmlUrl="http://blog.shakirm.com/feed" rssowl:id="16411" />
         </outline>
         <outline text="Reinforcement Learning" rssowl:isSet="false" rssowl:id="2621">
-            <outline text="ReinforcmentLearning: few-shot learning " xmlUrl="https://mpatacchiola.github.io/blog/feed.xml" rssowl:id="12543" />
             <outline text="ReinforcmentLearning: Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" />
         </outline>
 	</body>

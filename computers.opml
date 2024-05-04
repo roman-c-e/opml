@@ -2,7 +2,6 @@
 <opml version="1.0">
 	<body>
         <outline text="News" title="News">
-
             <outline text="News: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
             <outline type="rss" text="News: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" />
             <outline type="rss" text="News: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" />

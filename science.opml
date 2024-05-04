@@ -27,7 +27,6 @@
 			<outline text="History: American History" xmlUrl="https://americanhistory.si.edu/rss.xml" type="rss" />
 			<outline text="History: HistoryNet" xmlUrl="http://www.historynet.com/feed" type="rss" />
 			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
-			<outline text="History: the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
 		</outline>
 	</body>
 </opml>
