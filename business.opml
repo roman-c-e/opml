@@ -20,10 +20,7 @@
 			<outline text="PersFin: Afford Anything" xmlUrl="https://affordanything.com/feed/" type="rss" />
 			<outline text="PersFin: Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
 			<outline text="PersFin: Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
-			<outline text="PersFin: Frugalwoods" xmlUrl="https://feeds.feedburner.com/Frugalwoods" type="rss" />
-			<outline text="PersFin: Get Rich Slowly" xmlUrl="https://www.getrichslowly.org/feed/" type="rss" />
 			<outline text="PersFin: I Will Teach You To Be Rich" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
-			<outline text="PersFin: Learn To Trade The Market" xmlUrl="https://www.learntotradethemarket.com/feed" type="rss" />
 			<outline text="PersFin: Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
 			<outline text="PersFin: Millennial Money" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
 			<outline text="PersFin: Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
@@ -34,11 +31,9 @@
 			<outline text="PersFin: The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
 			<outline text="PersFin: The Dough Roller" xmlUrl="https://www.doughroller.net/feed/" type="rss" />
 			<outline text="PersFin: Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
-			<outline text="PersFin: Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" type="rss" />
 		</outline>
 		<outline text="Startups" title="Startups">
 			<outline text="StartUps: AVC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="StartUps: Both Sides of the Table - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
 			<outline text="StartUps: Entrepreneur" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
 			<outline text="StartUps: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="StartUps: Inc.com" xmlUrl="https://www.inc.com/rss/" type="rss" />
@@ -49,7 +44,6 @@
 			<outline text="StartUps: Springwise" xmlUrl="https://www.springwise.com/feed" type="rss" />
 			<outline text="StartUps: Steve Blank" xmlUrl="https://steveblank.com/feed/" type="rss" />
 			<outline text="StartUps: The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" type="rss" />
-			<outline text="StartUps: Feld Thoughts" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
 		</outline>
 	</body>
 </opml>

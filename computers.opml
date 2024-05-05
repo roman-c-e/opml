@@ -18,7 +18,6 @@
 		<outline text="Android" title="Android">
             <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
             <outline text="Android: Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
-            <outline text="Android: Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
             <outline text="Android: xda-developers" xmlUrl="https://www.xda-developers.com/feed" type="rss" />
 		</outline>
         <outline text="Programming" title="Programming">
