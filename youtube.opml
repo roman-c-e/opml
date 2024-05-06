@@ -13,7 +13,7 @@
 			<outline text="Future Islands" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FutureIslands" type="rss" />
 		</outline>
 		<outline text="Movie">
-			<outline text="MovieGasm Trailers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBV-eg1dAkzrdjqJfyEj0w" type="rss" />
+			<outline text="MovieGasm" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBV-eg1dAkzrdjqJfyEj0w" type="rss" />
 		</outline>
 		<outline text="Knowledge">
 			<outline text="Serpentza" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg" type="rss" />
