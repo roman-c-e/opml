@@ -19,7 +19,6 @@
             <outline text="AI: Artificialis - Medium" title="AI: Artificialis - Medium" xmlUrl="https://medium.com/feed/artificialis" type="rss" />
             <outline text="AI: Big Data – SiliconANGLE" description="Extracting the signal from the noise." xmlUrl="https://siliconangle.com/category/big-data/feed" type="rss" />
             <outline text="AI: Brighterion" type="rss" xmlUrl="http://brighterion.com/feed" htmlUrl="http://brighterion.com/blog/"/>
-            <outline text="AI: Business Insider - Content from Business Insider Excluding Premium" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
             <outline text="AI: Business Latest - Channel Description" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
             <outline text="AI: Chain of Thought - Essays, interviews, and experiments at the forefront of AI." xmlUrl="https://every.to/chain-of-thought/feed.xml" type="rss" />
             <outline text="AI: Chip Huyen - Chip Huyen is a writer and computer scientist. She works to bring the best engineering practices to machine learning production." xmlUrl="https://huyenchip.com/feed" type="rss" />
@@ -33,7 +32,6 @@
             <outline text="AI: Deep Tech - Tech.eu - The premier source of European technology news, data, research, analysis and in-depth market intelligence." xmlUrl="https://tech.eu/category/deep-tech/feed" type="rss" />
             <outline text="AI: DeepMind" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
             <outline text="AI: Department of Product - Your ultimate guide to building a product-led tech company." xmlUrl="https://departmentofproduct.substack.com/feed" type="rss" />
-            <outline text="AI: DEV Community - The most recent home feed on DEV Community." xmlUrl="https://dev.to/feed" type="rss" />
             <outline text="AI: EE Times - Connecting The Global Electronics Community" xmlUrl="https://www.eetimes.com/feed" type="rss" />
             <outline text="AI: EleutherAI Recent content in EleutherAI" xmlUrl="https://blog.eleuther.ai/index.xml" type="rss" />
             <outline text="AI: Eugene Yan - Eugene Yan works at the intersection of consumer data & tech to build machine learning products, and writes about effective …" xmlUrl="https://eugeneyan.com/rss/" type="rss" />
@@ -176,7 +174,6 @@
             <outline text="DataScience: NLP The Spectator" xmlUrl="http://blog.shakirm.com/feed" rssowl:id="16411" />
             <outline type="rss" text="DataScience: Stack Overflow Blog" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog/"/>
             <outline type="rss" text="DataScience: Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/"/>
-            <outline type="rss" text="DataScience: The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence)" xmlUrl="https://twimlai.com/feed/" htmlUrl="https://twimlai.com"/>
             <outline type="rss" text="DataScience: MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
             <outline type="rss" text="DataScience: MLOps Community" xmlUrl="https://mlops.community/feed/" htmlUrl="https://mlops.community"/>
             <outline type="rss" text="DataScience: Taiwan AILabs" xmlUrl="https://ailabs.tw/feed/" htmlUrl="https://ailabs.tw"/>

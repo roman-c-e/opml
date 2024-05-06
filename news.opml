@@ -21,8 +21,6 @@
 			<outline text="DE: ZEIT" xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
 			<outline text="DE: FOCUS" xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" type="rss" />
 			<outline text="DE: FAZ: Aktuell" xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
-			<outline text="DE: Tagesschau" xmlUrl="http://www.tagesschau.de/xml/rss2" type="rss" />
-			<outline text="DE: Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
 			<outline text="NO: NewsInEnglish" title="NO: NewsInEnglish" description="" xmlUrl="https://www.newsinenglish.no/feed/" type="rss" />
@@ -34,7 +32,6 @@
 			<outline text="UK: DailyExpress" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" type="rss" />
 		</outline>
 		<outline text="US" title="US">
-			<outline text="US: HuffPost: World" xmlUrl="https://www.huffpost.com/section/world-news/feed" type="rss" />
 			<outline text="US: NYT: World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
 			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
 			<outline text="US: FOX" xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
@@ -44,6 +41,27 @@
 			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
 			<outline text="US: CNBC: International" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
 			<outline text="US: Politico: Playbook" xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
+		</outline>
+		<outline text="Tech" title="Tech">
+		    <outline text="Tech: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
+            <outline type="rss" text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" />
+            <outline type="rss" text="Tech: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" />
+		    <outline text="Tech: Bloomberg Technology" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" type="rss" />
+		    <outline text="Tech: Computerworld" xmlUrl="https://www.computerworld.com/feed/" type="rss" />
+			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
+			<outline text="Tech: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
+			<outline text="Tech: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
+			<outline text="Tech: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
+			<outline text="Tech: Hacker News" xmlUrl="https://news.ycombinator.com/rss" type="rss" />
+			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
+			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
+			<outline text="Tech: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
+			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
+			<outline text="Tech: The Next Web" xmlUrl="https://thenextweb.com/feed/" type="rss" />
+			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+			<outline text="Tech: Business Insider - Content from Business Insider Excluding Premium" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
+			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 		</outline>
 	</body>
 </opml>

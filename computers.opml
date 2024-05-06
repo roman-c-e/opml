@@ -2,9 +2,7 @@
 <opml version="1.0">
 	<body>
         <outline text="News" title="News">
-            <outline text="News: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
-            <outline type="rss" text="News: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" />
-            <outline type="rss" text="News: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" />
+
         </outline>
 		<outline text="Apple" title="Apple">
             <outline text="Apple: Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
@@ -13,12 +11,9 @@
             <outline text="Apple: Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" type="rss" />
             <outline text="Apple: MacRumors: Mac News and Rumors - Mac" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />
             <outline text="Apple: MacStories" xmlUrl="https://www.macstories.net/feed" type="rss" />
-            <outline text="Apple: Macworld.com" xmlUrl="https://www.macworld.com/index.rss" type="rss" />
-      	</outline>
+       	</outline>
 		<outline text="Android" title="Android">
             <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
-            <outline text="Android: Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
-            <outline text="Android: xda-developers" xmlUrl="https://www.xda-developers.com/feed" type="rss" />
 		</outline>
         <outline text="Programming" title="Programming">
             <outline text="Programming: Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" />
@@ -40,6 +35,8 @@
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
+            <outline text="Programming: DEV Community - The most recent home feed on DEV Community." xmlUrl="https://dev.to/feed" type="rss" />
+
         </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />

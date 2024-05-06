@@ -34,10 +34,8 @@
 		<outline text="Startups" title="Startups">
 			<outline text="StartUps: AVC" xmlUrl="https://avc.com/feed/" type="rss" />
 			<outline text="StartUps: Entrepreneur" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
-			<outline text="StartUps: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="StartUps: Inc.com" xmlUrl="https://www.inc.com/rss/" type="rss" />
 			<outline text="StartUps: Inside Intercom" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
-			<outline text="StartUps: Masters of Scale with Reid Hoffman" xmlUrl="https://rss.art19.com/masters-of-scale" type="rss" />
 			<outline text="StartUps: Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
 			<outline text="StartUps: Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
 			<outline text="StartUps: Springwise" xmlUrl="https://www.springwise.com/feed" type="rss" />

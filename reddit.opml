@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-		<outline text="Reddit" title="Reddit">
-	        <outline text="Computers: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
-		    <outline text="Media: Movies" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
-           	<outline text="Media: TV" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
-            <outline text="AI: Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" type="rss" />
-            <outline text="AI: Computer Vision" type="rss" xmlUrl="https://www.reddit.com/r/computervision/.rss" />
-            <outline text="AI: Data Science" xmlUrl="https://www.reddit.com/r/datascience/.rss" type="rss" />
-            <outline text="AI: Deep Learning" xmlUrl="https://www.reddit.com/r/deeplearning/.rss" type="rss" />
-            <outline text="AI: Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" type="rss" />
-            <outline text="AI: Natural Language Processing" xmlUrl="https://www.reddit.com/r/LanguageTechnology/.rss" type="rss" />
-            <outline text="AI: Neural Networks, Deep Learning and Machine Learning" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss" type="rss" />
-            <outline text="AI: Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
-            <outline text="Business: Personal Finance" xmlUrl="https://reddit.com/r/personalfinance/.rss" type="rss" />
-            <outline text="Computers: Apple" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
-            <outline text="Computers: Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
-            <outline text="Computers: iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
-            <outline text="ITSec: Blackhat Library" xmlUrl="http://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/" type="rss"/>
-            <outline text="ITSec: Computer Forensics" xmlUrl="http://www.reddit.com/r/computerforensics/.rss" htmlUrl="https://www.reddit.com/r/computerforensics/" type="rss"/>
-            <outline text="ITSec: Deep Web" xmlUrl="http://www.reddit.com/r/deepweb/.rss" htmlUrl="https://www.reddit.com/r/deepweb/" type="rss"/>
-            <outline text="ITSec: HowToHack" xmlUrl="http://www.reddit.com/r/HowToHack/.rss" htmlUrl="https://www.reddit.com/r/HowToHack/" type="rss"/>
-            <outline text="ITSec: Information Security" xmlUrl="http://www.reddit.com/r/Information_Security/.rss" htmlUrl="https://www.reddit.com/r/Information_Security/" type="rss"/>
-            <outline text="ITSec: Netsec" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/" type="rss"/>
-            <outline text="ITSec: Netsecstudents" xmlUrl="http://www.reddit.com/r/netsecstudents/.rss" htmlUrl="https://www.reddit.com/r/netsecstudents/" type="rss"/>
-            <outline text="ITSec: Reverse Engineering" xmlUrl="http://www.reddit.com/r/ReverseEngineering/.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering/" type="rss"/>
-            <outline text="ITSec: Social Engineering" xmlUrl="http://www.reddit.com/r/SocialEngineering/.rss" htmlUrl="https://www.reddit.com/r/SocialEngineering/" type="rss"/>
-            <outline text="News: Worldnews" xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
-            <outline text="Science" xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
-            <outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
+	      <outline text="Reddit" title="Reddit">
+                  <outline text="Computers: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
+                  <outline text="Media: Movies" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
+                  <outline text="Media: TV" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
+                  <outline text="AI: Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" type="rss" />
+                  <outline text="AI: Computer Vision" type="rss" xmlUrl="https://www.reddit.com/r/computervision/.rss" />
+                  <outline text="AI: Data Science" xmlUrl="https://www.reddit.com/r/datascience/.rss" type="rss" />
+                  <outline text="AI: Deep Learning" xmlUrl="https://www.reddit.com/r/deeplearning/.rss" type="rss" />
+                  <outline text="AI: Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" type="rss" />
+                  <outline text="AI: Natural Language Processing" xmlUrl="https://www.reddit.com/r/LanguageTechnology/.rss" type="rss" />
+                  <outline text="AI: Neural Networks, Deep Learning and Machine Learning" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss" type="rss" />
+                  <outline text="AI: Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
+                  <outline text="Business: Personal Finance" xmlUrl="https://reddit.com/r/personalfinance/.rss" type="rss" />
+                  <outline text="Computers: Apple" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
+                  <outline text="Computers: Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
+                  <outline text="Computers: iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" type="rss" />
+                  <outline text="ITSec: Blackhat Library" xmlUrl="http://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/" type="rss"/>
+                  <outline text="ITSec: Computer Forensics" xmlUrl="http://www.reddit.com/r/computerforensics/.rss" htmlUrl="https://www.reddit.com/r/computerforensics/" type="rss"/>
+                  <outline text="ITSec: Deep Web" xmlUrl="http://www.reddit.com/r/deepweb/.rss" htmlUrl="https://www.reddit.com/r/deepweb/" type="rss"/>
+                  <outline text="ITSec: HowToHack" xmlUrl="http://www.reddit.com/r/HowToHack/.rss" htmlUrl="https://www.reddit.com/r/HowToHack/" type="rss"/>
+                  <outline text="ITSec: Information Security" xmlUrl="http://www.reddit.com/r/Information_Security/.rss" htmlUrl="https://www.reddit.com/r/Information_Security/" type="rss"/>
+                  <outline text="ITSec: Netsec" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/" type="rss"/>
+                  <outline text="ITSec: Netsecstudents" xmlUrl="http://www.reddit.com/r/netsecstudents/.rss" htmlUrl="https://www.reddit.com/r/netsecstudents/" type="rss"/>
+                  <outline text="ITSec: Reverse Engineering" xmlUrl="http://www.reddit.com/r/ReverseEngineering/.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering/" type="rss"/>
+                  <outline text="ITSec: Social Engineering" xmlUrl="http://www.reddit.com/r/SocialEngineering/.rss" htmlUrl="https://www.reddit.com/r/SocialEngineering/" type="rss"/>
+                  <outline text="News: Worldnews" xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
+                  <outline text="Science" xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
+                  <outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
 		</outline>
 	</body>
 </opml>
