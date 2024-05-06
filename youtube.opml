@@ -6,7 +6,7 @@
 			<outline text="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
 			<outline text="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
 			<outline text="AVGN" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=JamesNintendoNerd" type="rss" />
-
+			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
 		</outline>
 		<outline text="Music">
 			<outline text="Sub Pop" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=subpoprecords" type="rss" />
@@ -21,6 +21,7 @@
 			<outline text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" type="rss" />
 			<outline text="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Vsauce" type="rss" />
 			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
+			<outline text="TLDR News" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8Ki3c67-Asd5-4g" type="rss" />
 		</outline>
 	</body>
 </opml>
