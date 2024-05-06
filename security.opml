@@ -150,7 +150,6 @@
             <outline type="rss" text="Pentest: HighOn.Coffee" xmlUrl="https://highon.coffee/feed.xml" htmlUrl="https://highon.coffee/"/>
             <outline type="rss" text="Pentest: PenTest Labs" xmlUrl="http://securityblog.gr/feed/" htmlUrl="https://pentest-labs.com"/>
             <outline type="rss" text="Pentest: StefLan's Security" xmlUrl="https://steflan-security.com/feed/" htmlUrl="https://steflan-security.com"/>
-            <outline type="rss" text="Pentest: The Ethical Hacker Network" xmlUrl="https://www.ethicalhacker.net/feed" htmlUrl="https://www.ethicalhacker.net"/>
             <outline type="rss" text="Pentest: Wiremask's Feed" xmlUrl="https://wiremask.eu/atom.xml" htmlUrl="https://wiremask.eu"/>
             <outline type="rss" text="Pentest: blackMORE Ops" xmlUrl="http://www.blackmoreops.com/feed/" htmlUrl="https://www.blackmoreops.com"/>
         </outline>
