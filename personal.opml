@@ -3,7 +3,6 @@
 	<body>
 		<outline text="DIY" title="DIY">
 			<outline text="DIY: A Beautiful Mess" title="DIY: A Beautiful Mess" description="Crafts, Home Décor, Recipes" xmlUrl="https://abeautifulmess.com/feed" type="rss" />
-			<outline text="DIY: Apartment Therapy" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
 			<outline text="DIY: Hackaday" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
 			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />

@@ -177,13 +177,12 @@
             <outline type="rss" text="DataScience: Stack Overflow Blog" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog/"/>
             <outline type="rss" text="DataScience: Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/"/>
             <outline type="rss" text="DataScience: The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence)" xmlUrl="https://twimlai.com/feed/" htmlUrl="https://twimlai.com"/>
-            <outline type="rss" text="DataScience: fast.ai" xmlUrl="http://www.fast.ai/atom.xml" htmlUrl="https://www.fast.ai/"/>
             <outline type="rss" text="DataScience: MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
             <outline type="rss" text="DataScience: MLOps Community" xmlUrl="https://mlops.community/feed/" htmlUrl="https://mlops.community"/>
             <outline type="rss" text="DataScience: Taiwan AILabs" xmlUrl="https://ailabs.tw/feed/" htmlUrl="https://ailabs.tw"/>
             <outline type="rss" text="DataScience: The Official Blog of BigML.com" xmlUrl="http://blog.bigml.com/feed/" htmlUrl="https://blog.bigml.com"/>
             <outline type="rss" text="DataScience: Arize AI" xmlUrl="https://arize.com/feed/" htmlUrl="https://arize.com/"/>
-            <outline type="rss" text="DataScience: The AI Blog" xmlUrl="http://blogs.technet.com/b/next/rss.aspx" htmlUrl="https://blogs.microsoft.com/ai/"/>
+            <outline type="rss" text="DataScience: Microsoft AI" xmlUrl="https://news.microsoft.com/source/topics/ai/feed/" htmlUrl="https://news.microsoft.com/source/topics/ai/feed/"/>
             <outline type="rss" text="DataScience: PyTorch Website" xmlUrl="https://pytorch.org/feed.xml" htmlUrl="https://pytorch.org/"/>
             <outline type="rss" text="DataScience: The Stanford AI Lab Blog" xmlUrl="http://ai.stanford.edu/blog/feed.xml" htmlUrl="http://ai.stanford.edu/blog/"/>
             <outline type="rss" text="DataScience: TruEra" xmlUrl="https://truera.com/feed/" htmlUrl="https://truera.com/"/>
