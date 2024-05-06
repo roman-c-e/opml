@@ -2,9 +2,25 @@
 <opml version="1.0">
 	<body>
 		<outline text="Tech" title="Tech">
-			<outline text="Linus Tech Tips" title="Linus Tech Tips" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
-			<outline text="Marques Brownlee" title="Marques Brownlee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
-    		<outline text="Apple" title="Apple" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
+			<outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
+			<outline text="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
+			<outline text="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
+			<outline text="AVGN" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=JamesNintendoNerd" type="rss" />
+
+		</outline>
+		<outline text="Music">
+			<outline text="Sub Pop" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=subpoprecords" type="rss" />
+			<outline text="Future Islands" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FutureIslands" type="rss" />
+		</outline>
+		<outline text="Movie">
+			<outline text="MovieGasm" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg" type="rss" />
+
+		</outline>
+		<outline text="Knowledge">
+			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FutureProof" type="rss" />
+			<outline text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" type="rss" />
+			<outline text="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Vsauce" type="rss" />
+			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
 		</outline>
 	</body>
 </opml>
