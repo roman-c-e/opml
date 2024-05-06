@@ -33,7 +33,7 @@
             <outline text="AI: DebuggerCafe - Machine Learning and Deep Learning" xmlUrl="https://debuggercafe.com/feed/" type="rss" />
             <outline text="AI: Deep Tech - Tech.eu - The premier source of European technology news, data, research, analysis and in-depth market intelligence." xmlUrl="https://tech.eu/category/deep-tech/feed" type="rss" />
             <outline text="AI: DeepMind" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
-            <outline text="AI: Department of Product - Your ultimate guide to building a product-led tech company. News, analysis and knowledge for people who work in tech. Join …" xmlUrl="https://departmentofproduct.substack.com/feed" type="rss" />
+            <outline text="AI: Department of Product - Your ultimate guide to building a product-led tech company." xmlUrl="https://departmentofproduct.substack.com/feed" type="rss" />
             <outline text="AI: DEV Community - The most recent home feed on DEV Community." xmlUrl="https://dev.to/feed" type="rss" />
             <outline text="AI: EE Times - Connecting The Global Electronics Community" xmlUrl="https://www.eetimes.com/feed" type="rss" />
             <outline text="AI: EleutherAI Recent content in EleutherAI" xmlUrl="https://blog.eleuther.ai/index.xml" type="rss" />
@@ -94,9 +94,7 @@
             <outline text="AI: Nicholas Carlini" xmlUrl="https://nicholas.carlini.com/writing/feed.xml" type="rss" />
             <outline text="AI: NVIDIA AI" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
             <outline text="AI: NVIDIA Technical - News and tutorials for developers, data scientists, and IT admins" xmlUrl="https://developer.nvidia.com/blog/feed" type="rss" />
-            <outline text="AI: One Useful Thing - Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently. By Prof. Ethan …" xmlUrl="https://www.oneusefulthing.org/feed" type="rss" />
-            <outline text="AI: OpenAI - The OpenAI blog" xmlUrl="https://openai.com/blog/rss/" type="rss" />
-            <outline text="AI: OpenAI" xmlUrl="https://openai.com/feed.xml?format=xml" htmlUrl="https://blog.openai.com/"/>
+            <outline text="AI: One Useful Thing - Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently." xmlUrl="https://www.oneusefulthing.org/feed" type="rss" />
             <outline text="AI: Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
             <outline text="AI: Paperspace - Tutorials, sample apps, and more created by the Paperspace internal research team and community" xmlUrl="https://blog.paperspace.com/rss/" type="rss" />
             <outline text="AI: philschmid" xmlUrl="https://www.philschmid.de/rss" />
@@ -156,7 +154,6 @@
             <outline text="NeuralNetworks: Becoming Human: Artificial Intelligence Magazine" type="rss" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
             <outline text="NeuralNetworks: neural network - Hackaday" type="rss" xmlUrl="https://hackaday.com/tag/neural-network/feed" htmlUrl="https://hackaday.com/tag/neural-network/"/>
             <outline text="NeuralNetworks: Intel AI" type="rss" xmlUrl="https://community.intel.com/cipcp26785/rss/board?board.id=blog-ai" htmlUrl="https://www.intel.ai/blog/#gs.8hlBBKIB"/>
-            <outline text="NeuralNetworks: OpenAI" type="rss" xmlUrl="https://blog.openai.com/rss" htmlUrl="https://blog.openai.com/"/>
             <outline text="NeuralNetworks: The Berkeley Artificial Intelligence Research" type="rss" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
             <outline text="NeuralNetworks: Hello Paperspace" type="rss" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>
             <outline text="NeuralNetworks: Learn Machine Learning - Machine Learning Tutorials - DataFlair" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed" htmlUrl="https://data-flair.training/blogs/machine-learning-tutorials-home/"/>
