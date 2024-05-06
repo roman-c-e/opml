@@ -9,40 +9,29 @@
 		<outline text="Gaming" title="Gaming">
 			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/feed/" type="rss" />
 			<outline text="Gaming: Eurogamer" xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
-			<outline text="Gaming: Gamasutra" xmlUrl="http://feeds.feedburner.com/GamasutraNews" type="rss" />
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
-			<outline text="Gaming: IGN All" xmlUrl="http://feeds.ign.com/ign/all" type="rss" />
 			<outline text="Gaming: Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
-			<outline text="Gaming: Kotaku" xmlUrl="https://kotaku.com/rss" type="rss" />
-			<outline text="Gaming: PlayStation" xmlUrl="http://feeds.feedburner.com/psblog" type="rss" />
-			<outline text="Gaming: Polygon" xmlUrl="https://www.polygon.com/rss/index.xml" type="rss" />
-			<outline text="Gaming: Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" type="rss" />
-			<outline text="Gaming: Reddit" xmlUrl="https://www.reddit.com/r/gaming.rss" type="rss" />
 		</outline>
 		<outline text="Movies" title="Movies">
 			<outline text="Movies: /Film" xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
-			<outline text="Movies: Ain't It Cool News Feed" xmlUrl="https://www.aintitcool.com/node/feed/" type="rss" />
 			<outline text="Movies: ComingSoon" xmlUrl="https://www.comingsoon.net/feed" type="rss" />
 			<outline text="Movies: Film School Rejects" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
 			<outline text="Movies: FirstShowing" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
 			<outline text="Movies: IndieWire" xmlUrl="https://www.indiewire.com/feed" type="rss" />
-			<outline text="Movies: Reddit" xmlUrl="https://reddit.com/r/movies/.rss" type="rss" />
 			<outline text="Movies: Bleedingcool" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
 			<outline text="Movies: Variety" xmlUrl="https://variety.com/feed/" type="rss" />
 		</outline>
 		<outline text="Music" title="Music">
-			<outline text="Music: Billboard" xmlUrl="https://www.billboard.com/articles/rss.xml" type="rss" />
+			<outline text="Music: Billboard" xmlUrl="https://www.billboard.com/feed/rss/" type="rss" />
 			<outline text="Music: Consequence" xmlUrl="http://consequenceofsound.net/feed" type="rss" />
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
 			<outline text="Music: Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
 			<outline text="Music: Pitchfork Albums" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
-			<outline text="Music: Your EDM" xmlUrl="https://www.youredm.com/feed" type="rss" />
 			<outline text="Music: Stereogum" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
 		<outline text="Television" title="Television">
 			<outline text="TV: Bleedingcool" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
 			<outline text="TV: TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
-			<outline text="TV: Reddit" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -31,21 +31,14 @@
 		<outline text="UK" title="UK">
 			<outline text="UK: BBC: World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" type="rss" />
 			<outline text="UK: BBC" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" type="rss" />
-			<outline text="UK: Guardian: World" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
-			<outline text="UK: MailOnline" xmlUrl="https://www.dailymail.co.uk/home/index.rss" type="rss" />
-			<outline text="UK: Independent" xmlUrl="http://www.independent.co.uk/news/uk/rss" type="rss" />
 			<outline text="UK: DailyExpress" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" type="rss" />
 		</outline>
 		<outline text="US" title="US">
-			<outline text="US: Yahoo" xmlUrl="https://www.yahoo.com/news/rss" type="rss" />
-			<outline text="US: Reddit: World" xmlUrl="https://www.reddit.com/r/worldnews/.rss" type="rss" />
-			<outline text="US: Google: News" xmlUrl="https://news.google.com/rss" type="rss" />
 			<outline text="US: HuffPost: World" xmlUrl="https://www.huffpost.com/section/world-news/feed" type="rss" />
 			<outline text="US: NYT: World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
 			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
 			<outline text="US: FOX" xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
 			<outline text="US: WashingtonPost: World" xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
-			<outline text="US: WSJ: World" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" type="rss" />
 			<outline text="US: LATimes" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
 			<outline text="US: CNN: World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
 			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />

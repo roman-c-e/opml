@@ -12,13 +12,11 @@
 			<outline text="Science: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
 			<outline text="Science: Nature" xmlUrl="https://www.nature.com/nature.rss" type="rss" />
 			<outline text="Science: Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" type="rss" />
-			<outline text="Science: Reddit Science" xmlUrl="https://reddit.com/r/science/.rss" type="rss" />
 			<outline text="Science: Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
 			<outline text="Science: Science-Based Medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" type="rss" />
 			<outline text="Science: Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
 		</outline>
         <outline text="Space" title="Space">
-			<outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
 			<outline text="Space: NASA Breaking News" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
 			<outline text="Space: New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
 			<outline text="Space: Sky & Telescope" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
@@ -29,7 +27,6 @@
 			<outline text="History: American History" xmlUrl="https://americanhistory.si.edu/rss.xml" type="rss" />
 			<outline text="History: HistoryNet" xmlUrl="http://www.historynet.com/feed" type="rss" />
 			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
-			<outline text="History: the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" type="rss" />
 		</outline>
 	</body>
 </opml>

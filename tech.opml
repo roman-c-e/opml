@@ -2,12 +2,13 @@
 <opml version="1.0">
 	<body>
 		<outline text="Tech" title="Tech">
+		    <outline text="News: Bloomberg Technology" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" type="rss" />
+		    <outline text="News: Computerworld" xmlUrl="https://www.computerworld.com/feed/" type="rss" />
 			<outline text="News: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
 			<outline text="News: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
 			<outline text="News: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
 			<outline text="News: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
 			<outline text="News: Hacker News" xmlUrl="https://news.ycombinator.com/rss" type="rss" />
-			<outline text="News: Mashable" xmlUrl="http://feeds.mashable.com/Mashable" type="rss" />
 			<outline text="News: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="News: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="News: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
