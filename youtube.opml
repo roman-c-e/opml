@@ -13,11 +13,11 @@
 			<outline text="Future Islands" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FutureIslands" type="rss" />
 		</outline>
 		<outline text="Movie">
-			<outline text="MovieGasm Trailers" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MovieGasm" type="rss" />
+			<outline text="MovieGasm Trailers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwBV-eg1dAkzrdjqJfyEj0w" type="rss" />
 		</outline>
 		<outline text="Knowledge">
 			<outline text="Serpentza" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg" type="rss" />
-			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FutureProofTV" type="rss" />
+			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-OJ-24roEfQ_-PCnLJSckg" type="rss" />
 			<outline text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" type="rss" />
 			<outline text="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Vsauce" type="rss" />
 			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
