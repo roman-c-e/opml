@@ -27,9 +27,7 @@
 			<outline text="NO: TheLocal" title="NO: TheLocal" description="" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=http%3A%2F%2Fwww.thelocal.no%2Ffeeds%2Frss.php&max=3" type="rss" />
 		</outline>
 		<outline text="UK" title="UK">
-			<outline text="UK: BBC: World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" type="rss" />
-			<outline text="UK: BBC" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" type="rss" />
-			<outline text="UK: DailyExpress" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" type="rss" />
+			<outline text="UK: BBC" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" type="rss" />
 		</outline>
 		<outline text="US" title="US">
 			<outline text="US: NYT: World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
@@ -50,7 +48,7 @@
 			<outline text="Tech: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
 			<outline text="Tech: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
 			<outline text="Tech: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
-			<outline text="Tech: Hacker News" xmlUrl="https://news.ycombinator.com/rss" type="rss" />
+			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="Tech: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
@@ -58,7 +56,6 @@
 			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 			<outline text="Tech: Business Insider - Content from Business Insider Excluding Premium" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
-			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -10,7 +10,6 @@
 		</outline>
 		<outline text="Food" title="Food">
 			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
-			<outline text="Food: Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" type="rss" />
 			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
 			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
@@ -32,11 +31,9 @@
 		</outline>
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
-			<outline text="Fun: Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" type="rss" />
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
 			<outline text="Fun: The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
-			<outline text="Fun: The Onion" xmlUrl="https://www.theonion.com/rss" type="rss" />
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
 		<outline text="Health" title="Health">
