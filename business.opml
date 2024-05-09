@@ -9,7 +9,6 @@
 			<outline text="News: Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
 			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
 			<outline text="News: Fortune" xmlUrl="https://fortune.com/feed" type="rss" />
-			<outline text="News: Business Standard" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="News: Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
 		</outline>
@@ -27,7 +26,6 @@
 			<outline text="PersFin: Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
 			<outline text="PersFin: MyWifeQuitHerJob.com" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
 			<outline text="PersFin: SavingAdvice.com" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
-			<outline text="PersFin: Side Hustle Nation" xmlUrl="https://www.sidehustlenation.com/feed" type="rss" />
 			<outline text="PersFin: The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
 			<outline text="PersFin: Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
 		</outline>
