@@ -5,7 +5,6 @@
 	</head>
 	<body>
 		<outline text="World" title="World">
-			<outline text="India: NDTV: World" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" type="rss" />
 			<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
 			<outline text="Spain: TheLocal" xmlUrl="https://feeds.thelocal.com/rss/es" type="rss" />
 		</outline>
@@ -19,7 +18,6 @@
 		</outline>
 		<outline text="DE" title="DE">
 			<outline text="DE: ZEIT" xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
-			<outline text="DE: FOCUS" xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" type="rss" />
 			<outline text="DE: FAZ: Aktuell" xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
