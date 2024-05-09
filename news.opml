@@ -34,8 +34,6 @@
 		<outline text="US" title="US">
 			<outline text="US: NYT: World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
 			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
-			<outline text="US: FOX" xmlUrl="http://feeds.foxnews.com/foxnews/latest" type="rss" />
-			<outline text="US: WashingtonPost: World" xmlUrl="http://feeds.washingtonpost.com/rss/world" type="rss" />
 			<outline text="US: LATimes" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
 			<outline text="US: CNN: World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
 			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
@@ -57,7 +55,6 @@
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="Tech: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
 			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
-			<outline text="Tech: The Next Web" xmlUrl="https://thenextweb.com/feed/" type="rss" />
 			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 			<outline text="Tech: Business Insider - Content from Business Insider Excluding Premium" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />

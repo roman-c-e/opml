@@ -21,7 +21,7 @@
 			<outline text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" type="rss" />
 			<outline text="Vsauce" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Vsauce" type="rss" />
 			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
-			<outline text="TLDR News" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8Ki3c67-Asd5-4g" type="rss" />
+			<outline text="TLDR News" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8OA2s1wsOR2EgJA" type="rss" />
 		</outline>
 	</body>
 </opml>
