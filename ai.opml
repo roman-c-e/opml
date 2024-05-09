@@ -51,8 +51,8 @@
             <outline text="Geodyssey" type="rss" xmlUrl="https://paulhcleverley.com/feed" htmlUrl="https://paulhcleverley.com/"/>
             <outline text="gHacks Technology News - The independent technology news blog" xmlUrl="https://www.ghacks.net/feed/" />
             <outline text="Global News" xmlUrl="https://globalnews.ca/tag/artificial-intelligence/feed" type="rss" />
-            <outline text="Google AI Blogspot" xmlUrl="http://googleaiblog.blogspot.com/atom.xml" type="rss" />
-            <outline text="Google AI" xmlUrl="https://blog.google/rss" />
+            <outline text="Google AI" xmlUrl="http://googleaiblog.blogspot.com/atom.xml" type="rss" />
+            <outline text="Google" xmlUrl="https://blog.google/rss" />
             <outline text="Gradient Flow" xmlUrl="https://gradientflow.com/feed/" type="rss" />
             <outline text="Hacker Noon" xmlUrl="https://hackernoon.com/tagged/ai/feed" type="rss" />
             <outline text="HealthTech Magazine" xmlUrl="https://feeds.feedburner.com/HealthTechMagazine" type="rss" />
