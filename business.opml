@@ -10,7 +10,6 @@
 			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
 			<outline text="News: Fortune" xmlUrl="https://fortune.com/feed" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
-			<outline text="News: Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
 		</outline>
 		<outline text="Career" title="Career">
 			<outline text="Career: DerStandard" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />

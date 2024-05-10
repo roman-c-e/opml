@@ -80,7 +80,6 @@
             <outline type="rss" text="Microsoft Browser Vulnerability Research" xmlUrl="https://microsoftedge.github.io/edgevr/feed.xml" htmlUrl="https://microsoftedge.github.io"/>
             <outline type="rss" text="Modern CISO" xmlUrl="https://modernciso.com/feed/" htmlUrl="https://modernciso.com"/>
             <outline type="rss" text="myexploit" xmlUrl="https://myexploit.wordpress.com/feed/" htmlUrl="https://myexploit.wordpress.com"/>
-            <outline type="rss" text="NCSC Feed" xmlUrl="https://www.ncsc.gov.uk/blogs-feed.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/blog-post-rss-feed.xml"/>
             <outline type="rss" text="NETRESEC Network Security" xmlUrl="http://www.netresec.com/rss.ashx" htmlUrl="http://www.netresec.com/?page=Blog"/>
             <outline type="rss" text="Netresec" xmlUrl="http://www.netresec.com/rss.ashx" htmlUrl="https://www.netresec.com/?page=Blog"/>
             <outline type="rss" text="Nextron Systems" xmlUrl="https://www.nextron-systems.com/feed/" htmlUrl="https://www.nextron-systems.com/"/>
@@ -94,7 +93,6 @@
             <outline type="rss" text="SpecterOps Team Members" xmlUrl="https://posts.specterops.io/feed" htmlUrl="https://posts.specterops.io?source=rss----f05f8696e3cc---4"/>
             <outline type="rss" text="malicious.link" xmlUrl="https://malicious.link/post/index.xml" htmlUrl="https://malicious.link/post/"/>
             <outline type="rss" text="Privacy and Cybersecurity Law" xmlUrl="http://feeds.feedburner.com/PrivacyandDataSecurityLaw" htmlUrl="https://www.privacyandcybersecuritylaw.com/"/>
-            <outline type="rss" text="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
             <outline type="rss" text="Proofpoint Threat Insight" xmlUrl="https://www.proofpoint.com/us/threat-insight-blog.xml" htmlUrl="https://www.proofpoint.com/us/blog"/>
             <outline type="rss" text="Randy Westergren" xmlUrl="http://randywestergren.com/feed/" htmlUrl="https://randywestergren.com"/>
             <outline type="rss" text="Real-time communications security" xmlUrl="https://www.rtcsec.com/index.xml" htmlUrl="https://www.rtcsec.com/"/>

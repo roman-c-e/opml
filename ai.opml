@@ -103,7 +103,6 @@
             <outline text="Paperspace" xmlUrl="https://blog.paperspace.com/rss/" type="rss" />
             <outline text="philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
-            <outline text="Provalis Research" type="rss" xmlUrl="https://provalisresearch.com/feed" htmlUrl="https://provalisresearch.com/blog/"/>
             <outline text="PyImageSearch" xmlUrl="https://pyimagesearch.com/blog/feed" type="rss" />
             <outline text="PyTorch Website" xmlUrl="https://pytorch.org/feed.xml" htmlUrl="https://pytorch.org/" type="rss" />
             <outline text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed" type="rss" />

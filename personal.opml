@@ -2,7 +2,6 @@
 <opml version="1.0">
 	<body>
 		<outline text="DIY" title="DIY">
-			<outline text="DIY: A Beautiful Mess" xmlUrl="https://abeautifulmess.com/feed" type="rss" />
 			<outline text="DIY: Hackaday" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
 			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
@@ -38,7 +37,6 @@
 		</outline>
 		<outline text="Health" title="Health">
 			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
-			<outline text="Health: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" type="rss" />
 		</outline>
 				<outline text="Books" title="Books">
 			<outline text="Books: A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />

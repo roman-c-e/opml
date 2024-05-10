@@ -49,7 +49,6 @@
 			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
-			<outline text="Tech: Stratechery by Ben Thompson" xmlUrl="http://stratechery.com/feed/" type="rss" />
 			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
 			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
