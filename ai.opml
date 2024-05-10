@@ -28,7 +28,6 @@
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
             <outline text="Crunchbase" xmlUrl="https://news.crunchbase.com/feed" type="rss" />
             <outline text="DagsHub" xmlUrl="https://dagshub.com/blog/rss/" type="rss" />
-            <outline text="Data Science Central" xmlUrl="https://www.datasciencecentral.com/feed/" type="rss" />
             <outline text="Datafloq" xmlUrl="https://datafloq.com/feed/?post_type=post" type="rss" />
             <outline text="Datanami" xmlUrl="https://www.datanami.com/feed/" type="rss" />
             <outline text="DataRobot" xmlUrl="https://www.datarobot.com/blog/feed" type="rss" htmlUrl="https://blog.datarobot.com/"/>
@@ -43,7 +42,6 @@
             <outline text="Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" type="rss" />
             <outline text="EleutherAI" xmlUrl="https://blog.eleuther.ai/index.xml" type="rss" />
             <outline text="Eugene Yan" xmlUrl="https://eugeneyan.com/rss/" type="rss" />
-            <outline text="Expert AI" xmlUrl="https://www.expert.ai/blog/feed/" htmlUrl="https://www.expert.ai/blog/feed/"/>
             <outline text="Explosion" xmlUrl="https://explosion.ai/feed" type="rss" />
             <outline text="fast.ai NLP" xmlUrl="http://nlp.fast.ai/feed.xml" rssowl:id="16402" />
             <outline text="Futurism" xmlUrl="https://futurism.com/categories/ai-artificial-intelligence/feed" type="rss" />
@@ -72,7 +70,7 @@
             <outline text="KnowTechie" xmlUrl="https://knowtechie.com/category/ai/feed/" type="rss" />
             <outline text="LangChain" xmlUrl="https://blog.langchain.dev/rss/" type="rss" />
             <outline text="Latent Space" xmlUrl="https://www.latent.space/feed" type="rss" />
-            <outline text="Learn Machine Learning - Machine Learning Tutorials - DataFlair" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed" htmlUrl="https://data-flair.training/blogs/machine-learning-tutorials-home/"/>
+            <outline text="DataFlair - Machine Learning Tutorials" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed" htmlUrl="https://data-flair.training/blogs/machine-learning-tutorials-home/"/>
             <outline text="Lexalytics" type="rss" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
             <outline text="Lightning AI" xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
@@ -84,7 +82,6 @@
             <outline text="Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/" type="rss" />
             <outline text="Microsoft: AI" xmlUrl="https://news.microsoft.com/source/topics/ai/feed/" htmlUrl="https://news.microsoft.com/source/topics/ai/feed/" type="rss" />
             <outline text="Microsoft: Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" type="rss" />
-            <outline text="Mila - Dedicated to understanding the fundamentals of learning and intelligence" xmlUrl="https://mila.quebec/en/feed/" type="rss" />
             <outline text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" type="rss" />
             <outline text="ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed" type="rss" />
             <outline text="MLOps Community" xmlUrl="https://mlops.community/feed/" htmlUrl="https://mlops.community" type="rss" />
