@@ -26,7 +26,6 @@
             <outline text="Business Latest" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
             <outline text="Chain of Thought" xmlUrl="https://every.to/chain-of-thought/feed.xml" type="rss" />
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
-            <outline text="Crunchbase" xmlUrl="https://news.crunchbase.com/feed" type="rss" />
             <outline text="DagsHub" xmlUrl="https://dagshub.com/blog/rss/" type="rss" />
             <outline text="Datafloq" xmlUrl="https://datafloq.com/feed/?post_type=post" type="rss" />
             <outline text="Datanami" xmlUrl="https://www.datanami.com/feed/" type="rss" />
@@ -60,7 +59,6 @@
             <outline text="InfoQ" xmlUrl="https://feed.infoq.com/ai-ml-data-eng/" type="rss" />
             <outline text="InfoWorld Analytics" xmlUrl="https://www.infoworld.com/category/analytics/index.rss" type="rss" />
             <outline text="InfoWorld Machine Learning" xmlUrl="https://www.infoworld.com/category/machine-learning/index.rss" type="rss" />
-            <outline text="insideBIGDATA" xmlUrl="https://insidebigdata.com/feed" />
             <outline text="Intel AI" type="rss" xmlUrl="https://community.intel.com/cipcp26785/rss/board?board.id=blog-ai" htmlUrl="https://www.intel.ai/blog/#gs.8hlBBKIB"/>
             <outline text="Interconnects" xmlUrl="https://www.interconnects.ai/feed" type="rss" />
             <outline text="Iris.ai" type="rss" xmlUrl="https://iris.ai/feed" htmlUrl="https://iris.ai/blog/"/>
@@ -77,7 +75,6 @@
             <outline text="Machine Learning Mastery" type="rss" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/"/>
             <outline text="Marek Rosa" type="rss" xmlUrl="http://blog.marekrosa.org/feeds/posts/default" htmlUrl="https://blog.marekrosa.org/"/>
             <outline text="Marketing Artificial Intelligence Institute" type="rss" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
-            <outline text="MarkTechPost" xmlUrl="https://www.marktechpost.com/feed" type="rss" />
             <outline text="Max Woolf" xmlUrl="https://minimaxir.com/post/index.xml" type="rss" />
             <outline text="Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/" type="rss" />
             <outline text="Microsoft: AI" xmlUrl="https://news.microsoft.com/source/topics/ai/feed/" htmlUrl="https://news.microsoft.com/source/topics/ai/feed/" type="rss" />
@@ -161,10 +158,12 @@
             <outline text="ΑΙhub" xmlUrl="https://aihub.org/feed?cat=-473" />
         </outline>
         <outline text="Portals" rssowl:isSet="false" rssowl:id="11">
-            <outline text="MIT: Computer Science" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/" type="rss" />
-            <outline text="MIT: AI" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" rssowl:id="2266" />
+            <outline text="MIT: Computer Science" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" type="rss" />
+            <outline text="MIT: AI" xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" type="rss" />
+            <outline text="MIT: Robotics" xmlUrl="https://news.mit.edu/topic/mitrobotics-rss.xml" type="rss" />
             <outline text="MIT: Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" type="rss" />
-            <outline text="MIT: ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" rssowl:id="1147" />
+            <outline text="MIT: Data Mgmt" xmlUrl="https://news.mit.edu/rss/topic/data-management-and-statistics" type="rss" />
+            <outline text="MIT: Science" xmlUrl="https://news.mit.edu/rss/topic/science-technology-and-society" type="rss" />
             <outline text="ZDNET: AI" xmlUrl="https://www.zdnet.com/topic/artificial-intelligence/rss.xml" type="rss" />
             <outline text="ZDNET: Big-Data" xmlUrl="https://www.zdnet.com/topic/big-data/rss.xml" type="rss" />
         </outline>

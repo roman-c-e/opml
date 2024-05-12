@@ -31,7 +31,6 @@
             <outline type="rss" text="CyberArk" xmlUrl="http://www.cyberark.com/feed/" htmlUrl="https://www.cyberark.com/"/>
             <outline type="rss" text="Cyberreason" xmlUrl="https://www.cybereason.com/blog/rss.xml" htmlUrl="https://www.cybereason.com/blog"/>
             <outline type="rss" text="Daily Dave" xmlUrl="http://seclists.org/rss/dailydave.rss" htmlUrl="https://seclists.org/#dailydave"/>
-            <outline type="rss" text="Daniel Miessler" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com"/>
             <outline type="rss" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
             <outline type="rss" text="Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
@@ -51,7 +50,6 @@
             <outline type="rss" text="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"/>
             <outline type="rss" text="Google Online Security" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
             <outline type="rss" text="Google Online Security" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
-            <outline type="rss" text="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com"/>
             <outline type="rss" text="Gynvael Coldwind" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN" htmlUrl="https://gynvael.coldwind.pl/"/>
             <outline type="rss" text="hackersonlineclub" xmlUrl="http://blog.hackersonlineclub.com/feeds/posts/default" htmlUrl="http://blog.hackersonlineclub.com/"/>
             <outline type="rss" text="Hacking Articles" xmlUrl="http://www.hackingarticles.in/feed/" htmlUrl="https://www.hackingarticles.in"/>
