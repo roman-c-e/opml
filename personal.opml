@@ -40,7 +40,6 @@
 		</outline>
 				<outline text="Books" title="Books">
 			<outline text="Books: A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
-			<outline text="Books: Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
 		</outline>
 		<outline text="Gaming" title="Gaming">
 			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/feed/" type="rss" />
@@ -56,7 +55,6 @@
 		</outline>
 		<outline text="Music" title="Music">
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
-			<outline text="Music: Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
 			<outline text="Music: Pitchfork Albums" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
 			<outline text="Music: Stereogum" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
