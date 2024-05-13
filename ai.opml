@@ -164,7 +164,6 @@
             <outline text="MIT: Computer Science" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/" type="rss" />
             <outline text="MIT: AI" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" rssowl:id="2266" />
             <outline text="MIT: Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" type="rss" />
-            <outline text="MIT: ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" rssowl:id="1147" />
             <outline text="ZDNET: AI" xmlUrl="https://www.zdnet.com/topic/artificial-intelligence/rss.xml" type="rss" />
             <outline text="ZDNET: Big-Data" xmlUrl="https://www.zdnet.com/topic/big-data/rss.xml" type="rss" />
         </outline>
