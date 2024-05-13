@@ -40,5 +40,23 @@
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
             <outline text="UI/UX: Usability Geek" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
          </outline>
+        <outline text="Tech" title="Tech">
+		    <outline text="Tech: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
+            <outline text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
+            <outline text="Tech: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" type="rss" />
+		    <outline text="Tech: Bloomberg Technology" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" type="rss" />
+		    <outline text="Tech: Computerworld" xmlUrl="https://www.computerworld.com/feed/" type="rss" />
+			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
+			<outline text="Tech: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
+			<outline text="Tech: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
+			<outline text="Tech: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
+			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
+			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
+			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
+			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
+			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+			<outline text="Tech: Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
+		</outline>
 	</body>
 </opml>
