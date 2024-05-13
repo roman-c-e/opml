@@ -9,6 +9,7 @@
 			<outline text="News: Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
 			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+			<outline text="News: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
 		</outline>
 		<outline text="Career" title="Career">
 			<outline text="Career: DerStandard" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />

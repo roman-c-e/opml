@@ -54,9 +54,10 @@
 			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
-			<outline text="Tech: The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+			<outline text="Tech: The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 			<outline text="Tech: Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
+			<outline text="Tech: NYT: Personal Tech" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml" type="rss" />
 		</outline>
 	</body>
 </opml>
