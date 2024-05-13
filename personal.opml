@@ -32,7 +32,6 @@
 			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
-			<outline text="Fun: The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" type="rss" />
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
 		<outline text="Health" title="Health">
