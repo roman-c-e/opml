@@ -30,7 +30,6 @@
 		<outline text="US" title="US">
 			<outline text="US: NYT: World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
 			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
-			<outline text="US: LATimes" xmlUrl="https://www.latimes.com/world-nation/rss2.0.xml" type="rss" />
 			<outline text="US: CNN: World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" type="rss" />
 			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
 			<outline text="US: CNBC: International" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />

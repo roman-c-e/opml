@@ -8,21 +8,17 @@
 			<outline text="News: Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
 			<outline text="News: Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
 			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
-			<outline text="News: Fortune" xmlUrl="https://fortune.com/feed" type="rss" />
 			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 		</outline>
 		<outline text="Career" title="Career">
 			<outline text="Career: DerStandard" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
 		</outline>
 		<outline text="Personal finance" title="Personal finance">
-			<outline text="PersFin: Afford Anything" xmlUrl="https://affordanything.com/feed/" type="rss" />
 			<outline text="PersFin: Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
 			<outline text="PersFin: Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
 			<outline text="PersFin: I Will Teach You To Be Rich" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
-			<outline text="PersFin: Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
 			<outline text="PersFin: Millennial Money" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
 			<outline text="PersFin: Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
-			<outline text="PersFin: Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
 			<outline text="PersFin: MyWifeQuitHerJob.com" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
 			<outline text="PersFin: SavingAdvice.com" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
 			<outline text="PersFin: Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
