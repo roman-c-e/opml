@@ -5,7 +5,6 @@
 			<outline text="DIY: Hackaday" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
 			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
-			<outline text="DIY: IKEA Hackers" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
 		</outline>
 		<outline text="Food" title="Food">
 			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
