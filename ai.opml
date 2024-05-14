@@ -45,7 +45,6 @@
             <outline text="fast.ai NLP" xmlUrl="http://nlp.fast.ai/feed.xml" rssowl:id="16402" />
             <outline text="Futurism" xmlUrl="https://futurism.com/categories/ai-artificial-intelligence/feed" type="rss" />
             <outline text="Generational" xmlUrl="https://www.generational.pub/feed" type="rss" />
-            <outline text="Geodyssey" type="rss" xmlUrl="https://paulhcleverley.com/feed" htmlUrl="https://paulhcleverley.com/"/>
             <outline text="gHacks Technology News - The independent technology news blog" xmlUrl="https://www.ghacks.net/feed/" />
             <outline text="Global News" xmlUrl="https://globalnews.ca/tag/artificial-intelligence/feed" type="rss" />
             <outline text="Google AI" xmlUrl="http://googleaiblog.blogspot.com/atom.xml" type="rss" />
@@ -73,8 +72,7 @@
             <outline text="Lightning AI" xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
             <outline text="Machine Learning Mastery" type="rss" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/"/>
-            <outline text="Marek Rosa" type="rss" xmlUrl="http://blog.marekrosa.org/feeds/posts/default" htmlUrl="https://blog.marekrosa.org/"/>
-            <outline text="Marketing Artificial Intelligence Institute" type="rss" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
+             <outline text="Marketing Artificial Intelligence Institute" type="rss" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
             <outline text="Max Woolf" xmlUrl="https://minimaxir.com/post/index.xml" type="rss" />
             <outline text="Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/" type="rss" />
             <outline text="Microsoft: AI" xmlUrl="https://news.microsoft.com/source/topics/ai/feed/" htmlUrl="https://news.microsoft.com/source/topics/ai/feed/" type="rss" />
@@ -97,7 +95,6 @@
             <outline text="Paperspace" xmlUrl="https://blog.paperspace.com/rss/" type="rss" />
             <outline text="philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
-            <outline text="PyImageSearch" xmlUrl="https://pyimagesearch.com/blog/feed" type="rss" />
             <outline text="PyTorch Website" xmlUrl="https://pytorch.org/feed.xml" htmlUrl="https://pytorch.org/" type="rss" />
             <outline text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed" type="rss" />
             <outline text="Quertle" type="rss" xmlUrl="http://quertle.com/blog/feed" htmlUrl="http://quertle.com/blog/"/>
@@ -113,14 +110,12 @@
             <outline text="Searchblox" type="rss" xmlUrl="https://www.searchblox.com/blog/feed" htmlUrl="https://www.searchblox.com/blog/"/>
             <outline text="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed" type="rss" />
             <outline text="Sifted" xmlUrl="https://sifted.eu/feed/?post_type=article" type="rss" />
-            <outline text="Silicon Republic" xmlUrl="https://www.siliconrepublic.com/feed" type="rss" />
             <outline text="SiliconANGLE" xmlUrl="https://siliconangle.com/category/ai/feed" type="rss" />
             <outline text="Singularity Weblog" type="rss" xmlUrl="https://www.singularityweblog.com/blog/feed" htmlUrl="https://www.singularityweblog.com/blog/"/>
             <outline text="SpaceNews" xmlUrl="https://spacenews.com/tag/artificial-intelligence/feed/" type="rss" />
             <outline text="Stack Overflow Blog" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog/" type="rss" />
             <outline text="Stanford: CFRM" xmlUrl="https://crfm.stanford.edu/feed" />
             <outline text="Stanford: AI" xmlUrl="http://ai.stanford.edu/blog/feed.xml" htmlUrl="http://ai.stanford.edu/blog/" type="rss" />
-            <outline text="Synced" xmlUrl="https://syncedreview.com/feed" type="rss" />
             <outline text="Synthedia - Synthetic Media" xmlUrl="https://synthedia.substack.com/feed" type="rss" />
             <outline text="Taiwan AILabs" xmlUrl="https://ailabs.tw/feed/" htmlUrl="https://ailabs.tw" type="rss" />
             <outline text="Tech.eu: Robotics" xmlUrl="https://tech.eu/category/robotics/feed" type="rss" />
