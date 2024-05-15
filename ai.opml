@@ -137,7 +137,6 @@
             <outline text="Wired" xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" type="rss" />
             <outline text="Wolfram" xmlUrl="https://blog.wolfram.com/feed/" type="rss" />
             <outline text="Yseop" type="rss" xmlUrl="https://yseop.com/feed" htmlUrl="https://yseop.com/blog/"/>
-            <outline text="ΑΙhub" xmlUrl="https://aihub.org/feed?cat=-473" />
         </outline>
 	</body>
 </opml>

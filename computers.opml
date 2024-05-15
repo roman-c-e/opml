@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-        <outline text="News" title="News">
-
-        </outline>
 		<outline text="Apple" title="Apple">
             <outline text="Apple: Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
             <outline text="Apple: MacRumors" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />

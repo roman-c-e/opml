@@ -23,7 +23,6 @@
             <outline type="rss" text="CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss"/>
             <outline type="rss" text="CERTs" xmlUrl="https://insights.sei.cmu.edu/cert/rss.xml" htmlUrl="https://insights.sei.cmu.edu/cert/"/>
             <outline type="rss" text="Cheesy Rumbles" xmlUrl="https://rastamouse.me/feed" htmlUrl="https://rastamouse.me/"/>
-            <outline type="rss" text="CloudFlare" xmlUrl="http://blog.cloudflare.com/rss/" htmlUrl="http://blog.cloudflare.com"/>
             <outline type="rss" text="Confiant" xmlUrl="https://blog.confiant.com/feed"/>
             <outline type="rss" text="Cryptographic Engineering" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
             <outline type="rss" text="Cyber Threat Alert" xmlUrl="https://www.cisecurity.org/feed/alert"/>
