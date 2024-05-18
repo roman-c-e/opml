@@ -11,7 +11,6 @@
 			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
 			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
-			<outline text="Food: How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
 			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
 			<outline text="Food: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
 			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
@@ -23,12 +22,10 @@
 			<outline text="Food: smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
 		</outline>
         <outline text="Travel" title="Travel">
-			<outline text="Travel: Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
 			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
 			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
 		<outline text="Funny" title="Funny">
-			<outline text="Fun: AwkwardFamilyPhotos.com" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
@@ -36,7 +33,7 @@
 		<outline text="Health" title="Health">
 			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
 		</outline>
-				<outline text="Books" title="Books">
+		<outline text="Books" title="Books">
 			<outline text="Books: A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
 		</outline>
 		<outline text="Gaming" title="Gaming">
@@ -49,7 +46,6 @@
 			<outline text="Movies: Film School Rejects" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
 			<outline text="Movies: FirstShowing" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
 			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />
-			<outline text="Movies: Variety" xmlUrl="https://variety.com/feed/" type="rss" />
 		</outline>
 		<outline text="Music" title="Music">
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
@@ -58,7 +54,6 @@
 		</outline>
 		<outline text="Television" title="Television">
 			<outline text="TV: Bleedingcool" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
-			<outline text="TV: TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -5,9 +5,7 @@
 			<outline text="News: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
 			<outline text="News: DerStandard" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
 			<outline text="News: BBC" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" type="rss" />
-			<outline text="News: Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
 			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
-			<outline text="News: CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
 			<outline text="News: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
 		</outline>
 		<outline text="Career" title="Career">

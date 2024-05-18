@@ -17,7 +17,6 @@
 			<outline text="AT: DerStandard: Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
 		</outline>
 		<outline text="DE" title="DE">
-			<outline text="DE: ZEIT" xmlUrl="http://newsfeed.zeit.de/index" type="rss" />
 			<outline text="DE: FAZ: Aktuell" xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
