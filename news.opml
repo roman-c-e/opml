@@ -15,6 +15,7 @@
 			<outline text="AT: DerStandard: Inland" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
 			<outline text="AT: DerStandard: Kultur" xmlUrl="https://www.derstandard.at/rss/kultur" type="rss" />
 			<outline text="AT: DerStandard: Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
+			<outline text="AT: ZackZack" xmlUrl="https://zackzack.at/feed" type="rss" />
 		</outline>
 		<outline text="DE" title="DE">
 			<outline text="DE: FAZ: Aktuell" xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
