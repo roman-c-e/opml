@@ -6,7 +6,6 @@
 	<body>
 		<outline text="World" title="World">
 			<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
-			<outline text="Spain: TheLocal" xmlUrl="https://feeds.thelocal.com/rss/es" type="rss" />
 		</outline>
 		<outline text="AT" title="AT">
 			<outline text="AT: ORF" xmlUrl="https://rss.orf.at/news.xml" type="rss" />
@@ -25,12 +24,10 @@
 			<outline text="NO: TheLocal" title="NO: TheLocal" description="" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=http%3A%2F%2Fwww.thelocal.no%2Ffeeds%2Frss.php&max=3" type="rss" />
 		</outline>
 		<outline text="UK" title="UK">
-			<outline text="UK: BBC" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" type="rss" />
+
 		</outline>
 		<outline text="US" title="US">
 			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
-			<outline text="US: CNN" xmlUrl="http://rss.cnn.com/rss/edition.rss" type="rss" />
-			<outline text="US: CNBC: International" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
 			<outline text="US: Politico: Playbook" xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
 		</outline>
 	</body>
