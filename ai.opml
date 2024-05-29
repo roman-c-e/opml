@@ -16,11 +16,8 @@
             <outline text="AssemblyAI" xmlUrl="https://www.assemblyai.com/blog/rss/" type="rss" />
             <outline text="Becoming Human AI" xmlUrl="https://becominghuman.ai/feed" rssowl:id="2752" />
             <outline text="Berkeley Artificial Intelligence Research - BAIR" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" type="rss" />
-            <outline text="Big Data – SiliconANGLE" xmlUrl="https://siliconangle.com/category/big-data/feed" type="rss" />
-            <outline text="BigML.com" xmlUrl="http://blog.bigml.com/feed/" htmlUrl="https://blog.bigml.com" type="rss" />
             <outline text="BMC Software" xmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/feed" type="rss" />
             <outline text="Brighterion" type="rss" xmlUrl="http://brighterion.com/feed" htmlUrl="http://brighterion.com/blog/"/>
-            <outline text="Business Latest" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
             <outline text="Chain of Thought" xmlUrl="https://every.to/chain-of-thought/feed.xml" type="rss" />
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
             <outline text="DagsHub" xmlUrl="https://dagshub.com/blog/rss/" type="rss" />
