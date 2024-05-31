@@ -36,7 +36,6 @@
             <outline text="DiscoverText" type="rss" xmlUrl="https://discovertext.com/blog/feed" htmlUrl="https://discovertext.com/blog/"/>
             <outline text="Distill" xmlUrl="https://distill.pub/rss.xml" rssowl:id="16010" />
             <outline text="Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" type="rss" />
-            <outline text="EleutherAI" xmlUrl="https://blog.eleuther.ai/index.xml" type="rss" />
             <outline text="Eugene Yan" xmlUrl="https://eugeneyan.com/rss/" type="rss" />
             <outline text="Explosion" xmlUrl="https://explosion.ai/feed" type="rss" />
             <outline text="fast.ai NLP" xmlUrl="http://nlp.fast.ai/feed.xml" rssowl:id="16402" />
@@ -59,10 +58,7 @@
             <outline text="John D. Cook" xmlUrl="https://www.johndcook.com/blog/feed" rssowl:id="15176" />
             <outline text="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed" type="rss" />
             <outline text="KnowTechie" xmlUrl="https://knowtechie.com/category/ai/feed/" type="rss" />
-            <outline text="LangChain" xmlUrl="https://blog.langchain.dev/rss/" type="rss" />
-            <outline text="Latent Space" xmlUrl="https://www.latent.space/feed" type="rss" />
             <outline text="DataFlair - Machine Learning Tutorials" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed"/>
-            <outline text="Lexalytics" type="rss" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
             <outline text="Lightning AI" xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
             <outline text="Machine Learning Mastery" type="rss" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/"/>
@@ -84,15 +80,12 @@
             <outline text="ODSC" xmlUrl="https://medium.com/feed/@odsc" type="rss" />
             <outline text="One Useful Thing" xmlUrl="https://www.oneusefulthing.org/feed" type="rss" />
             <outline text="Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
-            <outline text="Paperspace" xmlUrl="https://blog.paperspace.com/rss/" type="rss" />
             <outline text="philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
-            <outline text="PyTorch Website" xmlUrl="https://pytorch.org/feed.xml" htmlUrl="https://pytorch.org/" type="rss" />
-             <outline text="Quertle" type="rss" xmlUrl="http://quertle.com/blog/feed" htmlUrl="http://quertle.com/blog/"/>
+            <outline text="Quertle" type="rss" xmlUrl="http://quertle.com/blog/feed" htmlUrl="http://quertle.com/blog/"/>
             <outline text="Radix - Medium" xmlUrl="https://medium.com/feed/radix-ai-blog" type="rss" />
             <outline text="Replicate - Machine learnings from the Replicate team" xmlUrl="https://replicate.com/blog/rss" type="rss" />
             <outline text="Replicate Codex" xmlUrl="https://notes.replicatecodex.com/rss/" type="rss" />
-            <outline text="Rest of World" xmlUrl="https://restofworld.org/feed/latest" type="rss" />
             <outline text="SciBite" type="rss" xmlUrl="https://www.scibite.com/feed" htmlUrl="https://www.scibite.com/"/>
             <outline text="Scientific American Content" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
             <outline text="Searchblox" type="rss" xmlUrl="https://www.searchblox.com/blog/feed" htmlUrl="https://www.searchblox.com/blog/"/>
@@ -104,8 +97,6 @@
             <outline text="Taiwan AILabs" xmlUrl="https://ailabs.tw/feed/" htmlUrl="https://ailabs.tw" type="rss" />
             <outline text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" type="rss" />
             <outline text="Techexplore" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" type="rss" />
-            <outline text="TechPark" xmlUrl="https://ai-techpark.com/category/ai/feed/" type="rss" />
-            <outline text="TechRepublic" xmlUrl="https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/" type="rss" />
             <outline text="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" type="rss" />
             <outline text="TechTalks" xmlUrl="https://bdtechtalks.com/feed/" type="rss" />
             <outline text="The Conversation" xmlUrl="https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom" type="rss" />
