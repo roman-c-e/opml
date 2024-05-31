@@ -44,7 +44,6 @@
             <outline text="JMLR - Journal of Machine Learning Research" xmlUrl="https://www.jmlr.org/jmlr.xml" type="rss" />
             <outline text="John D. Cook" xmlUrl="https://www.johndcook.com/blog/feed" rssowl:id="15176" />
             <outline text="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed" type="rss" />
-            <outline text="DataFlair - Machine Learning Tutorials" type="rss" xmlUrl="https://data-flair.training/blogs/category/machine-learning/feed"/>
             <outline text="Lightning AI" xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
             <outline text="Machine Learning Mastery" type="rss" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/"/>
