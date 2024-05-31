@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-		<outline text="Business & Economy" title="Business & Economy">
-			<outline text="News: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
-			<outline text="News: DerStandard" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
-			<outline text="News: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
-			<outline text="News: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
-			<outline text="News: Wired" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
+		<outline text="Business - Economy" title="Business & Economy">
+			<outline text="Business: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
+			<outline text="Business: DerStandard" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
+			<outline text="Business: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
+			<outline text="Business: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
+			<outline text="Business: Wired" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
 		</outline>
 		<outline text="Career" title="Career">
 			<outline text="Career: DerStandard" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
