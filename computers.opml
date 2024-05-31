@@ -20,7 +20,6 @@
             <outline text="Programming: Robert Heaton" xmlUrl="https://robertheaton.com/feed.xml" type="rss" />
             <outline text="Programming: Scott Hanselman's" xmlUrl="http://feeds.hanselman.com/ScottHanselman" type="rss" />
             <outline text="Programming: Slack Engineering" xmlUrl="https://slack.engineering/feed" type="rss" />
-            <outline text="Programming: Spotify Engineering" xmlUrl="https://labs.spotify.com/feed/" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
@@ -30,7 +29,6 @@
         </outline>
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
-            <outline text="UI/UX: Inside Design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
             <outline text="UI/UX: NN/g" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
             <outline text="UI/UX: UX Studio" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
             <outline text="UI/UX: UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" type="rss" />
@@ -50,7 +48,6 @@
 			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
-			<outline text="Tech: TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" type="rss" />
 			<outline text="Tech: The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 			<outline text="Tech: Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />

@@ -12,7 +12,6 @@
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
 			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
 			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
-			<outline text="Food: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
 			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
 			<outline text="Food: Serious Eats: Recipes" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
 			<outline text="Food: Skinnytaste" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
@@ -32,11 +31,7 @@
 		<outline text="Health" title="Health">
 			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
 		</outline>
-		<outline text="Books" title="Books">
-			<outline text="Books: A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
-		</outline>
 		<outline text="Gaming" title="Gaming">
-			<outline text="Gaming: Escapist" xmlUrl="https://www.escapistmagazine.com/feed/" type="rss" />
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
 			<outline text="Gaming: Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
 		</outline>
