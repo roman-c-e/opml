@@ -3,12 +3,10 @@
 	<body>
         <outline text="Security" title="Security">
             <outline type="rss" text="//SCADAS.EC" xmlUrl="http://scadamag.infracritical.com/index.php/feed/"/>
-            <outline type="rss" text="0patch" xmlUrl="https://0patch.blogspot.com/feeds/posts/default" htmlUrl="https://blog.0patch.com/"/>
             <outline type="rss" text="0x27.me" xmlUrl="http://0x27.me/feed.category.xml" htmlUrl="http://0x27.me/"/>
             <outline type="rss" text="AlienVault Labs" xmlUrl="https://cybersecurity.att.com/site/blog-labs-rss-short"/>
             <outline type="rss" text="Appsecco" xmlUrl="https://blog.appsecco.com/feed"/>
             <outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
-            <outline type="rss" text="AttackIQ" xmlUrl="https://attackiq.com/blog/feed/" htmlUrl="https://www.attackiq.com/blog/"/>
             <outline type="rss" text="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com"/>
             <outline type="rss" text="BH Consulting" xmlUrl="http://bhconsulting.ie/feed/" htmlUrl="https://bhconsulting.ie/"/>
             <outline type="rss" text="Bill Demirkapi’s" xmlUrl="https://billdemirkapi.me/rss/" htmlUrl="https://billdemirkapi.me/"/>
@@ -19,20 +17,17 @@
             <outline type="rss" text="BREAKDEV" xmlUrl="http://breakdev.org/rss/" htmlUrl="https://breakdev.org/"/>
             <outline type="rss" text="Brett Buerhaus" xmlUrl="https://buer.haus/feed/" htmlUrl="https://buer.haus"/>
             <outline type="rss" text="CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss"/>
-            <outline type="rss" text="CERTs" xmlUrl="https://insights.sei.cmu.edu/cert/rss.xml" htmlUrl="https://insights.sei.cmu.edu/cert/"/>
             <outline type="rss" text="Cheesy Rumbles" xmlUrl="https://rastamouse.me/feed" htmlUrl="https://rastamouse.me/"/>
             <outline type="rss" text="Confiant" xmlUrl="https://blog.confiant.com/feed"/>
             <outline type="rss" text="Cryptographic Engineering" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
             <outline type="rss" text="Cyber Threat Alert" xmlUrl="https://www.cisecurity.org/feed/alert"/>
             <outline type="rss" text="Cyberreason" xmlUrl="https://www.cybereason.com/blog/rss.xml" htmlUrl="https://www.cybereason.com/blog"/>
-            <outline type="rss" text="Daily Dave" xmlUrl="http://seclists.org/rss/dailydave.rss" htmlUrl="https://seclists.org/#dailydave"/>
             <outline type="rss" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
             <outline type="rss" text="Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darktrace" xmlUrl="https://www.darktrace.com/blog/index.xml" htmlUrl="https://darktrace.com"/>
             <outline type="rss" text="Dave Waterson on Security" xmlUrl="http://dwaterson.com/feed/" htmlUrl="https://dwaterson.com"/>
-            <outline type="rss" text="Didier Stevens" xmlUrl="http://blog.didierstevens.com/feed/" htmlUrl="https://blog.didierstevens.com"/>
             <outline type="rss" text="DigiNinja" xmlUrl="https://digi.ninja/rss.xml" htmlUrl="https://digi.ninja/rss.xml"/>
             <outline type="rss" text="DoublePulsar" xmlUrl="https://doublepulsar.com/feed"/>
             <outline type="rss" text="EFF" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
@@ -56,7 +51,6 @@
             <outline type="rss" text="KernelPicnic" xmlUrl="http://www.kernelpicnic.net/feed.xml" htmlUrl="http://www.kernelpicnic.net/"/>
             <outline type="rss" text="Kevin Chung" xmlUrl="https://blog.kchung.co/rss/" htmlUrl="https://blog.kchung.co/"/>
             <outline type="rss" text="KitPloit" xmlUrl="http://feeds.feedburner.com/PentestTools" htmlUrl="http://www.kitploit.com/"/>
-            <outline type="rss" text="Krypt3ia" xmlUrl="http://krypt3ia.wordpress.com/feed/" htmlUrl="https://krypt3ia.wordpress.com"/>
             <outline type="rss" text="lab52" xmlUrl="https://lab52.io/blog/feed/" htmlUrl="https://lab52.io/blog"/>
             <outline type="rss" text="Lenny Zeltser" xmlUrl="https://zeltser.com/feed/" htmlUrl="https://zeltser.com"/>
             <outline type="rss" text="MalwareTech" xmlUrl="http://www.malwaretech.com/feed?alt=rss" htmlUrl="https://www.malwaretech.com"/>
@@ -90,9 +84,7 @@
             <outline type="rss" text="Team-Cymru" xmlUrl="https://www.team-cymru.com/blog-feed.xml" htmlUrl="https://team-cymru.com"/>
             <outline type="rss" text="Tech Vomit" xmlUrl="https://techvomit.net/index.xml" htmlUrl="https://techvomit.net/"/>
             <outline type="rss" text="The Exploit Laboratory" xmlUrl="http://blog.exploitlab.net/feeds/posts/default"/>
-            <outline type="rss" text="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
             <outline type="rss" text="The Human Machine Interface" xmlUrl="https://h0mbre.github.io/feed.xml" htmlUrl="https://h0mbre.github.io/"/>
-            <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
             <outline type="rss" text="TheGeryCorner" xmlUrl="http://thegreycorner.com/feed.xml" htmlUrl="http://thegreycorner.com/"/>
             <outline type="rss" text="thepcn3rd" xmlUrl="http://thepcn3rd.blogspot.com/feeds/posts/default" htmlUrl="https://thepcn3rd.blogspot.com/"/>
             <outline type="rss" text="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss"/>

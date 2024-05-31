@@ -23,7 +23,6 @@
 			<outline text="Space: Space.com" xmlUrl="https://www.space.com/feeds/all" type="rss" />
 		</outline>
         <outline text="History" title="History">
-			<outline text="History: American History" xmlUrl="https://americanhistory.si.edu/rss.xml" type="rss" />
 			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
 		</outline>
 	</body>
