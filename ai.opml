@@ -2,20 +2,15 @@
 <opml version="1.0">
 	<body>
         <outline text="ai" title="ai" >
-            <outline text="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" type="rss" />
             <outline text="AI Accelerator Institute" xmlUrl="https://aiacceleratorinstitute.com/rss/" type="rss" />
             <outline text="AI Business - AI Business" xmlUrl="https://aibusiness.com/rss.xml" type="rss" />
             <outline text="Ai Prompt Programming" type="rss" />
-            <outline text="AI Resources" type="rss" xmlUrl="http://airesources.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://airesources.blogspot.com/"/>
             <outline text="Analytics India Magazine" xmlUrl="https://analyticsindiamag.com/feed/" type="rss" />
             <outline text="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com" type="rss" />
             <outline text="Arize AI" xmlUrl="https://arize.com/feed/" htmlUrl="https://arize.com/" type="rss" />
             <outline text="Ars Technica - All content" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" type="rss" />
-            <outline text="Artificialis - Medium" xmlUrl="https://medium.com/feed/artificialis" type="rss" />
             <outline text="AssemblyAI" xmlUrl="https://www.assemblyai.com/blog/rss/" type="rss" />
             <outline text="Becoming Human AI" xmlUrl="https://becominghuman.ai/feed" rssowl:id="2752" />
-            <outline text="Berkeley Artificial Intelligence Research - BAIR" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" type="rss" />
-            <outline text="BMC Software" xmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/feed" type="rss" />
             <outline text="Brighterion" type="rss" xmlUrl="http://brighterion.com/feed" htmlUrl="http://brighterion.com/blog/"/>
             <outline text="Chain of Thought" xmlUrl="https://every.to/chain-of-thought/feed.xml" type="rss" />
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
@@ -42,11 +37,9 @@
             <outline text="Intel AI" type="rss" xmlUrl="https://community.intel.com/cipcp26785/rss/board?board.id=blog-ai" htmlUrl="https://www.intel.ai/blog/#gs.8hlBBKIB"/>
             <outline text="Interconnects" xmlUrl="https://www.interconnects.ai/feed" type="rss" />
             <outline text="JMLR - Journal of Machine Learning Research" xmlUrl="https://www.jmlr.org/jmlr.xml" type="rss" />
-            <outline text="John D. Cook" xmlUrl="https://www.johndcook.com/blog/feed" rssowl:id="15176" />
             <outline text="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed" type="rss" />
             <outline text="Lightning AI" xmlUrl="https://lightning.ai/pages/feed/" type="rss" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
-            <outline text="Max Woolf" xmlUrl="https://minimaxir.com/post/index.xml" type="rss" />
             <outline text="Meta Research" xmlUrl="https://research.facebook.com/feed/" htmlUrl="https://research.facebook.com/" type="rss" />
             <outline text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" type="rss" />
             <outline text="ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed" type="rss" />
@@ -61,7 +54,6 @@
             <outline text="Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
             <outline text="philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
-            <outline text="Radix - Medium" xmlUrl="https://medium.com/feed/radix-ai-blog" type="rss" />
             <outline text="Replicate Codex" xmlUrl="https://notes.replicatecodex.com/rss/" type="rss" />
             <outline text="Scientific American Content" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
             <outline text="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed" type="rss" />

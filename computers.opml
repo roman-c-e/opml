@@ -22,7 +22,6 @@
             <outline text="Programming: Slack Engineering" xmlUrl="https://slack.engineering/feed" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
-            <outline text="Programming: The Airbnb Tech - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
             <outline text="Programming: DEV Community" xmlUrl="https://dev.to/feed" type="rss" />
 
