@@ -6,7 +6,6 @@
 			<outline text="Science: DerStandard" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
 			<outline text="Science: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
 			<outline text="Science: FlowingData" xmlUrl="https://flowingdata.com/feed" type="rss" />
-			<outline text="Science: Gizmodo" xmlUrl="https://gizmodo.com/tag/science/rss" type="rss" />
 			<outline text="Science: ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
 			<outline text="Science: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
 			<outline text="Science: Nature" xmlUrl="https://www.nature.com/nature.rss" type="rss" />

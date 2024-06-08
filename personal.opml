@@ -10,13 +10,7 @@
 			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
 			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
 			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
-			<outline text="Food: Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
-			<outline text="Food: Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
-			<outline text="Food: Oh She Glows" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
-			<outline text="Food: Serious Eats: Recipes" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" type="rss" />
 			<outline text="Food: Skinnytaste" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
-			<outline text="Food: Sprouted Kitchen" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
-			<outline text="Food: Williams-Sonoma Taste" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
 			<outline text="Food: smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
 		</outline>
         	<outline text="Travel" title="Travel">
@@ -33,7 +27,6 @@
 		</outline>
 		<outline text="Gaming" title="Gaming">
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
-			<outline text="Gaming: Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
 		</outline>
 		<outline text="Movies" title="Movies">
 			<outline text="Movies: /Film" xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
