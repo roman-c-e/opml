@@ -46,7 +46,6 @@
             <outline text="NLP The Spectator" xmlUrl="http://blog.shakirm.com/feed" rssowl:id="16411" />
             <outline text="NVIDIA: AI" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
             <outline text="NVIDIA: Technical" xmlUrl="https://developer.nvidia.com/blog/feed" type="rss" />
-            <outline text="ODSC" xmlUrl="https://medium.com/feed/@odsc" type="rss" />
             <outline text="Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
             <outline text="philschmid" xmlUrl="https://www.philschmid.de/rss" />
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
@@ -66,8 +65,6 @@
             <outline text="The Next Web" xmlUrl="https://thenextweb.com/neural/feed" type="rss" />
             <outline text="The Register" xmlUrl="https://www.theregister.com/software/ai_ml/headlines.atom" type="rss" />
             <outline text="The TRADE" xmlUrl="https://www.thetradenews.com/feed/" type="rss" />
-            <outline text="Towards AI - Medium" xmlUrl="https://pub.towardsai.net/feed" type="rss" />
-            <outline text="Towards Data Science - Medium" xmlUrl="https://towardsdatascience.com/feed" type="rss" />
             <outline text="TruEra" xmlUrl="https://truera.com/feed/" htmlUrl="https://truera.com/" type="rss" />
             <outline text="Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/ai/rss/" type="rss" />
             <outline text="Unite.AI" xmlUrl="https://www.unite.ai/feed/" type="rss" />

@@ -13,7 +13,6 @@
             <outline text="Programming: Google Developers" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" />
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
             <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
-            <outline text="Programming: Netflix TechBlog - Medium" xmlUrl="https://netflixtechblog.com/feed" type="rss" />
             <outline text="Programming: Scott Hanselman's" xmlUrl="http://feeds.hanselman.com/ScottHanselman" type="rss" />
             <outline text="Programming: Slack Engineering" xmlUrl="https://slack.engineering/feed" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
@@ -25,7 +24,6 @@
             <outline text="UI/UX: Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
             <outline text="UI/UX: NN/g" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
             <outline text="UI/UX: UX Studio" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
-            <outline text="UI/UX: UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" type="rss" />
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
         </outline>
         <outline text="Tech" title="Tech">
@@ -43,7 +41,6 @@
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
 			<outline text="Tech: The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
-			<outline text="Tech: Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" type="rss" />
 			<outline text="Tech: NYT: Personal Tech" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml" type="rss" />
 		</outline>
 	</body>
