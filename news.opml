@@ -27,7 +27,6 @@
 
 		</outline>
 		<outline text="US" title="US">
-			<outline text="US: NYT: Top" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" type="rss" />
 			<outline text="US: Politico: Playbook" xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
 		</outline>
 	</body>

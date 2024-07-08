@@ -6,14 +6,7 @@
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
 			<outline text="DIY: How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
 		</outline>
-		<outline text="Food" title="Food">
-			<outline text="Food: 101 Cookbooks" xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
-			<outline text="Food: Chocolate & Zucchini" xmlUrl="https://cnz.to/feed/" type="rss" />
-			<outline text="Food: David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
-			<outline text="Food: Skinnytaste" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
-			<outline text="Food: smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" type="rss" />
-		</outline>
-        	<outline text="Travel" title="Travel">
+       	<outline text="Travel" title="Travel">
 			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
 			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
