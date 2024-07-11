@@ -36,8 +36,6 @@
             <outline text="MIT: Science" xmlUrl="https://news.mit.edu/rss/topic/science-technology-and-society" type="rss" />
         </outline>
         <outline text="random">
-            <outline text="ZDNET: AI" xmlUrl="https://www.zdnet.com/topic/artificial-intelligence/rss.xml" type="rss" />
-            <outline text="ZDNET: Big-Data" xmlUrl="https://www.zdnet.com/topic/big-data/rss.xml" type="rss" />
             <outline text="ScienceDaily: AI" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" rssowl:id="2204" />
             <outline text="ScienceDaily: Neural Interfaces" xmlUrl="https://www.sciencedaily.com/rss/computers_math/neural_interfaces.xml" type="rss" />
             <outline text="ScienceDaily: Robotics" xmlUrl="https://www.sciencedaily.com/rss/computers_math/robotics.xml" type="rss" />
