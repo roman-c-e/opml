@@ -4,7 +4,6 @@
 		<outline text="Arxiv" title="Arxiv">
 		    <outline text="cs.AI - Artificial Intelligence" xmlUrl="https://arxiv.org/rss/cs.AI" />
             <outline text="cs.CL - Computation and Language" xmlUrl="https://arxiv.org/rss/cs.CL" type="rss" />
-            <outline text="cs.CV - Computer Vision and Pattern Recognition" xmlUrl="https://arxiv.org/rss/cs.CV" />
             <outline text="cs.LG - Machine Learning" xmlUrl="https://arxiv.org/rss/cs.LG" />
             <outline text="stat.ML - Statistics" xmlUrl="https://arxiv.org/rss/stat.ML" />
             <outline text="cs.DC - Distributed, Parallel, and Cluster Computing" xmlUrl="http://arxiv.org/rss/cs.DC" rssowl:id="374" />
@@ -16,7 +15,6 @@
         <outline text="Reddit" title="Reddit">
             <outline text="Computers: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
             <outline text="AI: Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" type="rss" />
-            <outline text="AI: Computer Vision" type="rss" xmlUrl="https://www.reddit.com/r/computervision/.rss" />
             <outline text="AI: Data Science" xmlUrl="https://www.reddit.com/r/datascience/.rss" type="rss" />
             <outline text="AI: Deep Learning" xmlUrl="https://www.reddit.com/r/deeplearning/.rss" type="rss" />
             <outline text="AI: Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" type="rss" />
@@ -25,7 +23,6 @@
             <outline text="AI: Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
             <outline text="Computers: Apple" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
             <outline text="Computers: Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
-            <outline text="Space: Reddit" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
 		</outline>
         <outline text="MIT">
             <outline text="MIT: Computer Science" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" type="rss" />

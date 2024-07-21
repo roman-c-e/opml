@@ -22,9 +22,7 @@
 			<outline text="Gaming: GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
 		</outline>
 		<outline text="Movies" title="Movies">
-			<outline text="Movies: /Film" xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
 			<outline text="Movies: Film School Rejects" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
-			<outline text="Movies: FirstShowing" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
 			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />
 		</outline>
 		<outline text="Music" title="Music">

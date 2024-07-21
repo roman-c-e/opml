@@ -17,7 +17,6 @@
 			<outline text="AT: ZackZack" xmlUrl="https://zackzack.at/feed" type="rss" />
 		</outline>
 		<outline text="DE" title="DE">
-			<outline text="DE: FAZ: Aktuell" xmlUrl="https://www.faz.net/rss/aktuell/" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
 			<outline text="NO: NewsInEnglish" title="NO: NewsInEnglish" description="" xmlUrl="https://www.newsinenglish.no/feed/" type="rss" />

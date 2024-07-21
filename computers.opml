@@ -35,7 +35,6 @@
 			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
 			<outline text="Tech: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
 			<outline text="Tech: Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" />
-			<outline text="Tech: Gizmodo" xmlUrl="https://gizmodo.com/rss" type="rss" />
 			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 			<outline text="Tech: ReadWrite" xmlUrl="https://readwrite.com/feed/" type="rss" />
 			<outline text="Tech: Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
