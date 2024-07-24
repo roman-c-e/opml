@@ -7,7 +7,6 @@
             <outline text="Ai Prompt Programming" type="rss" />
             <outline text="Analytics India Magazine" xmlUrl="https://analyticsindiamag.com/feed/" type="rss" />
             <outline text="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com" type="rss" />
-            <outline text="Arize AI" xmlUrl="https://arize.com/feed/" htmlUrl="https://arize.com/" type="rss" />
             <outline text="Ars Technica - All content" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" type="rss" />
             <outline text="AssemblyAI" xmlUrl="https://www.assemblyai.com/blog/rss/" type="rss" />
             <outline text="Becoming Human AI" xmlUrl="https://becominghuman.ai/feed" rssowl:id="2752" />
@@ -16,7 +15,6 @@
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
             <outline text="DagsHub" xmlUrl="https://dagshub.com/blog/rss/" type="rss" />
             <outline text="Datanami" xmlUrl="https://www.datanami.com/feed/" type="rss" />
-            <outline text="DataRobot" xmlUrl="https://www.datarobot.com/blog/feed" type="rss" htmlUrl="https://blog.datarobot.com/"/>
             <outline text="DebuggerCafe" xmlUrl="https://debuggercafe.com/feed/" type="rss" />
             <outline text="DeepMind" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
             <outline text="Department of Product" xmlUrl="https://departmentofproduct.substack.com/feed" type="rss" />
