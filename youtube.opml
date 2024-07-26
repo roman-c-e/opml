@@ -8,6 +8,7 @@
 			<outline text="AVGN" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=JamesNintendoNerd" type="rss" />
 			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
 			<outline text="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" type="rss" />
+			<outline text="DammitJeff" xmlUrl="https://www.youtube.com/@DammitJeff/videos" type="rss" />
 		</outline>
 		<outline text="Music">
 			<outline text="Sub Pop" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=subpoprecords" type="rss" />
@@ -25,11 +26,13 @@
 			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
 			<outline text="TLDR News" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8OA2s1wsOR2EgJA" type="rss" />
 			<outline text="TLDR EU" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-eegKVWEgBCa4OzjnK_PtA" type="rss" />
+			<outline text="SciShow" xmlUrl="https://www.youtube.com/@SciShow" type="rss" />
 		</outline>ß
 		<outline text="Politics">
 			<outline text="Mark Reicher" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcJ468cakFPyFEcjrFGz0Og" type="rss" />
 		</outline>
 		<outline text="Sports">
+		    <outline text="Shredded Sports Science" xmlUrl="https://www.youtube.com/@shreddedsportsscience" type="rss" />
 
 		</outline>
 		<outline text="Food">
