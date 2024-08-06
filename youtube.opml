@@ -30,6 +30,9 @@
 		</outline>ß
 		<outline text="Politics">
 			<outline text="Mark Reicher" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcJ468cakFPyFEcjrFGz0Og" type="rss" />
+		    <outline text="VisualPolitikDE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHmNfmKhIkfBMTrr5QU-gAQ" type="rss" />
+		    <outline text="VisualEconomikDE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5ysObh1s_qTYq_37-KffQ" type="rss" />
+
 		</outline>
 		<outline text="Sports">
 		    <outline text="Shredded Sports Science" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXrqErU_TjqiHAHJkzITAvg" type="rss" />
