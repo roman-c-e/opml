@@ -32,12 +32,41 @@
             <outline text="Sifted" xmlUrl="https://sifted.eu/feed/?post_type=article" type="rss" />
             <outline text="SiliconANGLE" xmlUrl="https://siliconangle.com/category/ai/feed" type="rss" />
          </outline>
-
         <outline text="Space" title="Space">
 			<outline text="Space: NASA Breaking News" xmlUrl="https://www.nasa.gov/feed/" type="rss" />
 			<outline text="Space: New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
 			<outline text="Space: Sky & Telescope" xmlUrl="https://skyandtelescope.com/astronomy-news/feed/" type="rss" />
 			<outline text="Space: TheGuardian" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
 		</outline>
+		<outline text="MIT">
+            <outline text="MIT: Computer Science" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" type="rss" />
+            <outline text="MIT: AI" xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" type="rss" />
+            <outline text="MIT: Robotics" xmlUrl="https://news.mit.edu/topic/mitrobotics-rss.xml" type="rss" />
+            <outline text="MIT: Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" type="rss" />
+            <outline text="MIT: Data Mgmt" xmlUrl="https://news.mit.edu/rss/topic/data-management-and-statistics" type="rss" />
+            <outline text="MIT: Science" xmlUrl="https://news.mit.edu/rss/topic/science-technology-and-society" type="rss" />
+        </outline>
+		<outline text="Arxiv" title="Arxiv">
+		    <outline text="cs.AI - Artificial Intelligence" xmlUrl="https://arxiv.org/rss/cs.AI" />
+            <outline text="cs.CL - Computation and Language" xmlUrl="https://arxiv.org/rss/cs.CL" type="rss" />
+            <outline text="cs.LG - Machine Learning" xmlUrl="https://arxiv.org/rss/cs.LG" />
+            <outline text="stat.ML - Statistics" xmlUrl="https://arxiv.org/rss/stat.ML" />
+            <outline text="cs.DC - Distributed, Parallel, and Cluster Computing" xmlUrl="http://arxiv.org/rss/cs.DC" rssowl:id="374" />
+            <outline text="cs.DS - Data Structures and Algorithms" xmlUrl="http://arxiv.org/rss/cs.DS" rssowl:id="375" />
+            <outline text="quant-ph - Quantum Physics" xmlUrl="http://arxiv.org/rss/quant-ph" rssowl:id="376" />
+            <outline text="q.fin - Quantitative Finance" xmlUrl="http://arxiv.org/rss/q-fin" rssowl:id="377" />
+            <outline text="cs.cy - Computers and Society" xmlUrl="http://arxiv.org/rss/cs.CY" rssowl:id="378" />
+		</outline>
+        <outline text="Reddit" title="Reddit">
+            <outline text="Computers: User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" type="rss" />
+            <outline text="AI: Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" type="rss" />
+            <outline text="AI: Data Science" xmlUrl="https://www.reddit.com/r/datascience/.rss" type="rss" />
+            <outline text="AI: Deep Learning" xmlUrl="https://www.reddit.com/r/deeplearning/.rss" type="rss" />
+            <outline text="AI: Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" type="rss" />
+            <outline text="AI: Natural Language Processing" xmlUrl="https://www.reddit.com/r/LanguageTechnology/.rss" type="rss" />
+            <outline text="AI: Neural Networks, Deep Learning and Machine Learning" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss" type="rss" />
+            <outline text="AI: Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
+		</outline>
+
     </body>
 </opml>
