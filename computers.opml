@@ -42,5 +42,9 @@
 			<outline text="Tech: Engadget" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
 			<outline text="Tech: NYT: Personal Tech" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml" type="rss" />
 		</outline>
+        <outline text="Reddit" title="Reddit">
+            <outline text="Reddit: Apple" xmlUrl="https://www.reddit.com/r/apple/.rss" type="rss" />
+            <outline text="Reddit: Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
+		</outline>
 	</body>
 </opml>
