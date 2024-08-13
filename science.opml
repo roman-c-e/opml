@@ -13,12 +13,7 @@
 			<outline text="Science: Wired" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
 			<outline text="Science: Scientific American: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
 		</outline>
-        <outline text="Space" title="Space">
-			<outline text="Space: NASA Breaking News" xmlUrl="https://www.nasa.gov/feed/" type="rss" />
-			<outline text="Space: New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
-			<outline text="Space: Sky & Telescope" xmlUrl="https://skyandtelescope.com/astronomy-news/feed/" type="rss" />
-			<outline text="Space: TheGuardian" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
-		</outline>
+
         <outline text="History" title="History">
 			<outline text="History: The History Reader" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
 		</outline>
