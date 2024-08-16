@@ -23,7 +23,6 @@
             <outline text="Playing with AI" xmlUrl="https://erichartford.com/rss.xml" type="rss" />
             <outline text="Scientific American Content" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
             <outline text="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed" type="rss" />
-            <outline text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" type="rss" />
             <outline text="Techexplore" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" type="rss" />
             <outline text="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" type="rss" />
             <outline text="TechTalks" xmlUrl="https://bdtechtalks.com/feed/" type="rss" />
@@ -36,7 +35,6 @@
             <outline text="The TRADE" xmlUrl="https://www.thetradenews.com/feed/" type="rss" />
             <outline text="TruEra" xmlUrl="https://truera.com/feed/" htmlUrl="https://truera.com/" type="rss" />
             <outline text="Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/ai/rss/" type="rss" />
-            <outline text="Unite.AI" xmlUrl="https://www.unite.ai/feed/" type="rss" />
             <outline text="Unwind AI" xmlUrl="https://unwindai.substack.com/feed" type="rss" />
             <outline text="VentureBeat" xmlUrl="https://venturebeat.com/category/ai/feed/" type="rss" />
             <outline text="Voicebot.ai - Giving Voice to a Revolution" xmlUrl="https://voicebot.ai/feed/" type="rss" />

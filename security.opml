@@ -4,7 +4,6 @@
         <outline text="Security" title="Security">
             <outline type="rss" text="//SCADAS.EC" xmlUrl="http://scadamag.infracritical.com/index.php/feed/"/>
             <outline type="rss" text="Appsecco" xmlUrl="https://blog.appsecco.com/feed"/>
-            <outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com"/>
             <outline type="rss" text="BH Consulting" xmlUrl="http://bhconsulting.ie/feed/" htmlUrl="https://bhconsulting.ie/"/>
             <outline type="rss" text="Black Hills Information Security" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
