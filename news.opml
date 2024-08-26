@@ -4,9 +4,6 @@
 		<title>NEWS</title>
 	</head>
 	<body>
-		<outline text="World" title="World">
-			<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
-		</outline>
 		<outline text="AT" title="AT">
 			<outline text="AT: ORF" xmlUrl="https://rss.orf.at/news.xml" type="rss" />
 			<outline text="AT: DerStandard: DieStandard" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
