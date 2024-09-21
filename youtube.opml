@@ -32,12 +32,8 @@
 			<outline text="Mark Reicher" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcJ468cakFPyFEcjrFGz0Og" type="rss" />
 		</outline>
 		<outline text="Sports">
-		    <outline text="Shredded Sports Science" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXrqErU_TjqiHAHJkzITAvg" type="rss" />
-
 		</outline>
 		<outline text="Food">
-			<outline text="Binging with Babish" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" type="rss" />
-			<outline text="Gordon Ramsay" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=gordonramsay" type="rss" />
 			<outline text="J. Kenji Lopez Alt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqqJQ_cXSat0KIAVfIfKkVA" type="rss" />
 		</outline>
 	</body>
