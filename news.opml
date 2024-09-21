@@ -4,9 +4,6 @@
 		<title>NEWS</title>
 	</head>
 	<body>
-		<outline text="World" title="World">
-			<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
-		</outline>
 		<outline text="AT" title="AT">
 			<outline text="AT: ORF" xmlUrl="https://rss.orf.at/news.xml" type="rss" />
 			<outline text="AT: DerStandard: DieStandard" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
@@ -16,14 +13,9 @@
 			<outline text="AT: DerStandard: Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
 			<outline text="AT: ZackZack" xmlUrl="https://zackzack.at/feed" type="rss" />
 		</outline>
-		<outline text="DE" title="DE">
-		</outline>
 		<outline text="NO" title="NO">
 			<outline text="NO: NewsInEnglish" title="NO: NewsInEnglish" description="" xmlUrl="https://www.newsinenglish.no/feed/" type="rss" />
 			<outline text="NO: TheLocal" title="NO: TheLocal" description="" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=http%3A%2F%2Fwww.thelocal.no%2Ffeeds%2Frss.php&max=3" type="rss" />
-		</outline>
-		<outline text="UK" title="UK">
-
 		</outline>
 		<outline text="US" title="US">
 			<outline text="US: Politico: Playbook" xmlUrl="https://rss.politico.com/playbook.xml" type="rss" />
