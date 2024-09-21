@@ -24,12 +24,9 @@
             <outline type="rss" text="HighOn.Coffee" xmlUrl="https://highon.coffee/feed.xml" htmlUrl="https://highon.coffee/"/>
             <outline type="rss" text="Imperialviolet" xmlUrl="https://www.imperialviolet.org/iv-rss.xml" htmlUrl="http://www.imperialviolet.org/"/>
             <outline type="rss" text="Include Security Research" xmlUrl="https://blog.includesecurity.com/feed/"/>
-            <outline type="rss" text="KitPloit" xmlUrl="http://feeds.feedburner.com/PentestTools" htmlUrl="http://www.kitploit.com/"/>
             <outline type="rss" text="Lenny Zeltser" xmlUrl="https://zeltser.com/feed/" htmlUrl="https://zeltser.com"/>
-            <outline type="rss" text="Max Kersten" xmlUrl="https://maxkersten.nl/feed/" htmlUrl="https://maxkersten.nl"/>
             <outline type="rss" text="MDSec" xmlUrl="https://www.mdsec.co.uk/category/penetration-testing/feed/" htmlUrl="https://www.mdsec.co.uk"/>
             <outline type="rss" text="media.ccc.de - NEWS" xmlUrl="https://media.ccc.de/updates.rdf" htmlUrl="http://media.ccc.de"/>
-            <outline type="rss" text="NETRESEC" xmlUrl="http://www.netresec.com/rss.ashx" htmlUrl="http://www.netresec.com/?page=Blog"/>
             <outline type="rss" text="Nextron Systems" xmlUrl="https://www.nextron-systems.com/feed/" htmlUrl="https://www.nextron-systems.com/"/>
             <outline type="rss" text="NVISO Labs" xmlUrl="https://blog.nviso.eu/feed/" htmlUrl="https://blog.nviso.eu"/>
             <outline type="rss" text="osintme.com" xmlUrl="https://www.osintme.com/index.php/feed/" htmlUrl="https://www.osintme.com"/>

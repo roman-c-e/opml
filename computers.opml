@@ -14,7 +14,6 @@
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
             <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
             <outline text="Programming: Scott Hanselman's" xmlUrl="http://feeds.hanselman.com/ScottHanselman" type="rss" />
-            <outline text="Programming: Slack Engineering" xmlUrl="https://slack.engineering/feed" type="rss" />
             <outline text="Programming: Stack Abuse" xmlUrl="https://stackabuse.com/rss/" type="rss" />
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />

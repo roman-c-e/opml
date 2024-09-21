@@ -4,7 +4,6 @@
 		<outline text="Business - Economy" title="Business & Economy">
 			<outline text="Biz: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
 			<outline text="Biz: DerStandard" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
-			<outline text="Biz: Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
 			<outline text="Biz: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
 			<outline text="Biz: Wired" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
         </outline>

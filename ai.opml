@@ -24,7 +24,6 @@
             <outline text="Scientific American Content" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
             <outline text="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed" type="rss" />
             <outline text="Techexplore" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" type="rss" />
-            <outline text="TechSpot" xmlUrl="https://www.techspot.com/backend.xml" type="rss" />
             <outline text="TechTalks" xmlUrl="https://bdtechtalks.com/feed/" type="rss" />
             <outline text="The Conversation" xmlUrl="https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom" type="rss" />
             <outline text="THE DECODER" xmlUrl="https://the-decoder.com/feed/" type="rss" />

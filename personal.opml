@@ -6,8 +6,6 @@
 			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
 		</outline>
        	<outline text="Travel" title="Travel">
-			<outline text="Travel: NYT" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
-			<outline text="Travel: TheGuardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
 		</outline>
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
