@@ -8,7 +8,6 @@
             <outline text="DEV Community." xmlUrl="https://dev.to/feed" type="rss" />
             <outline text="Eugene Yan" xmlUrl="https://eugeneyan.com/rss/" type="rss" />
             <outline text="Google Blog" xmlUrl="https://blog.google/rss" />
-            <outline text="Gradient Flow" xmlUrl="https://gradientflow.com/feed/" type="rss" />
             <outline text="Hacker Noon" xmlUrl="https://hackernoon.com/tagged/ai/feed" type="rss" />
             <outline text="Heise: AI" xmlUrl="https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" rssowl:id="2095" />
             <outline text="Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
@@ -25,12 +24,10 @@
             <outline text="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed" type="rss" />
             <outline text="Techexplore" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/" type="rss" />
             <outline text="TechTalks" xmlUrl="https://bdtechtalks.com/feed/" type="rss" />
-            <outline text="The Conversation" xmlUrl="https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom" type="rss" />
             <outline text="THE DECODER" xmlUrl="https://the-decoder.com/feed/" type="rss" />
             <outline text="The Gradient" xmlUrl="https://thegradient.pub/rss/" type="rss" />
             <outline text="The Guardian" xmlUrl:"https://www.theguardian.com/technology/artificialintelligenceai/rss" type="rss" />
             <outline text="The Next Web" xmlUrl="https://thenextweb.com/neural/feed" type="rss" />
-            <outline text="The Register" xmlUrl="https://www.theregister.com/software/ai_ml/headlines.atom" type="rss" />
             <outline text="The TRADE" xmlUrl="https://www.thetradenews.com/feed/" type="rss" />
             <outline text="TruEra" xmlUrl="https://truera.com/feed/" htmlUrl="https://truera.com/" type="rss" />
             <outline text="Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/ai/rss/" type="rss" />

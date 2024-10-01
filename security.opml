@@ -12,10 +12,8 @@
             <outline type="rss" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
             <outline type="rss" text="DarknetHackers" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk"/>
-            <outline type="rss" text="Darktrace" xmlUrl="https://www.darktrace.com/blog/index.xml" htmlUrl="https://darktrace.com"/>
             <outline type="rss" text="DoublePulsar" xmlUrl="https://doublepulsar.com/feed"/>
             <outline type="rss" text="European Digital Rights (EDRi)" xmlUrl="http://edri.org/feed/" htmlUrl="https://edri.org/"/>
-            <outline type="rss" text="Fortinet" xmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research"/>
             <outline type="rss" text="Google Online Security" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml"/>
             <outline type="rss" text="Google Online Security" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
             <outline type="rss" text="Gynvael Coldwind" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN" htmlUrl="https://gynvael.coldwind.pl/"/>
@@ -39,7 +37,6 @@
             <outline type="rss" text="The Human Machine Interface" xmlUrl="https://h0mbre.github.io/feed.xml" htmlUrl="https://h0mbre.github.io/"/>
             <outline type="rss" text="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss"/>
             <outline type="rss" text="Trend Micro: News" xmlUrl="http://feeds.trendmicro.com/TrendMicroSimplySecurity"/>
-            <outline type="rss" text="Tripwire" xmlUrl="http://feeds.feedburner.com/tripwire-state-of-security" htmlUrl="https://www.tripwire.com/"/>
             <outline type="rss" text="VMRay" xmlUrl="https://www.vmray.com/feed/" htmlUrl="https://www.vmray.com"/>
         </outline>
 	</body>

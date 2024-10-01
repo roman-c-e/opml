@@ -14,12 +14,10 @@
 			<outline text="PersFin: Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
 			<outline text="PersFin: I Will Teach You To Be Rich" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
 			<outline text="PersFin: Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
-			<outline text="PersFin: SavingAdvice.com" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
 			<outline text="PersFin: Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
 		</outline>
 		<outline text="Startups" title="Startups">
 			<outline text="StartUps: AVC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="StartUps: Entrepreneur" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" />
 			<outline text="StartUps: Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
 			<outline text="StartUps: Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
 			<outline text="StartUps: Steve Blank" xmlUrl="https://steveblank.com/feed/" type="rss" />
