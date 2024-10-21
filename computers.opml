@@ -22,12 +22,10 @@
 		<outline text="UI / UX" title="UI / UX">
             <outline text="UI/UX: Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
             <outline text="UI/UX: NN/g" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
-            <outline text="UI/UX: UX Studio" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
         </outline>
         <outline text="Tech" title="Tech">
-		    <outline text="Tech: Uber Engineering" xmlUrl="https://www.uber.com/en-NO/blog/engineering/rss/" type="rss" />
-            <outline text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
+	        <outline text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
             <outline text="Tech: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" type="rss" />
 		    <outline text="Tech: Bloomberg Technology" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" type="rss" />
 			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />

@@ -5,14 +5,12 @@
             <outline type="rss" text="//SCADAS.EC" xmlUrl="http://scadamag.infracritical.com/index.php/feed/"/>
             <outline type="rss" text="Appsecco" xmlUrl="https://blog.appsecco.com/feed"/>
             <outline type="rss" text="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com"/>
-            <outline type="rss" text="BH Consulting" xmlUrl="http://bhconsulting.ie/feed/" htmlUrl="https://bhconsulting.ie/"/>
             <outline type="rss" text="Black Hills Information Security" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
             <outline type="rss" text="Brett Buerhaus" xmlUrl="https://buer.haus/feed/" htmlUrl="https://buer.haus"/>
             <outline type="rss" text="CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss"/>
             <outline type="rss" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
             <outline type="rss" text="DarknetHackers" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk"/>
-            <outline type="rss" text="DoublePulsar" xmlUrl="https://doublepulsar.com/feed"/>
             <outline type="rss" text="European Digital Rights (EDRi)" xmlUrl="http://edri.org/feed/" htmlUrl="https://edri.org/"/>
             <outline type="rss" text="Google Online Security" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml"/>
             <outline type="rss" text="Google Online Security" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
@@ -33,10 +31,8 @@
             <outline type="rss" text="Security Research &amp; Defense" xmlUrl="https://msrc-blog.microsoft.com/feed/"/>
             <outline type="rss" text="Sensepost" xmlUrl="https://sensepost.com/rss.xml" htmlUrl="https://sensepost.com/rss.xml"/>
             <outline type="rss" text="StefLan's Security" xmlUrl="https://steflan-security.com/feed/" htmlUrl="https://steflan-security.com"/>
-            <outline type="rss" text="Team-Cymru" xmlUrl="https://www.team-cymru.com/blog-feed.xml" htmlUrl="https://team-cymru.com"/>
             <outline type="rss" text="The Human Machine Interface" xmlUrl="https://h0mbre.github.io/feed.xml" htmlUrl="https://h0mbre.github.io/"/>
             <outline type="rss" text="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss"/>
-            <outline type="rss" text="Trend Micro: News" xmlUrl="http://feeds.trendmicro.com/TrendMicroSimplySecurity"/>
             <outline type="rss" text="VMRay" xmlUrl="https://www.vmray.com/feed/" htmlUrl="https://www.vmray.com"/>
         </outline>
 	</body>

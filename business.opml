@@ -18,9 +18,7 @@
 		</outline>
 		<outline text="Startups" title="Startups">
 			<outline text="StartUps: AVC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="StartUps: Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
 			<outline text="StartUps: Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" type="rss" />
-			<outline text="StartUps: Steve Blank" xmlUrl="https://steveblank.com/feed/" type="rss" />
 		</outline>
 	</body>
 </opml>
