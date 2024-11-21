@@ -4,7 +4,6 @@
         <outline text="Security" title="Security">
             <outline type="rss" text="//SCADAS.EC" xmlUrl="http://scadamag.infracritical.com/index.php/feed/"/>
             <outline type="rss" text="Appsecco" xmlUrl="https://blog.appsecco.com/feed"/>
-            <outline type="rss" text="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com"/>
             <outline type="rss" text="Black Hills Information Security" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
             <outline type="rss" text="Brett Buerhaus" xmlUrl="https://buer.haus/feed/" htmlUrl="https://buer.haus"/>
             <outline type="rss" text="CERT.eu Threat Intelligence" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss"/>
@@ -12,8 +11,6 @@
             <outline type="rss" text="DarknetHackers" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="Darknet" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk"/>
             <outline type="rss" text="European Digital Rights (EDRi)" xmlUrl="http://edri.org/feed/" htmlUrl="https://edri.org/"/>
-            <outline type="rss" text="Google Online Security" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml"/>
-            <outline type="rss" text="Google Online Security" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
             <outline type="rss" text="Gynvael Coldwind" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN" htmlUrl="https://gynvael.coldwind.pl/"/>
             <outline type="rss" text="Hacking Articles" xmlUrl="http://www.hackingarticles.in/feed/" htmlUrl="https://www.hackingarticles.in"/>
             <outline type="rss" text="Have I Been Pwned" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
@@ -28,7 +25,6 @@
             <outline type="rss" text="osintme.com" xmlUrl="https://www.osintme.com/index.php/feed/" htmlUrl="https://www.osintme.com"/>
             <outline type="rss" text="PortSwigger" xmlUrl="https://portswigger.net/blog/rss" htmlUrl="https://portswigger.net/blog"/>
             <outline type="rss" text="SpecterOps Team Members" xmlUrl="https://posts.specterops.io/feed" />
-            <outline type="rss" text="Security Research &amp; Defense" xmlUrl="https://msrc-blog.microsoft.com/feed/"/>
             <outline type="rss" text="Sensepost" xmlUrl="https://sensepost.com/rss.xml" htmlUrl="https://sensepost.com/rss.xml"/>
             <outline type="rss" text="StefLan's Security" xmlUrl="https://steflan-security.com/feed/" htmlUrl="https://steflan-security.com"/>
             <outline type="rss" text="The Human Machine Interface" xmlUrl="https://h0mbre.github.io/feed.xml" htmlUrl="https://h0mbre.github.io/"/>
