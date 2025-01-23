@@ -28,7 +28,6 @@
             <outline type="rss" text="Sensepost" xmlUrl="https://sensepost.com/rss.xml" htmlUrl="https://sensepost.com/rss.xml"/>
             <outline type="rss" text="StefLan's Security" xmlUrl="https://steflan-security.com/feed/" htmlUrl="https://steflan-security.com"/>
             <outline type="rss" text="The Human Machine Interface" xmlUrl="https://h0mbre.github.io/feed.xml" htmlUrl="https://h0mbre.github.io/"/>
-            <outline type="rss" text="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss"/>
             <outline type="rss" text="VMRay" xmlUrl="https://www.vmray.com/feed/" htmlUrl="https://www.vmray.com"/>
         </outline>
 	</body>

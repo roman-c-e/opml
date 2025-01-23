@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-		<outline text="Android" title="Android">
-            <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
-		</outline>
         <outline text="Programming" title="Programming">
             <outline text="Programming: Facebook Engineering" xmlUrl="https://engineering.fb.com/feed/" type="rss" />
             <outline text="Programming: Google Developers" xmlUrl="http://feeds.feedburner.com/GDBcode" type="rss" />
@@ -22,7 +19,6 @@
         </outline>
         <outline text="Tech" title="Tech">
 	        <outline text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
-            <outline text="Tech: iX" xmlUrl="https://www.heise.de/ix/rss/news-atom.xml" type="rss" />
 		    <outline text="Tech: Bloomberg Technology" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" type="rss" />
 			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
 			<outline text="Tech: NYT: Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" type="rss" />
