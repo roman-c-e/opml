@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-		<outline text="DIY" title="DIY">
-			<outline text="DIY: Doityourself.com" xmlUrl="https://www.doityourself.com/feed" type="rss" />
-		</outline>
-       	<outline text="Travel" title="Travel">
-		</outline>
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
@@ -14,19 +9,13 @@
 		<outline text="Health" title="Health">
 			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
 		</outline>
-		<outline text="Gaming" title="Gaming">
-		</outline>
 		<outline text="Movies" title="Movies">
-			<outline text="Movies: Film School Rejects" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
 			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />
 		</outline>
 		<outline text="Music" title="Music">
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
 			<outline text="Music: Pitchfork Albums" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
 			<outline text="Music: Stereogum" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
-		</outline>
-		<outline text="Television" title="Television">
-			<outline text="TV: Bleedingcool" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
 		</outline>
 	</body>
 </opml>
