@@ -5,7 +5,6 @@
             <outline text="Chip Huyen" xmlUrl="https://huyenchip.com/feed" type="rss" />
             <outline text="DEV Community." xmlUrl="https://dev.to/feed" type="rss" />
             <outline text="Hacker Noon" xmlUrl="https://hackernoon.com/tagged/ai/feed" type="rss" />
-            <outline text="Heise: AI" xmlUrl="https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" rssowl:id="2095" />
             <outline text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" type="rss" />
             <outline text="Nature.com: Machine Learning" xmlUrl="https://www.nature.com/subjects/machine-learning.rss" type="rss" />
             <outline text="Wired" xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" type="rss" />

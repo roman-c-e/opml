@@ -3,8 +3,6 @@
 	<body>
 		<outline text="Science" title="Science">
 			<outline text="Science: ORF" xmlUrl="https://rss.orf.at/science.xml" type="rss" />
-			<outline text="Science: DerStandard" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
-			<outline text="Science: Heise" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
 			<outline text="Science: Nature" xmlUrl="https://www.nature.com/nature.rss" type="rss" />
 		</outline>
 	</body>

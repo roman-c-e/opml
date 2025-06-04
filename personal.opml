@@ -7,7 +7,7 @@
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
 		<outline text="Health" title="Health">
-			<outline text="Health: DerStandard" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
+
 		</outline>
 		<outline text="Movies" title="Movies">
 			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />

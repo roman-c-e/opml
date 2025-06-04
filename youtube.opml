@@ -3,7 +3,6 @@
 	<body>
 		<outline text="Tech" title="Tech">
 			<outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
-			<outline text="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" type="rss" />
 			<outline text="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
 			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
 			<outline text="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" type="rss" />
@@ -19,8 +18,6 @@
 		</outline>
 		<outline text="Knowledge">
 			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-OJ-24roEfQ_-PCnLJSckg" type="rss" />
-			<outline text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" type="rss" />
-			<outline text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" type="rss" />
 			<outline text="TLDR News" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8OA2s1wsOR2EgJA" type="rss" />
 			<outline text="TLDR EU" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-eegKVWEgBCa4OzjnK_PtA" type="rss" />
 			<outline text="SciShow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" type="rss" />

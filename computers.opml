@@ -18,8 +18,6 @@
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
         </outline>
         <outline text="Tech" title="Tech">
-	        <outline text="Tech: Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
-			<outline text="Tech: DerStandard" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
 			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
 		</outline>
         <outline text="Reddit" title="Reddit">
