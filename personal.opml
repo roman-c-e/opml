@@ -6,9 +6,6 @@
 			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
-		<outline text="Health" title="Health">
-
-		</outline>
 		<outline text="Movies" title="Movies">
 			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />
 		</outline>

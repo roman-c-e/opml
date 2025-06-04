@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	<head>
-		<title>Heise</title>
-	</head>
 	<body>
 	    <outline text="Heise" title="Heise">
-	                <outline text="AI" xmlUrl="https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" rssowl:id="2095" />
-                    <outline text="Business" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
-		            <outline text="Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
-                	<outline text="Wissen" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
+	        <outline text="AI" xmlUrl="https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" rssowl:id="2095" />
+            <outline text="Business" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
+		    <outline text="Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
+        	<outline text="Wissen" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
 	    </outline>
 	</body>
 </opml>

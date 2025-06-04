@@ -1,20 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	<head>
-		<title>DerStandard</title>
-	</head>
 	<body>
         <outline text="derstandard" title="derstandard">
-                    <outline text="DieStandard" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
-                    <outline text="International" xmlUrl="https://www.derstandard.at/rss/international" type="rss" />
-                    <outline text="Inland" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
-                    <outline text="Kultur" xmlUrl="https://www.derstandard.at/rss/kultur" type="rss" />
-                    <outline text="Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
-                    <outline text="Business" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
-                    <outline text="Karriere" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
-                    <outline text="Web" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
-                    <outline text="Health" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
-		        	<outline text="Science" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
+            <outline text="DieStandard" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
+            <outline text="International" xmlUrl="https://www.derstandard.at/rss/international" type="rss" />
+            <outline text="Inland" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
+            <outline text="Kultur" xmlUrl="https://www.derstandard.at/rss/kultur" type="rss" />
+            <outline text="Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
+            <outline text="Business" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
+            <outline text="Karriere" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
+            <outline text="Web" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
+            <outline text="Health" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
+		    <outline text="Science" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
         </outline>
 	</body>
 </opml>

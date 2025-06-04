@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
 	<body>
-			<outline text="World" title="World">
-    			<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
-    		</outline>
+		<outline text="World" title="World">
+    		<outline text="India: TimesofIndia: World" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
+   		</outline>
 		<outline text="Android" title="Android">
             <outline text="Android: Google" xmlUrl="https://blog.google/products/android/rss" type="rss" />
 		</outline>
@@ -89,10 +89,10 @@
             <outline text="Tech.eu: Deep Tech" xmlUrl="https://tech.eu/category/deep-tech/feed" type="rss" />
             <outline type="rss" text="Threat Analysis Group (TAG)" xmlUrl="https://blog.google/threat-analysis-group/rss"/>
         </outline>
-        		<outline text="Science" title="Science">
-        			<outline text="Science: ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
-        			<outline text="Science: Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" type="rss" />
-        			<outline text="Science: Scientific American: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
-        		</outline>
+        <outline text="Science" title="Science">
+       		<outline text="Science: ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
+       		<outline text="Science: Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" type="rss" />
+       		<outline text="Science: Scientific American: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" type="rss" />
+       	</outline>
     </body>
 </opml>

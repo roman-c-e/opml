@@ -5,8 +5,5 @@
 			<outline text="Biz: NYT: Small Business" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml" type="rss" />
 			<outline text="Biz: Wired" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" type="rss" />
         </outline>
-		<outline text="Career" title="Career">
-
-		</outline>
 	</body>
 </opml>
