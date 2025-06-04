@@ -4,29 +4,7 @@
 		<title>NEWS</title>
 	</head>
 	<body>
-        <outline text="derstandard" title="derstandard">
-                    <outline text="DerStandard: DieStandard" xmlUrl="https://www.derstandard.at/rss/diestandard" type="rss" />
-                    <outline text="DerStandard: International" xmlUrl="https://www.derstandard.at/rss/international" type="rss" />
-                    <outline text="DerStandard: Inland" xmlUrl="https://www.derstandard.at/rss/inland" type="rss" />
-                    <outline text="DerStandard: Kultur" xmlUrl="https://www.derstandard.at/rss/kultur" type="rss" />
-                    <outline text="DerStandard: Panorama" xmlUrl="https://www.derstandard.at/rss/panorama" type="rss" />
-                    <outline text="DerStandard: Business" xmlUrl="https://www.derstandard.at/rss/wirtschaft" type="rss" />
-                    <outline text="DerStandard: Karriere" xmlUrl="https://www.derstandard.at/rss/karriere" type="rss" />
-                    <outline text="DerStandard: Web" xmlUrl="https://www.derstandard.at/rss/web" type="rss" />
-                    <outline text="DerStandard: Health" xmlUrl="https://www.derstandard.at/rss/gesundheit" type="rss" />
-		        	<outline text="DerStandard: Science" xmlUrl="https://www.derstandard.at/rss/wissenschaft" type="rss" />
-        </outline>
-
-	    <outline text="Heise" title="Heise">
-	                <outline text="Heise: AI" xmlUrl="https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" rssowl:id="2095" />
-                    <outline text="Heise: Business" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wirtschaft-atom.xml" type="rss" />
-		            <outline text="Heise: Netzpolitik" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Netzpolitik-atom.xml" type="rss" />
-                	<outline text="Heise: Wissen" xmlUrl="https://www.heise.de/rss/heise-Rubrik-Wissen-atom.xml" type="rss" />
-	    </outline>
-
-
 		<outline text="AT" title="AT">
-			<outline text="AT: ORF" xmlUrl="https://rss.orf.at/news.xml" type="rss" />
 			<outline text="AT: ZackZack" xmlUrl="https://zackzack.at/feed" type="rss" />
 		</outline>
 		<outline text="NO" title="NO">
