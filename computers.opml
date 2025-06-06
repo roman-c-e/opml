@@ -3,7 +3,6 @@
 	<body>
 		<outline text="Apple" title="Apple">
     		<outline text="Apple: Apple Newsroom" title="Apple: Apple Newsroom" description="" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
-   			<outline text="Apple: AppleInsider News" title="Apple: AppleInsider News" description="AppleInsider News Feed" xmlUrl="https://appleinsider.com/rss/news/" type="rss" />
     		<outline text="Apple: MacRumors: Mac News and Rumors - Mac Blog" title="Apple: MacRumors: Mac News and Rumors - Mac Blog" description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="http://feeds.macrumors.com/MacRumors-All" type="rss" />
     	</outline>
         <outline text="Programming" title="Programming">
@@ -19,9 +18,6 @@
         </outline>
         <outline text="Tech" title="Tech">
 			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
-		</outline>
-        <outline text="Reddit" title="Reddit">
-            <outline text="Reddit: Programming" xmlUrl="https://www.reddit.com/r/programming/.rss" type="rss" />
 		</outline>
 	</body>
 </opml>
