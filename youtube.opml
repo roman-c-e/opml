@@ -3,22 +3,13 @@
 	<body>
 		<outline text="Tech" title="Tech">
 			<outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
-			<outline text="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" type="rss" />
 			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
 			<outline text="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" type="rss" />
 			<outline text="DammitJeff" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXOSur_wiS9TK0WUhJrYrlA" type="rss" />
 			<outline text="Drew Gooden" xmlUrl="https://www.youtube.com/@drewisgooden" type="rss" />
 		</outline>
-		<outline text="Music">
-			<outline text="Sub Pop" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=subpoprecords" type="rss" />
-			<outline text="Future Islands" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClqoxjo1S73pcBTJs39KYHA" type="rss" />
-			<outline text="Trash Theory" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxHcoI9ndIdAihEB7ODTOfQ" type="rss" />
-		</outline>
-		<outline text="Movie">
-		</outline>
 		<outline text="Knowledge">
 			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-OJ-24roEfQ_-PCnLJSckg" type="rss" />
-			<outline text="SciShow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" type="rss" />
 		</outline>ß
 		<outline text="Politics">
 			<outline text="Mark Reicher" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcJ468cakFPyFEcjrFGz0Og" type="rss" />

@@ -2,8 +2,6 @@
 <opml version="1.0">
 	<body>
 		<outline text="Funny" title="Funny">
-			<outline text="Fun: Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
-			<outline text="Fun: The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
 		<outline text="Movies" title="Movies">

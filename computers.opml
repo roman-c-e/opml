@@ -7,17 +7,15 @@
     	</outline>
         <outline text="Programming" title="Programming">
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
-            <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
             <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
             <outline text="Programming: DEV Community" xmlUrl="https://dev.to/feed" type="rss" />
         </outline>
 		<outline text="UI / UX" title="UI / UX">
-            <outline text="UI/UX: Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
             <outline text="UI/UX: UX Movement" xmlUrl="https://uxmovement.com/feed/" type="rss" />
         </outline>
-        <outline text="Tech" title="Tech">
-			<outline text="Tech: Hacker News" xmlUrl="https://hnrss.org/frontpage" type="rss" />
-		</outline>
+		<outline text="blogs" title="Blogs">
+            <outline text="Karl Voit" xmlUrl="https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" type="rss" />
+            <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
 	</body>
 </opml>
