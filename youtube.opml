@@ -4,17 +4,10 @@
 		<outline text="Tech" title="Tech">
 			<outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
 			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
-			<outline text="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" type="rss" />
 			<outline text="DammitJeff" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXOSur_wiS9TK0WUhJrYrlA" type="rss" />
-			<outline text="Drew Gooden" xmlUrl="https://www.youtube.com/@drewisgooden" type="rss" />
 		</outline>
 		<outline text="Knowledge">
 			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-OJ-24roEfQ_-PCnLJSckg" type="rss" />
 		</outline>ß
-		<outline text="Politics">
-			<outline text="Mark Reicher" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcJ468cakFPyFEcjrFGz0Og" type="rss" />
-		    <outline text="VisualPolitikDE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHmNfmKhIkfBMTrr5QU-gAQ" type="rss" />
-		    <outline text="VisualEconomikDE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5ysObh1s_qTYq_37-KffQ" type="rss" />
-		</outline>
 	</body>
 </opml>
