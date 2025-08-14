@@ -17,5 +17,6 @@
 		<outline text="blogs" title="Blogs">
             <outline text="Karl Voit" xmlUrl="https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" type="rss" />
             <outline text="Programming: Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
+            <outline text="Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" type="rss" />
 	</body>
 </opml>
