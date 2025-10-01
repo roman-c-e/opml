@@ -2,12 +2,8 @@
 <opml version="1.0">
 	<body>
 		<outline text="Tech" title="Tech">
-			<outline text="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" type="rss" />
 			<outline text="ChrisTitusTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" type="rss" />
 			<outline text="DammitJeff" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXOSur_wiS9TK0WUhJrYrlA" type="rss" />
 		</outline>
-		<outline text="Knowledge">
-			<outline text="Future Proof" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-OJ-24roEfQ_-PCnLJSckg" type="rss" />
-		</outline>ß
 	</body>
 </opml>

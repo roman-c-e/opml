@@ -7,7 +7,6 @@
     	</outline>
         <outline text="Programming" title="Programming">
             <outline text="Programming: JetBrains" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
-            <outline text="Programming: Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
             <outline text="Programming: The GitHub" xmlUrl="https://github.blog/feed/" type="rss" />
             <outline text="Programming: DEV Community" xmlUrl="https://dev.to/feed" type="rss" />
         </outline>

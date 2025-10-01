@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<body>
 		<outline text="ORF" title="ORF">
-			<outline text="Science" xmlUrl="https://rss.orf.at/science.xml" type="rss" />
+
 		</outline>
 	</body>
 </opml>

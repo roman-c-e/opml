@@ -4,12 +4,8 @@
 		<outline text="Funny" title="Funny">
 			<outline text="Fun: xkcd.com" xmlUrl="https://xkcd.com/rss.xml" type="rss" />
 		</outline>
-		<outline text="Movies" title="Movies">
-			<outline text="Movies: Bleedingcool" xmlUrl="https://bleedingcool.com/movies/feed/" type="rss" />
-		</outline>
 		<outline text="Music" title="Music">
 			<outline text="Music: Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" type="rss" />
-			<outline text="Music: Pitchfork Albums" xmlUrl="http://pitchfork.com/rss/reviews/albums/" type="rss" />
 			<outline text="Music: Stereogum" xmlUrl="https://www.stereogum.com/feed/" type="rss" />
 		</outline>
 	</body>
